@@ -1,0 +1,338 @@
+2021-07-03T17:19:05.547Z - info: Website generation (lazy) started at 1:19:05 am
+2021-07-03T17:19:10.053Z - info: Building assets...
+2021-07-03T17:19:13.639Z - info: Assets built
+2021-07-03T17:19:13.639Z - info: Generating landing page...
+2021-07-03T17:19:14.544Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-03T17:19:15.238Z - info: Site data built
+2021-07-03T17:19:15.238Z - info: Website generation (lazy) complete! Total build time: 9.724s
+2021-07-03T17:19:15.870Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-03T17:19:15.870Z - info: Press CTRL+C to stop ...
+2021-07-03T17:19:16.302Z - info: Building files that are not viewed in the background...
+2021-07-03T17:19:25.923Z - debug:  
+2021-07-03T17:19:25.924Z - debug:  
+2021-07-03T17:19:25.926Z - debug:  
+2021-07-03T17:19:26.245Z - debug:  
+2021-07-03T17:19:26.246Z - debug:  
+2021-07-03T17:19:27.559Z - debug:  
+2021-07-03T17:21:02.799Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tutorials as some of its dependencies were changed since the last visit
+2021-07-03T17:21:04.502Z - debug:  
+2021-07-03T17:21:07.536Z - info: Site data built
+2021-07-03T17:21:07.536Z - info: Lazy website regeneration complete! Total build time: 4.739s
+2021-07-03T17:21:29.130Z - debug:  
+2021-07-03T17:21:34.806Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\lectures as some of its dependencies were changed since the last visit
+2021-07-03T17:21:38.650Z - info: Site data built
+2021-07-03T17:21:38.651Z - info: Lazy website regeneration complete! Total build time: 3.845s
+2021-07-03T17:21:41.671Z - debug:  
+2021-07-03T17:21:41.672Z - debug:  
+2021-07-03T17:21:49.290Z - info: Background building completed!
+2021-07-03T17:21:49.290Z - info: All opened pages will be reloaded.
+2021-07-03T17:21:50.309Z - debug:  
+2021-07-03T17:22:15.019Z - info: Website generation (lazy) started at 1:22:10 am
+2021-07-03T17:22:19.562Z - info: Building assets...
+2021-07-03T17:22:24.004Z - info: Assets built
+2021-07-03T17:22:24.005Z - info: Generating landing page...
+2021-07-03T17:22:24.621Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-03T17:22:25.391Z - info: Site data built
+2021-07-03T17:22:25.391Z - info: Website generation (lazy) complete! Total build time: 15.283s
+2021-07-03T17:22:26.090Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-03T17:22:26.090Z - info: Press CTRL+C to stop ...
+2021-07-03T17:22:26.445Z - info: Building files that are not viewed in the background...
+2021-07-03T17:22:37.872Z - debug:  
+2021-07-03T17:22:37.872Z - debug:  
+2021-07-03T17:22:37.872Z - debug:  
+2021-07-03T17:22:37.872Z - debug:  
+2021-07-03T17:22:37.872Z - debug:  
+2021-07-03T17:22:38.085Z - debug:  
+2021-07-03T17:22:48.528Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\weeklySchedule as some of its dependencies were changed since the last visit
+2021-07-03T17:22:49.909Z - info: Site data built
+2021-07-03T17:22:49.909Z - info: Lazy website regeneration complete! Total build time: 1.382s
+2021-07-03T17:22:50.640Z - debug:  
+2021-07-03T17:22:50.644Z - debug:  
+2021-07-03T17:22:56.739Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tools as some of its dependencies were changed since the last visit
+2021-07-03T17:22:58.096Z - info: Site data built
+2021-07-03T17:22:58.097Z - info: Lazy website regeneration complete! Total build time: 1.357s
+2021-07-03T17:23:04.640Z - warn:  Error: UNKNOWN: unknown error, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\siteData.json'
+2021-07-03T17:23:07.455Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\revisionControl\forkingWorkflow\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:288:18)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
+2021-07-03T17:23:13.381Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\principles\solidPrinciples\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+2021-07-03T17:23:13.538Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\principles\openClosedPrinciple\index.html'
+2021-07-03T17:23:14.613Z - debug:  
+2021-07-03T17:23:15.376Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\principles\separationOfConcernsPrinciple\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+2021-07-03T17:23:41.768Z - info: Website generation (lazy) started at 1:23:41 am
+2021-07-03T17:23:46.409Z - info: Building assets...
+2021-07-03T17:23:50.213Z - info: Assets built
+2021-07-03T17:23:50.214Z - info: Generating landing page...
+2021-07-03T17:23:50.848Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-03T17:23:51.658Z - info: Site data built
+2021-07-03T17:23:51.658Z - info: Website generation (lazy) complete! Total build time: 9.93s
+2021-07-03T17:23:52.354Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-03T17:23:52.354Z - info: Press CTRL+C to stop ...
+2021-07-03T17:23:52.706Z - info: Building files that are not viewed in the background...
+2021-07-03T17:24:03.627Z - debug:  
+2021-07-03T17:24:03.628Z - debug:  
+2021-07-03T17:24:03.628Z - debug:  
+2021-07-03T17:24:03.628Z - debug:  
+2021-07-03T17:24:04.438Z - debug:  
+2021-07-03T17:24:04.496Z - debug:  
+2021-07-03T17:24:13.117Z - warn:  Error: UNKNOWN: unknown error, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\siteData.json'
+2021-07-03T17:24:13.652Z - error: Failed to copy asset markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, mkdir 'C:\repos\nus-cs2103\cs2103-website-base\_site\plugins\markbind-plugin-anchors'
+2021-07-03T17:24:14.602Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\appendixE-gitHub as some of its dependencies were changed since the last visit
+2021-07-03T17:24:17.545Z - info: Site data built
+2021-07-03T17:24:17.546Z - info: Lazy website regeneration complete! Total build time: 2.944s
+2021-07-03T17:24:18.415Z - debug:  
+2021-07-03T17:24:18.421Z - debug:  
+2021-07-03T17:24:18.666Z - debug:  
+2021-07-03T17:24:18.726Z - debug:  
+2021-07-03T17:24:18.901Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\uml\classDiagrams\composition\what\index.html'
+2021-07-03T17:24:21.458Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\testing\testingTypes\regressionTesting\what\index.html'
+2021-07-03T17:24:21.491Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\testing\testingTypes\unitTesting\what\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
+2021-07-03T17:24:21.828Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\testing\testingTypes\unitTesting\what\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:288:18)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
+2021-07-03T17:24:32.459Z - info: Website generation (lazy) started at 1:24:32 am
+2021-07-03T17:24:36.394Z - info: Building assets...
+2021-07-03T17:24:40.711Z - info: Assets built
+2021-07-03T17:24:40.712Z - info: Generating landing page...
+2021-07-03T17:24:41.271Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-03T17:24:41.973Z - info: Site data built
+2021-07-03T17:24:41.973Z - info: Website generation (lazy) complete! Total build time: 9.546s
+2021-07-03T17:24:42.643Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-03T17:24:42.644Z - info: Press CTRL+C to stop ...
+2021-07-03T17:24:42.988Z - info: Building files that are not viewed in the background...
+2021-07-03T17:24:52.496Z - debug:  
+2021-07-03T17:24:52.497Z - debug:  
+2021-07-03T17:24:52.497Z - debug:  
+2021-07-03T17:24:52.497Z - debug:  
+2021-07-03T17:24:52.502Z - debug:  
+2021-07-03T17:24:52.902Z - debug:  
+2021-07-03T17:25:00.637Z - warn:  Error: UNKNOWN: unknown error, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\siteData.json'
+2021-07-03T17:25:07.240Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\testing\testingTypes\unitTesting\what\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
+2021-07-03T17:25:07.672Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\testing\testingTypes\unitTesting\what\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
+2021-07-03T17:25:07.758Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\testing\testingTypes\integrationTesting\index.html'
+2021-07-03T17:25:07.938Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\testing\testingTypes\unitTesting\what\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:288:18)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
+2021-07-03T17:25:18.049Z - info: Website generation (lazy) started at 1:25:18 am
+2021-07-03T17:25:22.210Z - info: Building assets...
+2021-07-03T17:25:26.185Z - info: Assets built
+2021-07-03T17:25:26.186Z - info: Generating landing page...
+2021-07-03T17:25:26.907Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-03T17:25:27.736Z - info: Site data built
+2021-07-03T17:25:27.737Z - info: Website generation (lazy) complete! Total build time: 9.718s
+2021-07-03T17:25:28.424Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-03T17:25:28.425Z - info: Press CTRL+C to stop ...
+2021-07-03T17:25:28.798Z - info: Building files that are not viewed in the background...
+2021-07-03T17:25:38.889Z - debug:  
+2021-07-03T17:25:38.889Z - debug:  
+2021-07-03T17:25:38.889Z - debug:  
+2021-07-03T17:25:38.890Z - debug:  
+2021-07-03T17:25:38.890Z - debug:  
+2021-07-03T17:25:39.313Z - debug:  
+2021-07-03T17:26:10.731Z - warn:  Error: UNKNOWN: unknown error, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\siteData.json'
+2021-07-03T17:26:12.265Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\uml\sequenceDiagrams\introduction\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:288:18)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
+2021-07-03T17:26:12.274Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\uml\sequenceDiagrams\objectDeletion\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:288:18)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
+2021-07-03T17:26:13.755Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\uml\classDiagrams\introduction\what\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
+2021-07-03T17:26:17.635Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\revisionControl\forkingWorkflow\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
+2021-07-03T17:28:09.103Z - info: Website generation (lazy) started at 1:28:08 am
+2021-07-03T17:28:13.624Z - info: Building assets...
+2021-07-03T17:28:18.542Z - info: Assets built
+2021-07-03T17:28:18.543Z - info: Generating landing page...
+2021-07-03T17:28:19.245Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-03T17:28:20.032Z - info: Site data built
+2021-07-03T17:28:20.032Z - info: Website generation (lazy) complete! Total build time: 11.115s
+2021-07-03T17:28:20.728Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-03T17:28:20.728Z - info: Press CTRL+C to stop ...
+2021-07-03T17:28:21.122Z - info: Building files that are not viewed in the background...
+2021-07-03T17:28:32.543Z - debug:  
+2021-07-03T17:28:32.544Z - debug:  
+2021-07-03T17:28:32.544Z - debug:  
+2021-07-03T17:28:32.545Z - debug:  
+2021-07-03T17:28:32.545Z - debug:  
+2021-07-03T17:28:32.652Z - debug:  
+2021-07-03T17:28:56.885Z - warn:  Error: UNKNOWN: unknown error, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\siteData.json'
+2021-07-03T17:28:58.799Z - error: Failed to copy asset markbind-plugin-anchors.css for plugin markbind-plugin-anchors
+Error: ENOENT: no such file or directory, mkdir 'C:\repos\nus-cs2103\cs2103-website-base\_site\plugins\markbind-plugin-anchors'
+2021-07-03T17:29:04.415Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\oop\inheritance\what\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:288:18)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
+2021-07-03T17:29:04.825Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\oop\inheritance\what\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+2021-07-03T17:29:04.913Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\oop\inheritance\what\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:292:16)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+2021-07-03T17:29:05.353Z - error:  Error: ENOENT: no such file or directory, open 'C:\repos\nus-cs2103\cs2103-website-base\_site\book\oop\inheritance\what\unit-inElsewhere-asFlat._include_.html'
+    at Object.openSync (fs.js:498:3)
+    at Object.readFileSync (fs.js:394:35)
+    at Object.<anonymous> (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:277:37)
+    at initialize.exports.each (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\cheerio\lib\api\traversing.js:300:24)
+    at Page.collectHeadingsAndKeywordsInContent (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:254:8)
+    at Page.collectHeadingsAndKeywords (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:232:10)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:489:10)
+    at async C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:11
