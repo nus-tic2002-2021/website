@@ -1233,3 +1233,16 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\d
 2021-07-09T15:50:15.336Z - info: Lazy website regeneration complete! Total build time: 3.475s
 2021-07-09T15:52:12.307Z - info: Website generation started at 11:52:10 pm
 2021-07-09T15:52:18.189Z - info: Building assets...
+2021-07-09T15:52:23.713Z - info: Assets built
+2021-07-09T15:52:23.714Z - info: Generating pages...
+2021-07-09T15:52:32.722Z - debug:  
+2021-07-09T15:52:32.722Z - debug:  
+2021-07-09T15:52:32.723Z - debug:  
+2021-07-09T15:52:32.723Z - debug:  
+2021-07-09T15:52:32.724Z - debug:  
+2021-07-09T15:53:06.060Z - debug:  
+2021-07-09T15:53:48.962Z - info: Pages built
+2021-07-09T15:53:49.752Z - info: Site data built
+2021-07-09T15:53:49.752Z - info: Website generation complete! Total build time: 99.397s
+2021-07-09T15:53:49.752Z - info: Build success!
+2021-07-09T15:54:03.976Z - info: Deployed at https://nus-tic2002-2021.github.io/website!

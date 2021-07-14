@@ -1,0 +1,36 @@
+2021-07-09T16:04:27.123Z - info: Website generation (lazy) started at 12:04:22 am
+2021-07-09T16:04:34.270Z - info: Building assets...
+2021-07-09T16:04:39.828Z - info: Assets built
+2021-07-09T16:04:39.828Z - info: Generating landing page...
+2021-07-09T16:04:40.429Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-09T16:04:41.337Z - info: Site data built
+2021-07-09T16:04:41.337Z - info: Website generation (lazy) complete! Total build time: 18.748s
+2021-07-09T16:04:42.146Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-09T16:04:42.146Z - info: Press CTRL+C to stop ...
+2021-07-09T16:05:52.509Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\timeline as some of its dependencies were changed since the last visit
+2021-07-09T16:05:58.636Z - info: Site data built
+2021-07-09T16:05:58.637Z - info: Lazy website regeneration complete! Total build time: 6.13s
+2021-07-09T16:07:20.487Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\index as some of its dependencies were changed since the last visit
+2021-07-09T16:07:21.434Z - info: Site data built
+2021-07-09T16:07:21.435Z - info: Lazy website regeneration complete! Total build time: 0.949s
+2021-07-09T16:07:24.735Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week3\project as some of its dependencies were changed since the last visit
+2021-07-09T16:07:25.623Z - info: Site data built
+2021-07-09T16:07:25.623Z - info: Lazy website regeneration complete! Total build time: 0.889s
+2021-07-09T16:09:17.313Z - info: Website generation started at 12:09:14 am
+2021-07-09T16:09:24.139Z - info: Building assets...
+2021-07-09T16:09:30.046Z - info: Assets built
+2021-07-09T16:09:30.047Z - info: Generating pages...
+2021-07-09T16:09:39.065Z - debug:  
+2021-07-09T16:09:39.066Z - debug:  
+2021-07-09T16:09:39.066Z - debug:  
+2021-07-09T16:09:39.066Z - debug:  
+2021-07-09T16:09:39.066Z - debug:  
+2021-07-09T16:09:39.066Z - debug:  
+2021-07-09T16:11:18.332Z - debug:  
+2021-07-09T16:11:27.596Z - debug:  
+2021-07-09T16:11:27.596Z - debug:  
+2021-07-09T16:11:32.184Z - info: Pages built
+2021-07-09T16:11:33.199Z - info: Site data built
+2021-07-09T16:11:33.199Z - info: Website generation complete! Total build time: 138.384s
+2021-07-09T16:11:33.199Z - info: Build success!
+2021-07-09T16:11:47.789Z - info: Deployed at https://nus-tic4001-ay2122s1.github.io/website!

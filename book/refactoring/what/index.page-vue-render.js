@@ -26,6 +26,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Refactoring is not rewritin
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-pill badge-warning"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" Some IDEs have builtin support for basic refactorings such as automatically renaming a variable/method/class in all places it has been used.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Fri, 9 Jul 2021, 23:52:23 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
 }];
   

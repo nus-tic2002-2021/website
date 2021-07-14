@@ -266,7 +266,7 @@ with(this){return _c('ul',[_c('li',[_v("Copy the jar file into an empty folder")
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-pill badge-warning"},[_c('span',{staticClass:"fas fa-lightbulb",attrs:{"aria-hidden":"true"}})]),_v(" Refer to the tutorial "),_c('a',{attrs:{"href":"https://se-education.org/guides/tutorials/jar.html"}},[_c('em',[_v("Working with JAR files")]),_v(" @SE-EDU/guides")]),_v(" to find how to create JAR files.")])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-exclamation-sign",attrs:{"aria-hidden":"true"}})]),_v(" Do not commit the JAR file created. Instead, you can make the JAR file available in the following manner.")])}
+with(this){return _c('p',[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-exclamation-sign",attrs:{"aria-hidden":"true"}})]),_v(" If your project is being revision controlled using Git/GitHub, do not commit the JAR file created. Instead, you can make the JAR file available in the following manner.")])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("Go to your fork on GitHub and "),_c('a',{attrs:{"href":"https://help.github.com/en/articles/creating-releases"}},[_v("create a new "),_c('em',[_v("release")])]),_v(".")]),_v(" "),_c('li',[_v("In the page where you fill the details of the release,\n"),_c('ul',[_c('li',[_v("give an appropriate version number e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("v0.1")])]),_v(" "),_c('li',[_v("attach the JAR file where it says "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Attach binaries by dropping them ...")]),_v(".")])])])])}
@@ -542,6 +542,6 @@ with(this){return _c('h3',{attrs:{"id":"d-merchandise"}},[_c('span',{staticClass
 with(this){return _c('p',[_v("Support managing info about merchandise "),_c('span',{staticClass:"dimmed"},[_v("e.g., a property agent to keep track of properties, a collector of stamps keep track of items in the collection")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Fri, 9 Jul 2021, 23:52:23 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
 }];
   
