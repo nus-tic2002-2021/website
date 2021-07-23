@@ -5,22 +5,22 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"error-handling"}},[_c('span',{staticClass:"anchor",attrs:{"id":"error-handling"}}),_c('span',[_v("Error handling")])])])])}
+with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"error-handling"}},[_c('span',{staticClass:"anchor",attrs:{"id":"error-handling"}}),_c('span',[_v("Error handling")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#error-handling","onclick":"event.stopPropagation()"}})])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})]),_v(" This is a "),_c('strong',[_v("printer-friendly")]),_v(" version. It omits exercises, optional topics (i.e., four-star topics), and other extra content such as learning outcomes.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-2"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-2","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"introduction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('blockquote',[_c('p',[_v("Well-written applications include error-handling code that allows them to recover gracefully from unexpected errors. When an error occurs, the application may need to request user intervention, or it may be able to recover on its own. In extreme cases, the application may log the user off or shut down the system. -- "),_c('sub',[_c('a',{attrs:{"href":"https://msdn.microsoft.com/en-us/library/windows/desktop/ms679320(v=vs.85).aspx"}},[_v("Microsoft")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-3"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-3"}}),_c('span',[_v("Exceptions")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-3","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"exceptions"}},[_c('span',{staticClass:"anchor",attrs:{"id":"exceptions"}}),_c('span',[_v("Exceptions")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#exceptions","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Exceptions are used to deal with "),_c('em',[_v("'unusual' but not entirely unexpected")]),_v(" situations")]),_v(" that the program might encounter at runtime.")])}
@@ -44,7 +44,7 @@ with(this){return _c('ul',[_c('li',[_v("The ability to propagate error informati
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_v("In general, use exceptions only for 'unusual' conditions. Use normal "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("return")]),_v(" statements to pass control to the caller for conditions that are 'normal'.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-4"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-4"}}),_c('span',[_v("Assertions")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-4","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"assertions"}},[_c('span',{staticClass:"anchor",attrs:{"id":"assertions"}}),_c('span',[_v("Assertions")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#assertions","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Assertions")]),_v(" are used to define assumptions about the program state so that the runtime can verify them.")]),_v(" An assertion failure indicates a possible bug in the code "),_c('span',{staticClass:"dimmed"},[_v("because the code has resulted in a program state that violates an assumption about how the code "),_c('em',[_v("should")]),_v(" behave")]),_v(".")])}
@@ -80,7 +80,7 @@ with(this){return _c('p',[_c('strong',[_v("Exceptions and assertions are two com
 with(this){return _c('ul',[_c('li',[_v("The raising of an exception indicates an unusual condition created by the user "),_c('span',{staticClass:"dimmed"},[_v("(e.g.  user inputs an unacceptable input)")]),_v(" or the environment "),_c('span',{staticClass:"dimmed"},[_v("(e.g., a file needed for the program is missing)")]),_v(".")]),_v(" "),_c('li',[_v("An assertion failure indicates the programmer made a mistake in the code "),_c('span',{staticClass:"dimmed"},[_v("(e.g., a null value is returned from a method that is not supposed to return null under any circumstances)")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-5"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-5"}}),_c('span',[_v("Logging")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-5","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"logging"}},[_c('span',{staticClass:"anchor",attrs:{"id":"logging"}}),_c('span',[_v("Logging")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#logging","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Logging")]),_v(" is the deliberate recording of certain information during a program execution for future reference.")]),_v(" Logs are typically written to a log file but it is also possible to log information in other ways "),_c('span',{staticClass:"dimmed"},[_v("e.g. into a database or a remote server")]),_v(".")])}
@@ -89,6 +89,6 @@ with(this){return _c('p',[_c('strong',[_c('em',[_v("Logging")]),_v(" is the deli
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Logging")]),_v(" can be useful for troubleshooting problems")]),_v(". A good logging system records some system information regularly. When bad things happen to a system "),_c('span',{staticClass:"dimmed"},[_v("e.g. an unanticipated failure")]),_v(", their associated log files may provide indications of what went wrong and actions can then be taken to prevent it from happening again.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

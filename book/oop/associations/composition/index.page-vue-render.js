@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain the meaning of composition")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Paradigms → OOP → Associations →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"composition"}},[_c('span',{staticClass:"anchor",attrs:{"id":"composition"}}),_c('span',[_v("Composition")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"composition"}},[_c('span',{staticClass:"anchor",attrs:{"id":"composition"}}),_c('span',[_v("Composition")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#composition","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("A composition is an association that represents a strong "),_c('em',[_v("whole-part")]),_v(" relationship.")]),_v(" When the "),_c('em',[_v("whole")]),_v(" is destroyed, "),_c('em',[_v("parts")]),_v(" are destroyed too i.e., the "),_c('em',[_v("part")]),_v(" should not exist without being attached to a "),_c('em',[_v("whole")]),_v(".")])}
@@ -41,6 +41,6 @@ with(this){return _c('h5',{attrs:{"id":"implementing-composition"}},[_c('span',{
 with(this){return _c('p',[_c('strong',[_v("Composition is implemented using a normal variable.")]),_v(" If correctly implemented, the ‘part’ object will be deleted when the ‘whole’ object is deleted. Ideally, the ‘part’ object may not even be visible to clients of the ‘whole’ object.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

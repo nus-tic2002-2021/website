@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain issue trackers")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Project Management → Project Planning →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"issue-trackers"}},[_c('span',{staticClass:"anchor",attrs:{"id":"issue-trackers"}}),_c('span',[_v("Issue trackers")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"issue-trackers"}},[_c('span',{staticClass:"anchor",attrs:{"id":"issue-trackers"}}),_c('span',[_v("Issue trackers")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#issue-trackers","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Keeping track of project tasks "),_c('span',{staticClass:"dimmed"},[_v("(who is doing what, which tasks are ongoing, which tasks are done etc.)")]),_v(" is an essential part of project management. In small projects, it may be possible to keep track of tasks using simple tools such as online spreadsheets or general-purpose/light-weight task tracking tools such as Trello. Bigger projects need more sophisticated task tracking tools.")])}
@@ -23,6 +23,6 @@ with(this){return _c('p',[_v("Keeping track of project tasks "),_c('span',{stati
 with(this){return _c('p',[_c('strong',[_v("Issue trackers (sometimes called bug trackers) are commonly used to track task assignment and progress.")]),_v(" Most online project management software such as GitHub, SourceForge, and BitBucket come with an integrated issue tracker.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

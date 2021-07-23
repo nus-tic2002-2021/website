@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('nav',[_c('ul',{staticClass:"pagination mt-2"},[_c('li',{staticClass:"page-item"},[_c('a',{staticClass:"page-link",attrs:{"href":"/website/schedule/week1"}},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-chevron-left",attrs:{"aria-hidden":"true"}}),_v(" "),_c('strong',[_v("Prev. Week")])])])]),_v(" "),_c('li',{staticClass:"page-item"},[_v("   ")]),_v(" "),_c('li',{staticClass:"page-item"},[_c('a',{staticClass:"page-link",attrs:{"href":"/website/schedule/week2/index.html"}},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-bell",attrs:{"aria-hidden":"true"}})])]),_v(" Summary")])]),_v(" "),_c('li',{staticClass:"page-item"},[_c('a',{staticClass:"page-link",attrs:{"href":"/website/schedule/week2/topics.html"}},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-book",attrs:{"aria-hidden":"true"}})])]),_v(" Topics")])]),_v(" "),_c('li',{staticClass:"page-item active"},[_c('a',{staticClass:"page-link",attrs:{"href":"/website/schedule/week2/admin.html"}},[_c('span',[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-check",attrs:{"aria-hidden":"true"}})])]),_v(" Tasks")])]),_v(" "),_c('li',{staticClass:"page-item"},[_v("   ")]),_c('li',{staticClass:"page-item"},[_c('a',{staticClass:"page-link",attrs:{"href":"/website/schedule/week3"}},[_c('span',[_c('strong',[_v("Next Week")]),_v(" "),_c('span',{staticClass:"glyphicon glyphicon-chevron-right",attrs:{"aria-hidden":"true"}})])])])])])}
@@ -26,6 +26,6 @@ with(this){return _c('ul',[_c('li',[_v("See the panel below:")])])}
 with(this){return _c('ul',[_c('li',[_v("As usual, submit weekly programming exercise.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

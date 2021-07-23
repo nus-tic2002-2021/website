@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can improve code quality using technique: explain what and why, not how ")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Code Quality → Comments → Intermediate →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"explain-what-and-why-not-how"}},[_c('span',{staticClass:"anchor",attrs:{"id":"explain-what-and-why-not-how"}}),_c('span',[_v("Explain WHAT and WHY, not HOW")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"explain-what-and-why-not-how"}},[_c('span',{staticClass:"anchor",attrs:{"id":"explain-what-and-why-not-how"}}),_c('span',[_v("Explain WHAT and WHY, not HOW")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#explain-what-and-why-not-how","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("Comments should explain the "),_c('em',[_v("what")]),_v(" and "),_c('em',[_v("why")]),_v(" aspects of the code, rather than the "),_c('em',[_v("how")]),_v(" aspect.")])}
@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('span',{staticStyle:{"color":"green"}},[_c('span',[
 with(this){return _c('p',[_c('span',{staticStyle:{"color":"red"}},[_c('span',[_c('span',{staticClass:"fas fa-times",attrs:{"aria-hidden":"true"}})])]),_v(" "),_c('strong',[_v("How")]),_v(": The explanation for how the code works. This should already be apparent from the code, if the code is self-explanatory. Adding comments to explain the same thing is redundant.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

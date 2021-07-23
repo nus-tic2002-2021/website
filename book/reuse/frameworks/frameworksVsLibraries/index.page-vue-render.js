@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can differentiate between frameworks and libraries")])])])])])}
@@ -14,12 +14,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Reuse → Frameworks →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"frameworks-versus-libraries"}},[_c('span',{staticClass:"anchor",attrs:{"id":"frameworks-versus-libraries"}}),_c('span',[_v("Frameworks versus libraries")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"frameworks-versus-libraries"}},[_c('span',{staticClass:"anchor",attrs:{"id":"frameworks-versus-libraries"}}),_c('span',[_v("Frameworks versus libraries")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#frameworks-versus-libraries","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('p',[_v("Although both frameworks and libraries are reuse mechanisms, there are notable differences:")]),_v(" "),_c('ul',[_c('li',[_c('p',[_c('strong',[_v("Libraries are meant to be used ‘as is’ while frameworks are meant to be customized/extended.")]),_v(" "),_c('span',{staticClass:"dimmed"},[_v("e.g., writing plugins for Eclipse so that it can be used as an IDE for different languages (C++, PHP, etc.), adding modules and themes to Drupal, and adding test cases to JUnit")]),_v(".")])]),_v(" "),_c('li',[_c('p',[_c('strong',[_v("Your code calls the library code while the framework code calls your code.")]),_v(" "),_c('strong',[_v("Frameworks use a technique called "),_c('em',[_v("inversion of control")]),_v(", aka the “Hollywood principle”")]),_v(" (i.e. don’t call us, we’ll call you!). That is, you write code that will be called by the framework, "),_c('span',{staticClass:"dimmed"},[_v("e.g. writing test methods that will be called by the JUnit framework.")]),_v(" In the case of libraries, your code calls libraries.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

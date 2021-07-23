@@ -5,16 +5,16 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"quality-assurance"}},[_c('span',{staticClass:"anchor",attrs:{"id":"quality-assurance"}}),_c('span',[_v("Quality assurance")])])])])}
+with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"quality-assurance"}},[_c('span',{staticClass:"anchor",attrs:{"id":"quality-assurance"}}),_c('span',[_v("Quality assurance")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#quality-assurance","onclick":"event.stopPropagation()"}})])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})]),_v(" This is a "),_c('strong',[_v("printer-friendly")]),_v(" version. It omits exercises, optional topics (i.e., four-star topics), and other extra content such as learning outcomes.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-2"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-2","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"introduction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('strong',[_v("Software "),_c('em',[_v("Quality Assurance")]),_v(" (QA) is the process of ensuring that the software being built has the required levels of quality.")])]),_v(" "),_c('p',[_v("While testing is the most common activity used in QA, there are other complementary techniques such as "),_c('em',[_v("static analysis, code reviews,")]),_v(" and "),_c('em',[_v("formal verification")]),_v(".")])])])}
@@ -23,7 +23,7 @@ with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('strong',[_v("Quality Assurance = Validation + Verification")])]),_v(" "),_c('p',[_v("QA involves checking two aspects:")]),_v(" "),_c('ol',[_c('li',[_v("Validation: are you "),_c('em',[_v("building the right system")]),_v(" i.e., are the requirements correct?")]),_v(" "),_c('li',[_v("Verification: are you "),_c('em',[_v("building the system right")]),_v(" i.e., are the requirements implemented correctly?")])]),_v(" "),_c('p',[_v("Whether something belongs under validation or verification is not that important. What is more important is that both are done, instead of limiting to only verification (i.e., remember that the requirements can be wrong too).")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-3"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-3"}}),_c('span',[_v("Code reviews")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-3","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"code-reviews"}},[_c('span',{staticClass:"anchor",attrs:{"id":"code-reviews"}}),_c('span',[_v("Code reviews")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#code-reviews","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Code review is the systematic examination of code with the intention of finding where the code can be improved.")])])}
@@ -44,7 +44,7 @@ with(this){return _c('ul',[_c('li',[_v("It can detect functionality defects as w
 with(this){return _c('ul',[_c('li',[_v("It is a manual process and therefore, error prone.")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-4"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-4"}}),_c('span',[_v("Static analysis")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-4","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"static-analysis"}},[_c('span',{staticClass:"anchor",attrs:{"id":"static-analysis"}}),_c('span',[_v("Static analysis")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#static-analysis","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Static analysis of code can find useful information such as unused variables")]),_v(", unhandled exceptions, style errors, and statistics. Most modern IDEs come with some inbuilt static analysis capabilities. For example, an IDE can highlight unused variables as you type the code into the editor.")])}
@@ -59,7 +59,7 @@ with(this){return _c('p',[_c('strong',[_v("Higher-end static analysis tools (sta
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Linters")]),_v(" are a subset of static analyzers")]),_v(" that specifically aim to locate areas where the code can be made 'cleaner'.")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-5"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-5"}}),_c('span',[_v("Formal verification")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-5","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"formal-verification"}},[_c('span',{staticClass:"anchor",attrs:{"id":"formal-verification"}}),_c('span',[_v("Formal verification")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#formal-verification","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Formal verification uses mathematical techniques to prove the correctness of a program.")])])}
@@ -71,6 +71,6 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Formal verification can be 
 with(this){return _c('ul',[_c('li',[_v("It only proves the compliance with the specification, but not the actual utility of the software.")]),_v(" "),_c('li',[_v("It requires highly specialized notations and knowledge which makes it an expensive technique to administer. Therefore, "),_c('strong',[_v("formal verifications are more commonly used in safety-critical software such as flight control systems")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

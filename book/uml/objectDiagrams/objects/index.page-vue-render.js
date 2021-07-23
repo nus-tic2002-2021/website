@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can draw UML objects")])])])])])}
@@ -14,12 +14,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → UML → Object Diagrams →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"objects"}},[_c('span',{staticClass:"anchor",attrs:{"id":"objects"}}),_c('span',[_v("Objects")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"objects"}},[_c('span',{staticClass:"anchor",attrs:{"id":"objects"}}),_c('span',[_v("Objects")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#objects","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('ul',[_c('li',[_v("The class name and object name e.g. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("car1:Car")]),_v(" are underlined.")]),_v(" "),_c('li',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("objectName:ClassName")]),_v(" is meant to say 'an instance of "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("ClassName")]),_v(" identified as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("objectName")]),_v("'.")]),_v(" "),_c('li',[_v("Unlike classes, there is no compartment for methods.")]),_v(" "),_c('li',[_c('em',[_v("Attributes")]),_v(" compartment can be omitted if it is not relevant to the task at hand.")]),_v(" "),_c('li',[_v("Object name can be omitted too e.g. "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v(":Car")]),_v(" which is meant to say 'an "),_c('em',[_v("unnamed")]),_v(" instance of a Car object'.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

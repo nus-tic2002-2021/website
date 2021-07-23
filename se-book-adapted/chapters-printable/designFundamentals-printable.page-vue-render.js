@@ -5,16 +5,16 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"design-fundamentals"}},[_c('span',{staticClass:"anchor",attrs:{"id":"design-fundamentals"}}),_c('span',[_v("Design fundamentals")])])])])}
+with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"design-fundamentals"}},[_c('span',{staticClass:"anchor",attrs:{"id":"design-fundamentals"}}),_c('span',[_v("Design fundamentals")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#design-fundamentals","onclick":"event.stopPropagation()"}})])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})]),_v(" This is a "),_c('strong',[_v("printer-friendly")]),_v(" version. It omits exercises, optional topics (i.e., four-star topics), and other extra content such as learning outcomes.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-2"}}),_c('span',[_v("Abstraction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-2","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"abstraction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"abstraction"}}),_c('span',[_v("Abstraction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#abstraction","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("The guiding principle of abstraction is that only details that are relevant to the current perspective or the task at hand need to be considered.")]),_v(" As most programs are written to solve complex problems involving large amounts of intricate details, it is impossible to deal with all these details at the same time. That is where abstraction can help.")])}
@@ -32,7 +32,7 @@ with(this){return _c('p',[_c('strong',[_v("Abstraction can be applied repeatedly
 with(this){return _c('p',[_c('strong',[_v("Abstraction is a general concept that is not limited to just data or control abstractions.")])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-3"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-3"}}),_c('span',[_v("Coupling")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-3","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"coupling"}},[_c('span',{staticClass:"anchor",attrs:{"id":"coupling"}}),_c('span',[_v("Coupling")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#coupling","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Coupling")]),_v(" is a measure of the degree of "),_c('em',[_v("dependence")])]),_v(" between components, classes, methods, etc. Low coupling indicates that a component is less dependent on other components. "),_c('strong',[_v("High coupling (aka "),_c('em',[_v("tight")]),_v(" coupling or "),_c('em',[_v("strong")]),_v(" coupling) is discouraged")]),_v(" due to the following disadvantages:")])}
@@ -44,7 +44,7 @@ with(this){return _c('ul',[_c('li',[_c('strong',[_v("Maintenance is harder")]),_
 with(this){return _c('p',[_c('strong',[_v("X is "),_c('em',[_v("coupled")]),_v(" to Y if a change to Y can "),_c('mark',[_v("potentially")]),_v(" require a change in X")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-4"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-4"}}),_c('span',[_v("Cohesion")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-4","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"cohesion"}},[_c('span',{staticClass:"anchor",attrs:{"id":"cohesion"}}),_c('span',[_v("Cohesion")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#cohesion","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('strong',[_c('em',[_v("Cohesion")]),_v(" is a measure of how strongly-related and focused the various responsibilities of a component are.")]),_v(" A highly-cohesive component keeps related functionalities together while keeping out all other unrelated things.")]),_v(" "),_c('p',[_c('strong',[_v("Higher cohesion is better.")]),_v(" Disadvantages of low cohesion (aka "),_c('em',[_v("weak")]),_v(" cohesion):")]),_v(" "),_c('ul',[_c('li',[_v("Lowers the understandability of modules as it is difficult to express module functionalities at a higher level.")]),_v(" "),_c('li',[_v("Lowers maintainability because a module can be modified due to unrelated causes "),_c('span',{staticClass:"dimmed"},[_v("(reason: the module contains code unrelated to each other)")]),_v(" or many modules may need to be modified to achieve a small change in behavior "),_c('span',{staticClass:"dimmed"},[_v("(reason: because the code related to that change is not localized to a single module)")]),_v(".")]),_v(" "),_c('li',[_v("Lowers reusability of modules because they do not represent logical units of functionality.")])])])])}
@@ -56,6 +56,6 @@ with(this){return _c('p',[_c('strong',[_v("Cohesion can be present in many forms
 with(this){return _c('ul',[_c('li',[_v("Code related to a single concept is kept together, e.g. the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Student")]),_v(" component handles everything related to students.")]),_v(" "),_c('li',[_v("Code that is invoked close together in time is kept together, e.g. all code related to initializing the system is kept together.")]),_v(" "),_c('li',[_v("Code that manipulates the same data structure is kept together, e.g. the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("GameArchive")]),_v(" component handles everything related to the storage and retrieval of game sessions.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

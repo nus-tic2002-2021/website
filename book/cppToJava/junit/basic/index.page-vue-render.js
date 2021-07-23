@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can use simple JUnit tests")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("C++ to Java → JUnit →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"junit-basic"}},[_c('span',{staticClass:"anchor",attrs:{"id":"junit-basic"}}),_c('span',[_v("JUnit: Basic")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"junit-basic"}},[_c('span',{staticClass:"anchor",attrs:{"id":"junit-basic"}}),_c('span',[_v("JUnit: Basic")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#junit-basic","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("When writing JUnit tests for a class "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Foo")]),_v(", the common practice is to create a "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("FooTest")]),_v(" class, which will contain various test methods.")])}
@@ -23,6 +23,6 @@ with(this){return _c('p',[_v("When writing JUnit tests for a class "),_c('code',
 with(this){return _c('ul',[_c('li',[_v("Each test method is marked with a "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("@Test")]),_v(" annotation.")]),_v(" "),_c('li',[_v("Tests use "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Assert.assertEquals(expected, actual)")]),_v(" methods to compare the expected output with the actual output. If they do not match, the test will fail. JUnit comes with other similar methods such as "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Assert.assertNull")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Assert.assertTrue")]),_v(".")]),_v(" "),_c('li',[_v("Java code normally use camelCase for method names e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("testStringConversion")]),_v(" but when writing test methods, sometimes another convention is used: "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("whatIsBeingTested_descriptionOfTestInputs_expectedOutcome")]),_v(" e.g., "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("intDivision_zeroDivisor_exceptionThrown")])]),_v(" "),_c('li',[_v("There are "),_c('a',{attrs:{"href":"https://howtodoinjava.com/junit5/expected-exception-example/"}},[_v("several ways to verify the code throws the correct exception")]),_v(". The third test method in the example above shows one of the simpler methods. If the exception is thrown, it will be caught and further verified inside the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("catch")]),_v(" block. But if it is not thrown as expected, the test will reach "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Assert.fail()")]),_v(" line and will fail as a result.")]),_v(" "),_c('li',[_v("The easiest way to run JUnit tests is to do it via the IDE. For example, in Intellij you can right-click the folder containing test classes and choose 'Run all tests...'")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

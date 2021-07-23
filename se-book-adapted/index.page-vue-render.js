@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('h2',{attrs:{"id":"software-engineering-for-self-directed-learners-tic2002-edition-2021"}},[_c('span',{staticClass:"anchor",attrs:{"id":"software-engineering-for-self-directed-learners-tic2002-edition-2021"}}),_v("Software Engineering for Self-Directed Learners "),_c('small',[_c('small',[_c('small',[_c('span',{staticClass:"badge badge-pill badge-danger"},[_v("TIC2002 edition - 2021")])])])]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#software-engineering-for-self-directed-learners-tic2002-edition-2021","onclick":"event.stopPropagation()"}})])}
@@ -44,6 +44,6 @@ with(this){return _c('ul',[_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-b
 with(this){return _c('ul',[_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/chapters/cppToJava.html"}},[_v("C++ to Java")]),_v(" "),_c('a',{attrs:{"href":"/website/se-book-adapted/chapters-printable/cppToJava-printable.html"}},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})])])])]),_v(" "),_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/projectDuke/index.html"}},[_v("Project Duke")])])]),_v(" "),_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/common/exercises.html"}},[_v("Combined Exercises")])])]),_v(" "),_c('li',[_c('p',[_c('a',{attrs:{"href":"/website/se-book-adapted/common/definitions.html"}},[_v("List of Definitions")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can write reasonably comprehensible developer documents")])])])])])}
@@ -14,12 +14,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Documentation → Guidelines → Aim for Comprehensibility →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"how"}},[_c('span',{staticClass:"anchor",attrs:{"id":"how"}}),_c('span',[_v("How")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"how"}},[_c('span',{staticClass:"anchor",attrs:{"id":"how"}}),_c('span',[_v("How")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#how","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('p',[_v("Here are some tips on writing effective documentation.")]),_v(" "),_c('ul',[_c('li',[_c('strong',[_v("Use plenty of diagrams")]),_v(": It is not enough to explain something in words; complement it with visual illustrations (e.g. a UML diagram).")]),_v(" "),_c('li',[_c('strong',[_v("Use plenty of examples")]),_v(": When explaining algorithms, show a running example to illustrate each step of the algorithm, in parallel to worded explanations.")]),_v(" "),_c('li',[_c('strong',[_v("Use simple and direct explanations")]),_v(": Convoluted explanations and fancy words will annoy readers. Avoid long sentences.")]),_v(" "),_c('li',[_c('strong',[_v("Get rid of statements that do not add value")]),_v(": For example, 'We made sure our system works perfectly' (who didn't?), 'Component X has its own responsibilities' (of course it has!).")]),_v(" "),_c('li',[_c('strong',[_v("It is not a good idea to have separate sections for each type of artifact")]),_v(", such as 'use cases', 'sequence diagrams', 'activity diagrams', etc. Such a structure, coupled with the indiscriminate inclusion of diagrams without justifying their need, indicates a failure to understand the purpose of documentation. Include diagrams when they are needed to explain something. If you want to provide additional diagrams for completeness' sake, include them in the appendix as a reference.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

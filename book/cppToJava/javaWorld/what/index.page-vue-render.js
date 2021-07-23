@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain what Java is")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("C++ to Java → The Java World →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"what-is-java"}},[_c('span',{staticClass:"anchor",attrs:{"id":"what-is-java"}}),_c('span',[_v("What is Java?")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"what-is-java"}},[_c('span',{staticClass:"anchor",attrs:{"id":"what-is-java"}}),_c('span',[_v("What is Java?")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#what-is-java","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('blockquote',[_c('p',[_v("Java was "),_c('strong',[_v("conceived by James Gosling and his team at Sun Microsystems in 1991")]),_v(".")]),_v(" "),_c('p',[_v("Java is directly "),_c('strong',[_v("related to both C and C++")]),_v(". Java inherits its syntax from C. Its object model is adapted from C++.\n"),_c('small',[_v("--"),_c('a',{attrs:{"href":"http://www.oracle.com/events/global/en/java-outreach/resources/java-a-beginners-guide-1720064.pdf"}},[_v("Java: A Beginner’s Guide, by Oracle")])])])])}
@@ -26,6 +26,6 @@ with(this){return _c('p',[_c('strong',[_v("Oracle became the owner of Java in 20
 with(this){return _c('p',[_v("Java has remained the "),_c('strong',[_v("most popular language in the world")]),_v(" for several years now (as at July 2018), according to the "),_c('a',{attrs:{"href":"https://www.tiobe.com/tiobe-index/"}},[_v("TIOBE index")]),_v(".")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

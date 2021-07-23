@@ -1,0 +1,86 @@
+2021-07-17T14:13:48.421Z - info: Website generation (lazy) started at 10:13:44 pm
+2021-07-17T14:13:53.017Z - info: Building assets...
+2021-07-17T14:13:57.275Z - info: Assets built
+2021-07-17T14:13:57.276Z - info: Generating landing page...
+2021-07-17T14:13:58.157Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-17T14:13:58.894Z - info: Site data built
+2021-07-17T14:13:58.894Z - info: Website generation (lazy) complete! Total build time: 14.216s
+2021-07-17T14:13:59.638Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-17T14:13:59.639Z - info: Press CTRL+C to stop ...
+2021-07-17T14:14:33.723Z - info: Website generation started at 10:14:32 pm
+2021-07-17T14:14:37.985Z - info: Building assets...
+2021-07-17T14:14:42.381Z - info: Assets built
+2021-07-17T14:14:42.382Z - info: Generating pages...
+2021-07-17T14:14:51.047Z - debug:  
+2021-07-17T14:14:51.047Z - debug:  
+2021-07-17T14:14:51.050Z - debug:  
+2021-07-17T14:14:51.050Z - debug:  
+2021-07-17T14:14:51.050Z - debug:  
+2021-07-17T14:14:51.050Z - debug:  
+2021-07-17T14:16:34.904Z - debug:  
+2021-07-17T14:16:46.571Z - debug:  
+2021-07-17T14:16:46.571Z - debug:  
+2021-07-17T14:16:52.197Z - info: Pages built
+2021-07-17T14:16:53.024Z - info: Site data built
+2021-07-17T14:16:53.024Z - info: Website generation complete! Total build time: 140.985s
+2021-07-17T14:16:53.862Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-17T14:16:53.862Z - info: Press CTRL+C to stop ...
+2021-07-17T14:27:24.950Z - info: [10:27:24 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2021-07-17T14:27:26.288Z - info: Rebuilding 770 pages
+2021-07-17T14:27:32.155Z - debug:  
+2021-07-17T14:27:33.368Z - debug:  
+2021-07-17T14:27:33.371Z - debug:  
+2021-07-17T14:27:33.371Z - debug:  
+2021-07-17T14:27:33.372Z - debug:  
+2021-07-17T14:27:33.390Z - debug:  
+2021-07-17T14:29:42.298Z - debug:  
+2021-07-17T14:29:56.163Z - debug:  
+2021-07-17T14:29:56.454Z - debug:  
+2021-07-17T14:30:04.837Z - info: Site data built
+2021-07-17T14:30:04.838Z - info: Pages rebuilt
+2021-07-17T14:30:04.838Z - info: Website regeneration complete! Total build time: 158.552s
+2021-07-17T14:44:32.207Z - info: [10:44:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\revisionControl\what\text.md
+2021-07-17T14:44:32.219Z - info: [10:44:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\streams\resources.md
+2021-07-17T14:44:32.227Z - info: [10:44:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\revisionControl\repositories\text.md
+2021-07-17T14:44:32.236Z - info: [10:44:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\revisionControl\savingHistory\text.md
+2021-07-17T14:44:32.248Z - info: [10:44:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\architecture\architectureDiagrams\reading\text.md
+2021-07-17T14:44:32.258Z - info: [10:44:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\testing\testAutomation\what\text.md
+2021-07-17T14:44:33.222Z - info: Rebuilding 39 pages
+2021-07-17T14:44:46.077Z - debug:  
+2021-07-17T14:44:46.090Z - debug:  
+2021-07-17T14:44:46.091Z - debug:  
+2021-07-17T14:44:46.091Z - debug:  
+2021-07-17T14:44:46.091Z - debug:  
+2021-07-17T14:44:46.094Z - debug:  
+2021-07-17T14:45:03.327Z - info: Site data built
+2021-07-17T14:45:03.328Z - info: Pages rebuilt
+2021-07-17T14:45:03.328Z - info: Website regeneration complete! Total build time: 30.108s
+2021-07-17T14:52:11.549Z - info: [10:52:11 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\designApproaches\multilevelDesign\what\text.md
+2021-07-17T14:52:12.567Z - info: Rebuilding 11 pages
+2021-07-17T14:52:22.349Z - debug:  
+2021-07-17T14:52:22.349Z - debug:  
+2021-07-17T14:52:23.796Z - debug:  
+2021-07-17T14:52:23.810Z - debug:  
+2021-07-17T14:52:23.810Z - debug:  
+2021-07-17T14:52:23.812Z - debug:  
+2021-07-17T14:52:24.427Z - info: Site data built
+2021-07-17T14:52:24.427Z - info: Pages rebuilt
+2021-07-17T14:52:24.427Z - info: Website regeneration complete! Total build time: 11.866s
+2021-07-17T14:59:43.100Z - info: Website generation started at 10:59:39 pm
+2021-07-17T14:59:48.627Z - info: Building assets...
+2021-07-17T14:59:53.025Z - info: Assets built
+2021-07-17T14:59:53.026Z - info: Generating pages...
+2021-07-17T15:00:00.682Z - debug:  
+2021-07-17T15:00:00.683Z - debug:  
+2021-07-17T15:00:00.686Z - debug:  
+2021-07-17T15:00:00.686Z - debug:  
+2021-07-17T15:00:00.686Z - debug:  
+2021-07-17T15:00:00.686Z - debug:  
+2021-07-17T15:01:42.847Z - debug:  
+2021-07-17T15:01:54.251Z - debug:  
+2021-07-17T15:01:54.326Z - debug:  
+2021-07-17T15:01:59.797Z - info: Pages built
+2021-07-17T15:02:00.615Z - info: Site data built
+2021-07-17T15:02:00.615Z - info: Website generation complete! Total build time: 141.431s
+2021-07-17T15:02:00.615Z - info: Build success!
+2021-07-17T15:02:11.519Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!

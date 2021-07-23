@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can interpret alternate paths in activity diagrams")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → UML → Activity Diagrams →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"alternate-paths"}},[_c('span',{staticClass:"anchor",attrs:{"id":"alternate-paths"}}),_c('span',[_v("Alternate paths")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"alternate-paths"}},[_c('span',{staticClass:"anchor",attrs:{"id":"alternate-paths"}}),_c('span',[_v("Alternate paths")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#alternate-paths","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("A "),_c('em',[_v("branch node")]),_v(" shows the start of alternate paths.")]),_v(" Each control flow exiting a branch node has a "),_c('em',[_v("guard condition")]),_v(": a boolean condition that should be true for execution to take that path. "),_c('strong',[_c('em',[_v("Exactly one")]),_v(" of the guard conditions should be true")]),_v(" at any given branch node.")])}
@@ -29,6 +29,6 @@ with(this){return _c('p',[_v("Both branch nodes and merge nodes are "),_c('mark'
 with(this){return _c('ul',[_c('li',[_v("Omitting the merge node if it doesn't cause any ambiguities.")]),_v(" "),_c('li',[_v("Multiple arrows can starting from the same corner of a branch node.")]),_v(" "),_c('li',[_v("Omitting the "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("[Else]")]),_v(" condition.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

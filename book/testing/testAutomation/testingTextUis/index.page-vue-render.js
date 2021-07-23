@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can semi-automate testing of CLIs")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Testing → Test Automation →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"automated-testing-of-cli-applications"}},[_c('span',{staticClass:"anchor",attrs:{"id":"automated-testing-of-cli-applications"}}),_c('span',[_v("Automated testing of CLI applications")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"automated-testing-of-cli-applications"}},[_c('span',{staticClass:"anchor",attrs:{"id":"automated-testing-of-cli-applications"}}),_c('span',[_v("Automated testing of CLI applications")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#automated-testing-of-cli-applications","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("A simple way to semi-automate testing of a CLI (Command Line Interface) app is by using input/output re-direction.")])])}
@@ -50,6 +50,6 @@ with(this){return _c('p',[_v("Note that the above technique is only suitable whe
 with(this){return _c('span',{staticClass:"algolia-no-index",attrs:{"data-mb-slot-name":"content"}},[_c('div',[_c('div',[_c('p',[_c('strong',[_v("CLI application")]),_v(": An application that has a "),_c('em',[_v("Command Line Interface")]),_v(". i.e. user interacts with the app by typing in commands.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can use assertions optimally")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Error Handling → Assertions →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"when"}},[_c('span',{staticClass:"anchor",attrs:{"id":"when"}}),_c('span',[_v("When")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"when"}},[_c('span',{staticClass:"anchor",attrs:{"id":"when"}}),_c('span',[_v("When")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#when","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("It is recommended that assertions be used liberally in the code.")]),_v(" Their impact on performance is considered low and worth the additional safety they provide.")])}
@@ -32,6 +32,6 @@ with(this){return _c('p',[_c('strong',[_v("Exceptions and assertions are two com
 with(this){return _c('ul',[_c('li',[_v("The raising of an exception indicates an unusual condition created by the user "),_c('span',{staticClass:"dimmed"},[_v("(e.g.  user inputs an unacceptable input)")]),_v(" or the environment "),_c('span',{staticClass:"dimmed"},[_v("(e.g., a file needed for the program is missing)")]),_v(".")]),_v(" "),_c('li',[_v("An assertion failure indicates the programmer made a mistake in the code "),_c('span',{staticClass:"dimmed"},[_v("(e.g., a null value is returned from a method that is not supposed to return null under any circumstances)")]),_v(".")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

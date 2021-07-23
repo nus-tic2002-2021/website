@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain the costs and benefits of reuse")])])])])])}
@@ -14,12 +14,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Implementation → Reuse → Introduction →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"when"}},[_c('span',{staticClass:"anchor",attrs:{"id":"when"}}),_c('span',[_v("When")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"when"}},[_c('span',{staticClass:"anchor",attrs:{"id":"when"}}),_c('span',[_v("When")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#when","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('p',[_v("While you may be tempted to use many libraries/frameworks/platforms that seem to crop up on a regular basis and promise to bring great benefits, note that "),_c('strong',[_v("there are costs associated with reuse")]),_v(". Here are some:")]),_v(" "),_c('ul',[_c('li',[_v("The reused code "),_c('strong',[_v("may be an overkill")]),_v(" (think "),_c('em',[_v("using a sledgehammer to crack a nut")]),_v("), increasing the size of, and/or degrading the performance of, your software.")]),_v(" "),_c('li',[_v("The reused software "),_c('strong',[_v("may not be mature/stable enough")]),_v(" to be used in an important product. That means the software can change drastically and rapidly, possibly in ways that break your software.")]),_v(" "),_c('li',[_v("Non-mature software has the "),_c('strong',[_v("risk of dying off")]),_v(" as fast as they emerged, leaving you with a dependency that is no longer maintained.")]),_v(" "),_c('li',[_v("The license of the reused software (or its dependencies) "),_c('strong',[_v("restrict how you can use/develop your software")]),_v(".")]),_v(" "),_c('li',[_v("The reused software "),_c('strong',[_v("might have bugs, missing features, or security vulnerabilities")]),_v(" that are important to your product, but not so important to the maintainers of that software, which means those flaws will not get fixed as fast as you need them to.")]),_v(" "),_c('li',[_c('strong',[_v("Malicious code can sneak into your product")]),_v(" via compromised dependencies.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

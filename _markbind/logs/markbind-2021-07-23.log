@@ -1,0 +1,81 @@
+2021-07-23T05:25:47.347Z - info: Website generation (lazy) started at 1:25:45 pm
+2021-07-23T05:25:52.549Z - info: Building assets...
+2021-07-23T05:25:56.825Z - info: Assets built
+2021-07-23T05:25:56.826Z - info: Generating landing page...
+2021-07-23T05:25:58.694Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-23T05:25:59.510Z - info: Site data built
+2021-07-23T05:25:59.510Z - info: Website generation (lazy) complete! Total build time: 14.047s
+2021-07-23T05:26:00.328Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-23T05:26:00.328Z - info: Press CTRL+C to stop ...
+2021-07-23T05:43:33.410Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\index as some of its dependencies were changed since the last visit
+2021-07-23T05:43:34.031Z - info: Site data built
+2021-07-23T05:43:34.032Z - info: Lazy website regeneration complete! Total build time: 0.622s
+2021-07-23T05:43:42.363Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\topics as some of its dependencies were changed since the last visit
+2021-07-23T05:43:44.025Z - info: Site data built
+2021-07-23T05:43:44.025Z - info: Lazy website regeneration complete! Total build time: 1.662s
+2021-07-23T05:46:22.446Z - info: [1:46:22 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\loops\q-getMultipleGradeCapsMethod.md
+2021-07-23T05:46:22.446Z - info: Synchronizing opened pages list before reload
+2021-07-23T05:46:22.447Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T05:46:22.447Z - info: 1. schedule/week1/topics
+2021-07-23T05:46:23.465Z - info: Rebuilding 1 pages
+2021-07-23T05:46:25.020Z - info: Site data built
+2021-07-23T05:46:25.020Z - info: Pages rebuilt
+2021-07-23T05:46:25.020Z - info: Website regeneration complete! Total build time: 1.557s
+2021-07-23T05:47:09.837Z - info: [1:47:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\loops\q-getMultipleGradeCapsMethod.md
+2021-07-23T05:47:09.837Z - info: Synchronizing opened pages list before reload
+2021-07-23T05:47:09.838Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T05:47:09.838Z - info: 1. schedule/week1/topics
+2021-07-23T05:47:10.846Z - info: Rebuilding 1 pages
+2021-07-23T05:47:12.444Z - info: Site data built
+2021-07-23T05:47:12.444Z - info: Pages rebuilt
+2021-07-23T05:47:12.444Z - info: Website regeneration complete! Total build time: 1.6s
+2021-07-23T05:47:24.432Z - info: [1:47:24 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\loops\q-getMultipleGradeCapsMethod.md
+2021-07-23T05:47:24.432Z - info: Synchronizing opened pages list before reload
+2021-07-23T05:47:24.432Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T05:47:24.432Z - info: 1. schedule/week1/topics
+2021-07-23T05:47:25.436Z - info: Rebuilding 1 pages
+2021-07-23T05:47:26.600Z - info: Site data built
+2021-07-23T05:47:26.600Z - info: Pages rebuilt
+2021-07-23T05:47:26.600Z - info: Website regeneration complete! Total build time: 1.165s
+2021-07-23T05:47:39.243Z - info: [1:47:39 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\loops\q-getMultipleGradeCapsMethod.md
+2021-07-23T05:47:39.243Z - info: Synchronizing opened pages list before reload
+2021-07-23T05:47:39.244Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T05:47:39.244Z - info: 1. schedule/week1/topics
+2021-07-23T05:47:40.263Z - info: Rebuilding 1 pages
+2021-07-23T05:47:41.798Z - info: Site data built
+2021-07-23T05:47:41.798Z - info: Pages rebuilt
+2021-07-23T05:47:41.798Z - info: Website regeneration complete! Total build time: 1.538s
+2021-07-23T05:47:59.930Z - info: [1:47:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\loops\q-getMultipleGradeCapsMethod.md
+2021-07-23T05:47:59.931Z - info: Synchronizing opened pages list before reload
+2021-07-23T05:47:59.931Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T05:47:59.932Z - info: 1. schedule/week1/topics
+2021-07-23T05:48:00.943Z - info: Rebuilding 1 pages
+2021-07-23T05:48:02.542Z - info: Site data built
+2021-07-23T05:48:02.543Z - info: Pages rebuilt
+2021-07-23T05:48:02.543Z - info: Website regeneration complete! Total build time: 1.603s
+2021-07-23T05:48:13.424Z - info: [1:48:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\loops\q-getMultipleGradeCapsMethod.md
+2021-07-23T05:48:13.424Z - info: Synchronizing opened pages list before reload
+2021-07-23T05:48:13.424Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T05:48:13.424Z - info: 1. schedule/week1/topics
+2021-07-23T05:48:14.428Z - info: Rebuilding 1 pages
+2021-07-23T05:48:15.550Z - info: Site data built
+2021-07-23T05:48:15.550Z - info: Pages rebuilt
+2021-07-23T05:48:15.550Z - info: Website regeneration complete! Total build time: 1.123s
+2021-07-23T05:48:30.220Z - info: [1:48:30 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\loops\q-getMultipleGradeCapsMethod.md
+2021-07-23T05:48:30.220Z - info: Synchronizing opened pages list before reload
+2021-07-23T05:48:30.221Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T05:48:30.221Z - info: 1. schedule/week1/topics
+2021-07-23T05:48:31.230Z - info: Rebuilding 1 pages
+2021-07-23T05:48:32.694Z - info: Site data built
+2021-07-23T05:48:32.695Z - info: Pages rebuilt
+2021-07-23T05:48:32.695Z - info: Website regeneration complete! Total build time: 1.466s
+2021-07-23T05:49:23.624Z - info: [1:49:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\loops\q-getMultipleGradeCapsMethod.md
+2021-07-23T05:49:23.625Z - info: Synchronizing opened pages list before reload
+2021-07-23T05:49:23.625Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T05:49:23.626Z - info: 1. schedule/week1/topics
+2021-07-23T05:49:24.629Z - info: Rebuilding 1 pages
+2021-07-23T05:49:26.023Z - info: Site data built
+2021-07-23T05:49:26.023Z - info: Pages rebuilt
+2021-07-23T05:49:26.023Z - info: Website regeneration complete! Total build time: 1.395s
+2021-07-23T05:49:40.762Z - info: Website generation started at 1:49:39 pm
+2021-07-23T05:49:45.804Z - info: Building assets...

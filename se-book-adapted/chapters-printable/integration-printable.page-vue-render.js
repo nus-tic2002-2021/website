@@ -5,22 +5,22 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"integration"}},[_c('span',{staticClass:"anchor",attrs:{"id":"integration"}}),_c('span',[_v("Integration")])])])])}
+with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"integration"}},[_c('span',{staticClass:"anchor",attrs:{"id":"integration"}}),_c('span',[_v("Integration")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#integration","onclick":"event.stopPropagation()"}})])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})]),_v(" This is a "),_c('strong',[_v("printer-friendly")]),_v(" version. It omits exercises, optional topics (i.e., four-star topics), and other extra content such as learning outcomes.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-2"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-2","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"introduction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('strong',[_v("Combining parts of a software product to form a whole is called "),_c('em',[_v("integration")])]),_v(". It is also one of the most troublesome tasks and it rarely goes smoothly.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-3"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-3"}}),_c('span',[_v("Approaches")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-3","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"approaches"}},[_c('span',{staticClass:"anchor",attrs:{"id":"approaches"}}),_c('span',[_v("Approaches")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#approaches","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("In terms of timing and frequency, there are two general approaches to integration: "),_c('em',[_v("late and one-time")]),_v(", "),_c('em',[_v("early and frequent")]),_v(".")])])}
@@ -44,7 +44,7 @@ with(this){return _c('p',[_c('strong',[_c('em',[_v("Incremental integration")]),
 with(this){return _c('div',{staticClass:"block-embed block-embed-service-powerpoint"},[_c('iframe',{attrs:{"type":"text/html","src":"https://onedrive.live.com/embed?cid=A5AF047C4CAD67AB&resid=A5AF047C4CAD67AB%212315&authkey=AG4cur5IrM7vr7M&em=2&action=embedview&wdAr=1.3333333333333333","frameborder":"0","width":"610","height":"481","webkitallowfullscreen":"","mozallowfullscreen":"","allowfullscreen":""}})])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-4"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-4"}}),_c('span',[_v("Build Automation")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-4","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"build-automation"}},[_c('span',{staticClass:"anchor",attrs:{"id":"build-automation"}}),_c('span',[_v("Build Automation")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#build-automation","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Build automation tools automate the steps of the build process, usually by means of build scripts.")])])}
@@ -59,6 +59,6 @@ with(this){return _c('p',[_v("Some of these build steps such as compiling, linki
 with(this){return _c('p',[_c('strong',[_v("Some build tools also serve as "),_c('em',[_v("dependency management tools")])]),_v(". Modern software projects often depend on third party libraries that evolve constantly. That means developers need to download the correct version of the required libraries and update them regularly. Therefore, dependency management is an important part of build automation. Dependency management tools can automate that aspect of a project.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

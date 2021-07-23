@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain black box and glass box test case design")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Test Case Design → Introduction →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"black-box-versus-glass-box"}},[_c('span',{staticClass:"anchor",attrs:{"id":"black-box-versus-glass-box"}}),_c('span',[_v("Black box versus glass box")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"black-box-versus-glass-box"}},[_c('span',{staticClass:"anchor",attrs:{"id":"black-box-versus-glass-box"}}),_c('span',[_v("Black box versus glass box")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#black-box-versus-glass-box","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Test case design can be of three types, based on how much of the SUT's internal details are considered when designing test cases:")])])}
@@ -23,6 +23,6 @@ with(this){return _c('p',[_c('strong',[_v("Test case design can be of three type
 with(this){return _c('ul',[_c('li',[_c('p',[_c('strong',[_c('em',[_v("Black-box")]),_v(" (aka "),_c('em',[_v("specification-based or responsibility-based")]),_v(") approach")]),_v(": test cases are designed exclusively based on the SUT’s specified external behavior.")])]),_v(" "),_c('li',[_c('p',[_c('strong',[_c('em',[_v("White-box")]),_v(" (aka "),_c('em',[_v("glass-box or structured or implementation-based")]),_v(") approach")]),_v(": test cases are designed based on what is known about the SUT’s implementation, i.e. the code.")])]),_v(" "),_c('li',[_c('p',[_c('strong',[_c('em',[_v("Gray-box")]),_v(" approach")]),_v(": test case design uses "),_c('em',[_v("some")]),_v(" important information about the implementation. For example, if the implementation of a sort operation uses different algorithms to sort lists shorter than 1000 items and lists longer than 1000 items, more meaningful test cases can then be added to verify the correctness of both algorithms.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

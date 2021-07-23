@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can use operators")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("C++ to Java → Data Types →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"operators"}},[_c('span',{staticClass:"anchor",attrs:{"id":"operators"}}),_c('span',[_v("Operators")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"operators"}},[_c('span',{staticClass:"anchor",attrs:{"id":"operators"}}),_c('span',[_v("Operators")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#operators","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("Java supports the usual arithmetic operators")]),_v(", given below.")])}
@@ -59,6 +59,6 @@ with(this){return _c('p',[_v("Java has three "),_c('strong',[_v("conditional ope
 with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',[_v("Operator")]),_v(" "),_c('th',[_v("Description")]),_v(" "),_c('th',[_v("example "),_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"fas fa-arrow-right",attrs:{"aria-hidden":"true"}})])]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("true")])]),_v(" "),_c('th',[_v("example "),_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"fas fa-arrow-right",attrs:{"aria-hidden":"true"}})])]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("false")])])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("&&")])]),_v(" "),_c('td',[_v("and")]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("true && true")]),_v(" "),_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"fas fa-arrow-right",attrs:{"aria-hidden":"true"}})])]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("true")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("true && false")]),_v(" "),_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"fas fa-arrow-right",attrs:{"aria-hidden":"true"}})])]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("false")])])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("||")])]),_v(" "),_c('td',[_v("or")]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("true || false")]),_v(" "),_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"fas fa-arrow-right",attrs:{"aria-hidden":"true"}})])]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("true")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("false || false")]),_v(" "),_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"fas fa-arrow-right",attrs:{"aria-hidden":"true"}})])]),_v(" "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("false")])])]),_v(" "),_c('tr',[_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("!")])]),_v(" "),_c('td',[_v("not")]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("not false")])]),_v(" "),_c('td',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("not true")])])])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

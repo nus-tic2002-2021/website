@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain the differences between system testing and acceptance testing")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Testing → Acceptance Testing →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"acceptance-versus-system-testing"}},[_c('span',{staticClass:"anchor",attrs:{"id":"acceptance-versus-system-testing"}}),_c('span',[_v("Acceptance versus system testing")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"acceptance-versus-system-testing"}},[_c('span',{staticClass:"anchor",attrs:{"id":"acceptance-versus-system-testing"}}),_c('span',[_v("Acceptance versus system testing")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#acceptance-versus-system-testing","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"table-responsive"},[_c('table',{staticClass:"markbind-table table table-bordered table-striped"},[_c('thead',[_c('tr',[_c('th',{staticStyle:{"text-align":"left"}},[_v("System Testing")]),_v(" "),_c('th',{staticStyle:{"text-align":"left"}},[_v("Acceptance Testing")])])]),_v(" "),_c('tbody',[_c('tr',[_c('td',{staticStyle:{"text-align":"left"}},[_v("Done against the system specification")]),_v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_v("Done against the requirements specification")])]),_v(" "),_c('tr',[_c('td',{staticStyle:{"text-align":"left"}},[_v("Done by testers of the project team")]),_v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_v("Done by a team that represents the customer")])]),_v(" "),_c('tr',[_c('td',{staticStyle:{"text-align":"left"}},[_v("Done on the development environment or a test bed")]),_v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_v("Done on the deployment site or on a close simulation of the deployment site")])]),_v(" "),_c('tr',[_c('td',{staticStyle:{"text-align":"left"}},[_v("Both negative and positive test cases")]),_v(" "),_c('td',{staticStyle:{"text-align":"left"}},[_v("More focus on positive test cases")])])])])])}
@@ -29,6 +29,6 @@ with(this){return _c('p',[_c('strong',[_v("Passing system tests does not necessa
 with(this){return _c('ul',[_c('li',[_v("The system might work on the testbed environments but might not work the same way in the deployment environment, due to subtle differences between the two environments.")]),_v(" "),_c('li',[_v("The system might conform to the system specification but could fail to solve the problem it was supposed to solve for the user, due to flaws in the system design.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

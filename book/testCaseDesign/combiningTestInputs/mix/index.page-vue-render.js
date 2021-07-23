@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can apply multiple test input combination techniques together")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Quality Assurance → Test Case Design → Combining Test Inputs →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"mix"}},[_c('span',{staticClass:"anchor",attrs:{"id":"mix"}}),_c('span',[_v("Mix")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"mix"}},[_c('span',{staticClass:"anchor",attrs:{"id":"mix"}}),_c('span',[_v("Mix")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#mix","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("To get the first cut of test cases, let’s apply the "),_c('em',[_v("at least once")]),_v(" strategy.")])}
@@ -29,6 +29,6 @@ with(this){return _c('p',[_v("Next, you have to apply the "),_c('em',[_v("no mor
 with(this){return _c('p',[_v("Next, you can assume that there is a dependency between the inputs "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("examScore")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("isAbsent")]),_v(" such that an absent student can only have "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("examScore=0")]),_v(". To cater for the hidden invalid case arising from this, you can add a new test case where "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("isAbsent=true")]),_v(" and "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("examScore!=0")]),_v(". In addition, test cases 3-6.2 should have "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("isAbsent=false")]),_v(" so that the input remains valid.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

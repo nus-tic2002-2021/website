@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can explain design patterns format")])])])])])}
@@ -14,12 +14,12 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Design → Design Patterns → Introduction →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"format"}},[_c('span',{staticClass:"anchor",attrs:{"id":"format"}}),_c('span',[_v("Format")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"format"}},[_c('span',{staticClass:"anchor",attrs:{"id":"format"}}),_c('span',[_v("Format")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#format","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('p',[_v("The common format to describe a pattern consists of the following components:")]),_v(" "),_c('ul',[_c('li',[_c('strong',[_v("Context")]),_v(": The situation or scenario where the design problem is encountered.")]),_v(" "),_c('li',[_c('strong',[_v("Problem")]),_v(": The main difficulty to be resolved.")]),_v(" "),_c('li',[_c('strong',[_v("Solution")]),_v(": The core of the solution. It is important to note that the solution presented only includes the most general details, which may need further refinement for a specific context.")]),_v(" "),_c('li',[_c('strong',[_v("Anti-patterns")]),_v(" (optional): Commonly used solutions, which are usually incorrect and/or inferior to the Design Pattern.")]),_v(" "),_c('li',[_c('strong',[_v("Consequences")]),_v(" (optional): Identifying the pros and cons of applying the pattern.")]),_v(" "),_c('li',[_c('strong',[_v("Other useful information")]),_v(" (optional): Code examples, known uses, other related patterns, etc.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

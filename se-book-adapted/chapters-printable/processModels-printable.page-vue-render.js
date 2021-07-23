@@ -5,16 +5,16 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"sdlc-process-models"}},[_c('span',{staticClass:"anchor",attrs:{"id":"sdlc-process-models"}}),_c('span',[_v("SDLC process models")])])])])}
+with(this){return _c('div',{attrs:{"id":"title"}},[_c('div',[_c('h1',{attrs:{"id":"sdlc-process-models"}},[_c('span',{staticClass:"anchor",attrs:{"id":"sdlc-process-models"}}),_c('span',[_v("SDLC process models")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#sdlc-process-models","onclick":"event.stopPropagation()"}})])])])}
 },function anonymous(
 ) {
 with(this){return _c('div',[_c('small',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',{staticClass:"glyphicon glyphicon-print",attrs:{"aria-hidden":"true"}})]),_v(" This is a "),_c('strong',[_v("printer-friendly")]),_v(" version. It omits exercises, optional topics (i.e., four-star topics), and other extra content such as learning outcomes.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-2"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-2"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-2","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"introduction"}},[_c('span',{staticClass:"anchor",attrs:{"id":"introduction"}}),_c('span',[_v("Introduction")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#introduction","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('strong',[_v("Software development goes through different stages such as "),_c('em',[_v("requirements, analysis, design, implementation")]),_v(" and "),_c('em',[_v("testing")]),_v(". These stages are collectively known as the "),_c('em',[_v("software development life cycle")]),_v(" (SDLC).")]),_v(" There are several approaches, known as "),_c('em',[_v("software development life cycle models")]),_v(" (also called "),_c('em',[_v("software process models")]),_v("), that describe different ways to go through the SDLC. Each process model prescribes a \"roadmap\" for the software developers to manage the development effort. The roadmap describes the aims of the development stage(s), the artifacts or outcome of each stage, as well as the workflow i.e. the relationship between stages.")])])])}
@@ -29,7 +29,7 @@ with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_c('
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_v("In 2001, a group of prominent software engineering practitioners met and brainstormed for an alternative to documentation-driven, heavyweight software development processes that were used in most large projects at the time. This resulted in something called the "),_c('em',[_v("agile manifesto")]),_v(" (a vision statement of what they were looking to do).")]),_v(" "),_c('blockquote',[_c('p',[_v("You are uncovering better ways of developing software by doing it and helping others do it.")]),_v(" "),_c('p',[_v("Through this work you have come to value:")]),_v(" "),_c('ul',[_c('li',[_c('strong',[_v("Individuals and interactions")]),_v(" over processes and tools")]),_v(" "),_c('li',[_c('strong',[_v("Working software")]),_v(" over comprehensive documentation")]),_v(" "),_c('li',[_c('strong',[_v("Customer collaboration")]),_v(" over contract negotiation")]),_v(" "),_c('li',[_c('strong',[_v("Responding to change")]),_v(" over following a plan")])]),_v(" "),_c('p',[_v("That is, while there is value in the items on the right, you value the items on the left more."),_c('br'),_v(" "),_c('sub',[_v("-- Extract from the "),_c('a',{attrs:{"href":"http://agilemanifesto.org/"}},[_v("Agile Manifesto")])])])]),_v(" "),_c('p',[_v("Subsequently, some of the signatories of the manifesto went on to create process models that try to follow it. These processes are collectively called agile processes. Some of the key features of agile approaches are:")]),_v(" "),_c('ul',[_c('li',[_v("Requirements are prioritized based on the needs of the user, are clarified regularly (at times almost on a daily basis) with the entire project team, and are factored into the development schedule as appropriate.")]),_v(" "),_c('li',[_v("Instead of doing a very elaborate and detailed design and a project plan for the whole project, the team works based on a rough project plan and a high level design that evolves as the project goes on.")]),_v(" "),_c('li',[_v("There is a strong emphasis on complete transparency and responsibility sharing among the team members. The team is responsible together for the delivery of the product. Team members are accountable, and regularly and openly share progress with each other and with the user.")])]),_v(" "),_c('p',[_c('strong',[_v("There are a number of agile processes in the development world today. "),_c('em',[_v("eXtreme Programming (XP)")]),_v(" and "),_c('em',[_v("Scrum")]),_v(" are two of the well-known ones.")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-3"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-3"}}),_c('span',[_v("Example process models")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-3","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"example-process-models"}},[_c('span',{staticClass:"anchor",attrs:{"id":"example-process-models"}}),_c('span',[_v("Example process models")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#example-process-models","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_v("The following description was adapted from the "),_c('a',{attrs:{"href":"http://www.extremeprogramming.org"}},[_v("XP home page")]),_v(", emphasis added:")])}
@@ -41,15 +41,15 @@ with(this){return _c('p',[_c('strong',[_c('em',[_v("Pair programming, CRC cards,
 with(this){return _c('p',[_c('strong',[_c('em',[_v("Daily Scrum")]),_v(" is another key scrum practice")]),_v(". The description below was adapted from "),_c('a',{attrs:{"href":"https://www.mountaingoatsoftware.com/agile/scrum/meetings/daily-scrum"}},[_v("https://www.mountaingoatsoftware.com")]),_v(" (emphasis added):")])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-4"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-4"}}),_c('span',[_v("More")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-4","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"more"}},[_c('span',{staticClass:"anchor",attrs:{"id":"more"}}),_c('span',[_v("More")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#more","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h2',{attrs:{"id":"-5"}},[_c('span',{staticClass:"anchor",attrs:{"id":"-5"}}),_c('span',[_v("Summary")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#-5","onclick":"event.stopPropagation()"}})])])}
+with(this){return _c('div',[_c('h2',{attrs:{"id":"summary"}},[_c('span',{staticClass:"anchor",attrs:{"id":"summary"}}),_c('span',[_v("Summary")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#summary","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('div',{staticClass:"indented-less"},[_c('div',[_c('p',[_v("This section has some exercises that cover multiple topics related to SDLC process models.")])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   

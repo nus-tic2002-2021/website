@@ -5,7 +5,7 @@ with(this){return _c('div',{attrs:{"id":"app"}},[_c('header',{attrs:{"fixed":""}
 };
     var pageVueStaticRenderFns = [function anonymous(
 ) {
-with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
+with(this){return _c('div',{staticClass:"w-100 p-1 bg-warning text-center d-print-none"},[_c('span',[_c('strong',[_v("This is a draft version of the website! The final version will be available near the start of the semester.")])])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span',[_c('span',{staticClass:"dimmed"},[_c('span',[_c('span',[_c('span',{staticClass:"fas fa-trophy",attrs:{"aria-hidden":"true"}})]),_v(" Can commit using Git")])])])])])}
@@ -14,7 +14,7 @@ with(this){return _c('p',[_c('span',{staticClass:"badge badge-light"},[_c('span'
 with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('span',[_v("Tools → Git and GitHub →\n")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('div',[_c('h4',{attrs:{"id":"commit-saving-changes-to-history"}},[_c('span',{staticClass:"anchor",attrs:{"id":"commit-saving-changes-to-history"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("commit")]),_v(": Saving changes to history")])])])}
+with(this){return _c('div',[_c('h4',{attrs:{"id":"commit-saving-changes-to-history"}},[_c('span',{staticClass:"anchor",attrs:{"id":"commit-saving-changes-to-history"}}),_c('span',[_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("commit")]),_v(": Saving changes to history")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#commit-saving-changes-to-history","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
 with(this){return _c('p',[_c('strong',[_v("After initializing a repository, Git can help you with revision controlling files inside the "),_c('em',[_v("working directory")]),_v(". However, it is not automatic.")]),_v(" It is up to you to tell Git which of your changes (aka "),_c('em',[_v("revisions")]),_v(") should be "),_c('em',[_v("committed")]),_v(" to its memory for later use. Saving changes into Git's memory in that way is often called "),_c('em',[_v("committing")]),_v(" and a change saved to the revision history is called a "),_c('em',[_v("commit")]),_v(".")])}
@@ -44,6 +44,6 @@ with(this){return _c('ol',[_c('li',[_c('p',[_v("Make some changes to "),_c('code
 with(this){return _c('p',[_c('strong',[_v("6. See the revision graph:")]),_v("  Note how commits form a path-like structure aka the "),_c('em',[_v("revision tree/graph")]),_v(". In the revision graph, each commit is shown as linked to its 'parent' commit (i.e., the commit before it).")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.4")]),_v(", generated on Wed, 14 Jul 2021, 15:34:37 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
 }];
   
