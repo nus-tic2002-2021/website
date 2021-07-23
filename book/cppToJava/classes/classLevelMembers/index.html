@@ -79,69 +79,67 @@
 </span><span data-v-7d17494f>    <span class="hljs-comment" data-v-7d17494f>// ...</span>
 </span><span data-v-7d17494f>
 </span><span data-v-7d17494f>}
-</span></code></pre></div> <!----></div></div></div></div> <div class="alert box-container alert-default" data-v-7d17494f><!----> <div class="header-and-body" data-v-7d17494f><!----> <div class="box-body-wrapper" data-v-7d17494f><!----> <!----> <div class="contents" data-v-7d17494f><p data-v-7d17494f><span class="badge badge-pill badge-warning" data-v-7d17494f><span aria-hidden="true" class="fas fa-lightbulb" data-v-7d17494f></span></span> Explanation of <strong data-v-7d17494f><code class="hljs inline no-lang" data-v-7d17494f>System.out.println(...)</code></strong>:</p> <ul data-v-7d17494f><li data-v-7d17494f><code class="hljs inline no-lang" data-v-7d17494f>out</code> is a class-level public attribute of the <code class="hljs inline no-lang" data-v-7d17494f>System</code> class.</li> <li data-v-7d17494f><code class="hljs inline no-lang" data-v-7d17494f>println</code> is an instance level method of the <code class="hljs inline no-lang" data-v-7d17494f>out</code> object.</li></ul></div> <!----></div></div></div></div> <div><div><div expanded="" class="card-container" data-v-5681bde8><!----> <div class="card expandable-card" data-v-5681bde8><div class="card-header header-toggle bg-light" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><!----></div> <div class="header-wrapper card-title bg-light" data-v-5681bde8><p data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-dumbbell" data-v-5681bde8></span></span> Exercises</p></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <div data-v-5681bde8><div data-v-5681bde8><div expanded="" class="card-container" data-v-5681bde8><span id="key-exercise-add-getmaxradius-to-the-circle-class" class="anchor" data-v-5681bde8></span> <div class="card expandable-card border-dark" data-v-5681bde8><div class="card-header header-toggle bg-dark border-dark" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><!----></div> <div class="header-wrapper card-title bg-dark text-white" data-v-5681bde8><h3 id="key-exercise-add-getmaxradius-to-the-circle-class" data-v-5681bde8><span id="key-exercise-add-getmaxradius-to-the-circle-class" class="anchor" data-v-5681bde8></span><small data-v-5681bde8><small data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-exclamation-sign" data-v-5681bde8></span></span> [Key Exercise] add getMaxRadius to the <code class="hljs inline no-lang" data-v-5681bde8>Circle</code> class</small></small><a href="#key-exercise-add-getmaxradius-to-the-circle-class" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h3></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-light" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-light" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-light" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <div class="card question" data-v-48074a07 data-v-48074a07><!----> <div class="card-body" data-v-48074a07><p>Consider the <code class="hljs inline no-lang">Circle</code> class below:</p> <pre><code class="hljs java"><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Circle</span> </span>{
-</span><span>    <span class="hljs-keyword">private</span> <span class="hljs-keyword">int</span> x;
-</span><span>    <span class="hljs-keyword">private</span> <span class="hljs-keyword">int</span> y;
-</span><span>    <span class="hljs-keyword">private</span> <span class="hljs-keyword">double</span> radius;
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">Circle</span><span class="hljs-params">()</span></span>{
-</span><span>        <span class="hljs-keyword">this</span>(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">0</span>);
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">Circle</span><span class="hljs-params">(<span class="hljs-keyword">int</span> x, <span class="hljs-keyword">int</span> y, <span class="hljs-keyword">double</span> radius)</span></span>{
-</span><span>        setX(x);
-</span><span>        setY(y);
-</span><span>        setRadius(radius);
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">int</span> <span class="hljs-title">getX</span><span class="hljs-params">()</span> </span>{
-</span><span>        <span class="hljs-keyword">return</span> x;
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">setX</span><span class="hljs-params">(<span class="hljs-keyword">int</span> x)</span> </span>{
-</span><span>        <span class="hljs-keyword">this</span>.x = x;
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">int</span> <span class="hljs-title">getY</span><span class="hljs-params">()</span> </span>{
-</span><span>        <span class="hljs-keyword">return</span> y;
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">setY</span><span class="hljs-params">(<span class="hljs-keyword">int</span> y)</span> </span>{
-</span><span>        <span class="hljs-keyword">this</span>.y = y;
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">double</span> <span class="hljs-title">getRadius</span><span class="hljs-params">()</span> </span>{
-</span><span>        <span class="hljs-keyword">return</span> radius;
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">setRadius</span><span class="hljs-params">(<span class="hljs-keyword">double</span> radius)</span> </span>{
-</span><span>        <span class="hljs-keyword">this</span>.radius = Math.max(radius, <span class="hljs-number">0</span>);
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">int</span> <span class="hljs-title">getArea</span><span class="hljs-params">()</span></span>{
-</span><span>        <span class="hljs-keyword">double</span> area = Math.PI * Math.pow(radius, <span class="hljs-number">2</span>);
-</span><span>        <span class="hljs-keyword">return</span> (<span class="hljs-keyword">int</span>)area;
-</span><span>    }
-</span><span>}
-</span></code></pre><p>Update it as follows so that code given below produces the given output.</p> <ul><li>Add a class-level <code class="hljs inline no-lang">getMaxRadius</code> method that returns the maximum radius that has been used in all <code class="hljs inline no-lang">Circle</code> objects created thus far.</li></ul> <pre><code class="no-line-numbers hljs java"><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Main</span> </span>{
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">main</span><span class="hljs-params">(String[] args)</span> </span>{
-</span><span>        Circle c = <span class="hljs-keyword">new</span> Circle();
-</span><span>        System.out.println(<span class="hljs-string">&quot;max radius used so far : &quot;</span> + Circle.getMaxRadius());
-</span><span>        c = <span class="hljs-keyword">new</span> Circle(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, <span class="hljs-number">10</span>);
-</span><span>        System.out.println(<span class="hljs-string">&quot;max radius used so far : &quot;</span> + Circle.getMaxRadius());
-</span><span>        c = <span class="hljs-keyword">new</span> Circle(<span class="hljs-number">0</span>, <span class="hljs-number">0</span>, -<span class="hljs-number">15</span>);
-</span><span>        System.out.println(<span class="hljs-string">&quot;max radius used so far : &quot;</span> + Circle.getMaxRadius());
-</span><span>        c.setRadius(<span class="hljs-number">12</span>);
-</span><span>        System.out.println(<span class="hljs-string">&quot;max radius used so far : &quot;</span> + Circle.getMaxRadius());
-</span><span>    }
-</span><span>}
-</span></code></pre><p><span><span aria-hidden="true" class="fas fa-arrow-down"></span></span></p> <pre><code class="hljs"><span>max radius used so far : 0.0
-</span><span>max radius used so far : 10.0
-</span><span>max radius used so far : 10.0
-</span><span>max radius used so far : 12.0
-</span></code></pre> <!----> <!----> <!----></div> <div class="card-footer alert-light border-top border-light text-dark" data-v-48074a07><!----> <div class="float-right" data-v-48074a07><button type="button" class="btn btn-success q-btn ml-1" data-v-48074a07>
-          Hint
-        </button></div></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:none;" data-v-5681bde8></div> <!----></div></div></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:none;" data-v-5681bde8></div> <!----></div></div></div></div></div></div></div></div></div> <i id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true" class="fa fa-arrow-circle-up fa-lg d-print-none"></i></div> <nav id="page-nav" class="fixed-header-padding" data-v-e8c82f88><div class="nav-component slim-scroll" data-v-e8c82f88></div> <!----></nav></div> <footer><div class="text-center"><small>[<span><strong>Powered by</strong></span> <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 3.0.6</a>, generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]</small></div></footer></div>
+</span></code></pre></div> <!----></div></div></div></div> <div class="alert box-container alert-default" data-v-7d17494f><!----> <div class="header-and-body" data-v-7d17494f><!----> <div class="box-body-wrapper" data-v-7d17494f><!----> <!----> <div class="contents" data-v-7d17494f><p data-v-7d17494f><span class="badge badge-pill badge-warning" data-v-7d17494f><span aria-hidden="true" class="fas fa-lightbulb" data-v-7d17494f></span></span> Explanation of <strong data-v-7d17494f><code class="hljs inline no-lang" data-v-7d17494f>System.out.println(...)</code></strong>:</p> <ul data-v-7d17494f><li data-v-7d17494f><code class="hljs inline no-lang" data-v-7d17494f>out</code> is a class-level public attribute of the <code class="hljs inline no-lang" data-v-7d17494f>System</code> class.</li> <li data-v-7d17494f><code class="hljs inline no-lang" data-v-7d17494f>println</code> is an instance level method of the <code class="hljs inline no-lang" data-v-7d17494f>out</code> object.</li></ul></div> <!----></div></div></div></div> <div><div><div><div expanded="" class="card-container" data-v-5681bde8><span id="key-exercise-add-getmaxradius-to-the-circle-class" class="anchor" data-v-5681bde8></span> <div class="card expandable-card border-dark" data-v-5681bde8><div class="card-header header-toggle bg-dark border-dark" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><!----></div> <div class="header-wrapper card-title bg-dark text-white" data-v-5681bde8><h3 id="key-exercise-add-getmaxradius-to-the-circle-class" data-v-5681bde8><span id="key-exercise-add-getmaxradius-to-the-circle-class" class="anchor" data-v-5681bde8></span><small data-v-5681bde8><small data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-exclamation-sign" data-v-5681bde8></span></span> [Key Exercise] add getMaxRadius to the <code class="hljs inline no-lang" data-v-5681bde8>Circle</code> class</small></small><a href="#key-exercise-add-getmaxradius-to-the-circle-class" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h3></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-light" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-light" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-light" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <p data-v-5681bde8>Consider the <code class="hljs inline no-lang" data-v-5681bde8>Circle</code> class below:</p> <pre data-v-5681bde8><code class="hljs java" data-v-5681bde8><span data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-class" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>class</span> <span class="hljs-title" data-v-5681bde8>Circle</span> </span>{
+</span><span data-v-5681bde8>    <span class="hljs-keyword" data-v-5681bde8>private</span> <span class="hljs-keyword" data-v-5681bde8>int</span> x;
+</span><span data-v-5681bde8>    <span class="hljs-keyword" data-v-5681bde8>private</span> <span class="hljs-keyword" data-v-5681bde8>int</span> y;
+</span><span data-v-5681bde8>    <span class="hljs-keyword" data-v-5681bde8>private</span> <span class="hljs-keyword" data-v-5681bde8>double</span> radius;
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-title" data-v-5681bde8>Circle</span><span class="hljs-params" data-v-5681bde8>()</span></span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>this</span>(<span class="hljs-number" data-v-5681bde8>0</span>, <span class="hljs-number" data-v-5681bde8>0</span>, <span class="hljs-number" data-v-5681bde8>0</span>);
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-title" data-v-5681bde8>Circle</span><span class="hljs-params" data-v-5681bde8>(<span class="hljs-keyword" data-v-5681bde8>int</span> x, <span class="hljs-keyword" data-v-5681bde8>int</span> y, <span class="hljs-keyword" data-v-5681bde8>double</span> radius)</span></span>{
+</span><span data-v-5681bde8>        setX(x);
+</span><span data-v-5681bde8>        setY(y);
+</span><span data-v-5681bde8>        setRadius(radius);
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>int</span> <span class="hljs-title" data-v-5681bde8>getX</span><span class="hljs-params" data-v-5681bde8>()</span> </span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>return</span> x;
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>void</span> <span class="hljs-title" data-v-5681bde8>setX</span><span class="hljs-params" data-v-5681bde8>(<span class="hljs-keyword" data-v-5681bde8>int</span> x)</span> </span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>this</span>.x = x;
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>int</span> <span class="hljs-title" data-v-5681bde8>getY</span><span class="hljs-params" data-v-5681bde8>()</span> </span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>return</span> y;
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>void</span> <span class="hljs-title" data-v-5681bde8>setY</span><span class="hljs-params" data-v-5681bde8>(<span class="hljs-keyword" data-v-5681bde8>int</span> y)</span> </span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>this</span>.y = y;
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>double</span> <span class="hljs-title" data-v-5681bde8>getRadius</span><span class="hljs-params" data-v-5681bde8>()</span> </span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>return</span> radius;
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>void</span> <span class="hljs-title" data-v-5681bde8>setRadius</span><span class="hljs-params" data-v-5681bde8>(<span class="hljs-keyword" data-v-5681bde8>double</span> radius)</span> </span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>this</span>.radius = Math.max(radius, <span class="hljs-number" data-v-5681bde8>0</span>);
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>int</span> <span class="hljs-title" data-v-5681bde8>getArea</span><span class="hljs-params" data-v-5681bde8>()</span></span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>double</span> area = Math.PI * Math.pow(radius, <span class="hljs-number" data-v-5681bde8>2</span>);
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>return</span> (<span class="hljs-keyword" data-v-5681bde8>int</span>)area;
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>}
+</span></code></pre><p data-v-5681bde8>Update it as follows so that code given below produces the given output.</p> <ul data-v-5681bde8><li data-v-5681bde8>Add a class-level <code class="hljs inline no-lang" data-v-5681bde8>getMaxRadius</code> method that returns the maximum radius that has been used in all <code class="hljs inline no-lang" data-v-5681bde8>Circle</code> objects created thus far.</li></ul> <pre data-v-5681bde8><code class="no-line-numbers hljs java" data-v-5681bde8><span data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-class" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>class</span> <span class="hljs-title" data-v-5681bde8>Main</span> </span>{
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>static</span> <span class="hljs-keyword" data-v-5681bde8>void</span> <span class="hljs-title" data-v-5681bde8>main</span><span class="hljs-params" data-v-5681bde8>(String[] args)</span> </span>{
+</span><span data-v-5681bde8>        Circle c = <span class="hljs-keyword" data-v-5681bde8>new</span> Circle();
+</span><span data-v-5681bde8>        System.out.println(<span class="hljs-string" data-v-5681bde8>&quot;max radius used so far : &quot;</span> + Circle.getMaxRadius());
+</span><span data-v-5681bde8>        c = <span class="hljs-keyword" data-v-5681bde8>new</span> Circle(<span class="hljs-number" data-v-5681bde8>0</span>, <span class="hljs-number" data-v-5681bde8>0</span>, <span class="hljs-number" data-v-5681bde8>10</span>);
+</span><span data-v-5681bde8>        System.out.println(<span class="hljs-string" data-v-5681bde8>&quot;max radius used so far : &quot;</span> + Circle.getMaxRadius());
+</span><span data-v-5681bde8>        c = <span class="hljs-keyword" data-v-5681bde8>new</span> Circle(<span class="hljs-number" data-v-5681bde8>0</span>, <span class="hljs-number" data-v-5681bde8>0</span>, -<span class="hljs-number" data-v-5681bde8>15</span>);
+</span><span data-v-5681bde8>        System.out.println(<span class="hljs-string" data-v-5681bde8>&quot;max radius used so far : &quot;</span> + Circle.getMaxRadius());
+</span><span data-v-5681bde8>        c.setRadius(<span class="hljs-number" data-v-5681bde8>12</span>);
+</span><span data-v-5681bde8>        System.out.println(<span class="hljs-string" data-v-5681bde8>&quot;max radius used so far : &quot;</span> + Circle.getMaxRadius());
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>}
+</span></code></pre><p data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-arrow-down" data-v-5681bde8></span></span></p> <pre data-v-5681bde8><code class="hljs" data-v-5681bde8><span data-v-5681bde8>max radius used so far : 0.0
+</span><span data-v-5681bde8>max radius used so far : 10.0
+</span><span data-v-5681bde8>max radius used so far : 10.0
+</span><span data-v-5681bde8>max radius used so far : 12.0
+</span></code></pre><div class="algolia-no-index card-container" data-v-5681bde8><!----> <div class="card expandable-card border-0" data-v-5681bde8><div class="card-header header-toggle bg-white border-0" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><span class="glyphicon glyphicon-chevron-right" data-v-5681bde8></span></div> <div class="header-wrapper card-title bg-white" data-v-5681bde8><p data-v-5681bde8>Hint</p></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down"></span></button> <button type="button" class="close-button btn btn-outline-secondary seamless-button" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary seamless-button" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><!----> <hr style="display:;" data-v-5681bde8></div> <!----></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:none;" data-v-5681bde8></div> <!----></div></div></div></div></div></div></div></div></div></div> <i id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true" class="fa fa-arrow-circle-up fa-lg d-print-none"></i></div> <nav id="page-nav" class="fixed-header-padding" data-v-e8c82f88><div class="nav-component slim-scroll" data-v-e8c82f88></div> <!----></nav></div> <footer><div class="text-center"><small>[<span><strong>Powered by</strong></span> <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 3.0.6</a>, generated on Sat, 24 Jul 2021, 2:25:58 GMT+8]</small></div></footer></div>
 </body><script src="../../../../markbind/js/bootstrap-utility.min.js"></script>
 <script>
   MarkBind.setupWithSearch()

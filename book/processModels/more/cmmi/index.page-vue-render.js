@@ -20,6 +20,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"cmmi"}},[_c('span',{staticClas
 with(this){return _c('p',[_c('strong',[_v("CMMI defines five maturity levels for a process and provides criteria to determine if the process of an organization is at a certain maturity level.")]),_v(" The diagram below [taken from Wikipedia] gives an overview of the five levels.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 24 Jul 2021, 2:25:58 GMT+8]")])])])}
 }];
   

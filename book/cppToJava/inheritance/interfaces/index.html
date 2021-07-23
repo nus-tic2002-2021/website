@@ -55,74 +55,74 @@
 </span><span data-v-7d17494f>    <span class="hljs-function" data-v-7d17494f><span class="hljs-keyword" data-v-7d17494f>void</span> <span class="hljs-title" data-v-7d17494f>signalTurn</span><span class="hljs-params" data-v-7d17494f>(Direction direction, <span class="hljs-keyword" data-v-7d17494f>boolean</span> signalOn)</span></span>;
 </span><span data-v-7d17494f>    <span class="hljs-comment" data-v-7d17494f>// more method signatures</span>
 </span><span data-v-7d17494f>}
-</span></code></pre></div> <!----></div></div></div> <p><span><span aria-hidden="true" class="fas fa-info-circle"></span></span> Interfaces can contain <a href="https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html"><em>default</em> method implementations</a> and <em>nested types</em>. They are not covered here.</p></div> <div><div><div expanded="" class="card-container" data-v-5681bde8><!----> <div class="card expandable-card" data-v-5681bde8><div class="card-header header-toggle bg-light" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><!----></div> <div class="header-wrapper card-title bg-light" data-v-5681bde8><p data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-dumbbell" data-v-5681bde8></span></span> Exercises</p></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <div data-v-5681bde8><div data-v-5681bde8><div expanded="" class="card-container" data-v-5681bde8><span id="key-exercise-print-printable-items" class="anchor" data-v-5681bde8></span> <div class="card expandable-card border-dark" data-v-5681bde8><div class="card-header header-toggle bg-dark border-dark" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><!----></div> <div class="header-wrapper card-title bg-dark text-white" data-v-5681bde8><h3 id="key-exercise-print-printable-items" data-v-5681bde8><span id="key-exercise-print-printable-items" class="anchor" data-v-5681bde8></span><small data-v-5681bde8><small data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-exclamation-sign" data-v-5681bde8></span></span> [Key Exercise] print <code class="hljs inline no-lang" data-v-5681bde8>Printable</code> items</small></small><a href="#key-exercise-print-printable-items" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h3></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-light" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-light" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-light" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <div class="card question" data-v-48074a07 data-v-48074a07><!----> <div class="card-body" data-v-48074a07><p>The <code class="hljs inline no-lang">Main</code> class below passes a list of <code class="hljs inline no-lang">Printable</code> objects (i.e., objects that implement the <code class="hljs inline no-lang">Printable</code> interface) for another method to be printed.</p> <pre><code class="hljs java"><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Main</span> </span>{
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">printObjects</span><span class="hljs-params">(Printable[] items)</span> </span>{
-</span><span>        <span class="hljs-keyword">for</span> (Printable p : items) {
-</span><span>            p.print();
-</span><span>        }
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">static</span> <span class="hljs-keyword">void</span> <span class="hljs-title">main</span><span class="hljs-params">(String[] args)</span> </span>{
-</span><span>        Printable[] printableItems = <span class="hljs-keyword">new</span> Printable[]{
-</span><span>                <span class="hljs-keyword">new</span> Circle(<span class="hljs-number">5</span>),
-</span><span>                <span class="hljs-keyword">new</span> Rectangle(<span class="hljs-number">3</span>, <span class="hljs-number">4</span>),
-</span><span>                <span class="hljs-keyword">new</span> Person(<span class="hljs-string">&quot;James Cook&quot;</span>)};
-</span><span>
-</span><span>        printObjects(printableItems);
-</span><span>    }
-</span><span>}
-</span></code></pre><p><span><span aria-hidden="true" class="fas fa-arrow-down"></span></span></p> <pre><code class="hljs"><span>Circle of area 78
-</span><span>Rectangle of area 12
-</span><span>Person of name James Cook
-</span></code></pre><p>Classes <code class="hljs inline no-lang">Shape</code>, <code class="hljs inline no-lang">Circle</code>, and <code class="hljs inline no-lang">Rectangle</code> are given below:</p> <pre><code class="hljs java"><span><span class="hljs-keyword">public</span> <span class="hljs-keyword">abstract</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Shape</span> </span>{
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">abstract</span> <span class="hljs-keyword">int</span> <span class="hljs-title">area</span><span class="hljs-params">()</span></span>;
-</span><span>}
-</span></code></pre><pre><code class="hljs java"><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Circle</span> <span class="hljs-keyword">extends</span> <span class="hljs-title">Shape</span> <span class="hljs-keyword">implements</span> <span class="hljs-title">Printable</span> </span>{
-</span><span>
-</span><span>    <span class="hljs-keyword">private</span> <span class="hljs-keyword">int</span> radius;
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">Circle</span><span class="hljs-params">(<span class="hljs-keyword">int</span> radius)</span> </span>{
-</span><span>        <span class="hljs-keyword">this</span>.radius = radius;
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-meta">@Override</span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">int</span> <span class="hljs-title">area</span><span class="hljs-params">()</span> </span>{
-</span><span>        <span class="hljs-keyword">return</span> (<span class="hljs-keyword">int</span>)(Math.PI * radius * radius);
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-meta">@Override</span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">print</span><span class="hljs-params">()</span> </span>{
-</span><span>        System.out.println(<span class="hljs-string">&quot;Circle of area &quot;</span> + area());
-</span><span>    }
-</span><span>}
-</span></code></pre><pre><code class="hljs java"><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Rectangle</span> <span class="hljs-keyword">extends</span> <span class="hljs-title">Shape</span> <span class="hljs-keyword">implements</span> <span class="hljs-title">Printable</span> </span>{
-</span><span>    <span class="hljs-keyword">private</span> <span class="hljs-keyword">int</span> height;
-</span><span>    <span class="hljs-keyword">private</span> <span class="hljs-keyword">int</span> width;
-</span><span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-title">Rectangle</span><span class="hljs-params">(<span class="hljs-keyword">int</span> height, <span class="hljs-keyword">int</span> width)</span></span>{
-</span><span>        <span class="hljs-keyword">this</span>.height = height;
-</span><span>        <span class="hljs-keyword">this</span>.width = width;
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-meta">@Override</span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">int</span> <span class="hljs-title">area</span><span class="hljs-params">()</span> </span>{
-</span><span>        <span class="hljs-keyword">return</span> height * width;
-</span><span>    }
-</span><span>
-</span><span>    <span class="hljs-meta">@Override</span>
-</span><span>    <span class="hljs-function"><span class="hljs-keyword">public</span> <span class="hljs-keyword">void</span> <span class="hljs-title">print</span><span class="hljs-params">()</span> </span>{
-</span><span>        System.out.println(<span class="hljs-string">&quot;Rectangle of area &quot;</span> + area());
-</span><span>    }
-</span><span>}
-</span></code></pre><p>Add the missing <code class="hljs inline no-lang">Printable</code> interface. Add the missing methods of the <code class="hljs inline no-lang">Person</code> class given below.</p> <pre><code class="hljs java"><span><span class="hljs-keyword">public</span> <span class="hljs-class"><span class="hljs-keyword">class</span> <span class="hljs-title">Person</span> <span class="hljs-keyword">implements</span> <span class="hljs-title">Printable</span> </span>{
-</span><span>
-</span><span>    <span class="hljs-keyword">private</span> String name;
-</span><span>
-</span><span>    <span class="hljs-comment">// todo: add missing methods</span>
-</span><span>}
-</span></code></pre><div class="algolia-no-index card-container" data-v-5681bde8><!----> <div class="card expandable-card border-0" data-v-5681bde8><div class="card-header header-toggle bg-white border-0" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><span class="glyphicon glyphicon-chevron-right" data-v-5681bde8></span></div> <div class="header-wrapper card-title bg-white" data-v-5681bde8><p data-v-5681bde8>Partial solution</p></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down"></span></button> <button type="button" class="close-button btn btn-outline-secondary seamless-button" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary seamless-button" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><!----> <hr style="display:;" data-v-5681bde8></div> <!----></div></div> <!----> <!----> <!----></div> <div class="card-footer alert-light border-top border-light text-dark" data-v-48074a07><!----> <div class="float-right" data-v-48074a07></div></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:none;" data-v-5681bde8></div> <!----></div></div></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:none;" data-v-5681bde8></div> <!----></div></div></div></div></div></div></div></div></div> <i id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true" class="fa fa-arrow-circle-up fa-lg d-print-none"></i></div> <nav id="page-nav" class="fixed-header-padding" data-v-e8c82f88><div class="nav-component slim-scroll" data-v-e8c82f88></div> <!----></nav></div> <footer><div class="text-center"><small>[<span><strong>Powered by</strong></span> <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 3.0.6</a>, generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]</small></div></footer></div>
+</span></code></pre></div> <!----></div></div></div> <p><span><span aria-hidden="true" class="fas fa-info-circle"></span></span> Interfaces can contain <a href="https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html"><em>default</em> method implementations</a> and <em>nested types</em>. They are not covered here.</p></div> <div><div><div><div expanded="" class="card-container" data-v-5681bde8><span id="key-exercise-print-printable-items" class="anchor" data-v-5681bde8></span> <div class="card expandable-card border-dark" data-v-5681bde8><div class="card-header header-toggle bg-dark border-dark" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><!----></div> <div class="header-wrapper card-title bg-dark text-white" data-v-5681bde8><h3 id="key-exercise-print-printable-items" data-v-5681bde8><span id="key-exercise-print-printable-items" class="anchor" data-v-5681bde8></span><small data-v-5681bde8><small data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-exclamation-sign" data-v-5681bde8></span></span> [Key Exercise] print <code class="hljs inline no-lang" data-v-5681bde8>Printable</code> items</small></small><a href="#key-exercise-print-printable-items" onclick="event.stopPropagation()" class="fa fa-anchor" data-v-5681bde8></a></h3></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-light" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button> <button type="button" class="close-button btn btn-outline-light" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-light" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><div class="card-body" data-v-5681bde8> <p data-v-5681bde8>The <code class="hljs inline no-lang" data-v-5681bde8>Main</code> class below passes a list of <code class="hljs inline no-lang" data-v-5681bde8>Printable</code> objects (i.e., objects that implement the <code class="hljs inline no-lang" data-v-5681bde8>Printable</code> interface) for another method to be printed.</p> <pre data-v-5681bde8><code class="hljs java" data-v-5681bde8><span data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-class" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>class</span> <span class="hljs-title" data-v-5681bde8>Main</span> </span>{
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>static</span> <span class="hljs-keyword" data-v-5681bde8>void</span> <span class="hljs-title" data-v-5681bde8>printObjects</span><span class="hljs-params" data-v-5681bde8>(Printable[] items)</span> </span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>for</span> (Printable p : items) {
+</span><span data-v-5681bde8>            p.print();
+</span><span data-v-5681bde8>        }
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>static</span> <span class="hljs-keyword" data-v-5681bde8>void</span> <span class="hljs-title" data-v-5681bde8>main</span><span class="hljs-params" data-v-5681bde8>(String[] args)</span> </span>{
+</span><span data-v-5681bde8>        Printable[] printableItems = <span class="hljs-keyword" data-v-5681bde8>new</span> Printable[]{
+</span><span data-v-5681bde8>                <span class="hljs-keyword" data-v-5681bde8>new</span> Circle(<span class="hljs-number" data-v-5681bde8>5</span>),
+</span><span data-v-5681bde8>                <span class="hljs-keyword" data-v-5681bde8>new</span> Rectangle(<span class="hljs-number" data-v-5681bde8>3</span>, <span class="hljs-number" data-v-5681bde8>4</span>),
+</span><span data-v-5681bde8>                <span class="hljs-keyword" data-v-5681bde8>new</span> Person(<span class="hljs-string" data-v-5681bde8>&quot;James Cook&quot;</span>)};
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>        printObjects(printableItems);
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>}
+</span></code></pre><p data-v-5681bde8><span data-v-5681bde8><span aria-hidden="true" class="fas fa-arrow-down" data-v-5681bde8></span></span></p> <pre data-v-5681bde8><code class="hljs" data-v-5681bde8><span data-v-5681bde8>Circle of area 78
+</span><span data-v-5681bde8>Rectangle of area 12
+</span><span data-v-5681bde8>Person of name James Cook
+</span></code></pre><p data-v-5681bde8>Classes <code class="hljs inline no-lang" data-v-5681bde8>Shape</code>, <code class="hljs inline no-lang" data-v-5681bde8>Circle</code>, and <code class="hljs inline no-lang" data-v-5681bde8>Rectangle</code> are given below:</p> <pre data-v-5681bde8><code class="hljs java" data-v-5681bde8><span data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>abstract</span> <span class="hljs-class" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>class</span> <span class="hljs-title" data-v-5681bde8>Shape</span> </span>{
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>abstract</span> <span class="hljs-keyword" data-v-5681bde8>int</span> <span class="hljs-title" data-v-5681bde8>area</span><span class="hljs-params" data-v-5681bde8>()</span></span>;
+</span><span data-v-5681bde8>}
+</span></code></pre><pre data-v-5681bde8><code class="hljs java" data-v-5681bde8><span data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-class" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>class</span> <span class="hljs-title" data-v-5681bde8>Circle</span> <span class="hljs-keyword" data-v-5681bde8>extends</span> <span class="hljs-title" data-v-5681bde8>Shape</span> <span class="hljs-keyword" data-v-5681bde8>implements</span> <span class="hljs-title" data-v-5681bde8>Printable</span> </span>{
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-keyword" data-v-5681bde8>private</span> <span class="hljs-keyword" data-v-5681bde8>int</span> radius;
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-title" data-v-5681bde8>Circle</span><span class="hljs-params" data-v-5681bde8>(<span class="hljs-keyword" data-v-5681bde8>int</span> radius)</span> </span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>this</span>.radius = radius;
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-meta" data-v-5681bde8>@Override</span>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>int</span> <span class="hljs-title" data-v-5681bde8>area</span><span class="hljs-params" data-v-5681bde8>()</span> </span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>return</span> (<span class="hljs-keyword" data-v-5681bde8>int</span>)(Math.PI * radius * radius);
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-meta" data-v-5681bde8>@Override</span>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>void</span> <span class="hljs-title" data-v-5681bde8>print</span><span class="hljs-params" data-v-5681bde8>()</span> </span>{
+</span><span data-v-5681bde8>        System.out.println(<span class="hljs-string" data-v-5681bde8>&quot;Circle of area &quot;</span> + area());
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>}
+</span></code></pre><pre data-v-5681bde8><code class="hljs java" data-v-5681bde8><span data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-class" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>class</span> <span class="hljs-title" data-v-5681bde8>Rectangle</span> <span class="hljs-keyword" data-v-5681bde8>extends</span> <span class="hljs-title" data-v-5681bde8>Shape</span> <span class="hljs-keyword" data-v-5681bde8>implements</span> <span class="hljs-title" data-v-5681bde8>Printable</span> </span>{
+</span><span data-v-5681bde8>    <span class="hljs-keyword" data-v-5681bde8>private</span> <span class="hljs-keyword" data-v-5681bde8>int</span> height;
+</span><span data-v-5681bde8>    <span class="hljs-keyword" data-v-5681bde8>private</span> <span class="hljs-keyword" data-v-5681bde8>int</span> width;
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-title" data-v-5681bde8>Rectangle</span><span class="hljs-params" data-v-5681bde8>(<span class="hljs-keyword" data-v-5681bde8>int</span> height, <span class="hljs-keyword" data-v-5681bde8>int</span> width)</span></span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>this</span>.height = height;
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>this</span>.width = width;
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-meta" data-v-5681bde8>@Override</span>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>int</span> <span class="hljs-title" data-v-5681bde8>area</span><span class="hljs-params" data-v-5681bde8>()</span> </span>{
+</span><span data-v-5681bde8>        <span class="hljs-keyword" data-v-5681bde8>return</span> height * width;
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-meta" data-v-5681bde8>@Override</span>
+</span><span data-v-5681bde8>    <span class="hljs-function" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-keyword" data-v-5681bde8>void</span> <span class="hljs-title" data-v-5681bde8>print</span><span class="hljs-params" data-v-5681bde8>()</span> </span>{
+</span><span data-v-5681bde8>        System.out.println(<span class="hljs-string" data-v-5681bde8>&quot;Rectangle of area &quot;</span> + area());
+</span><span data-v-5681bde8>    }
+</span><span data-v-5681bde8>}
+</span></code></pre><p data-v-5681bde8>Add the missing <code class="hljs inline no-lang" data-v-5681bde8>Printable</code> interface. Add the missing methods of the <code class="hljs inline no-lang" data-v-5681bde8>Person</code> class given below.</p> <pre data-v-5681bde8><code class="hljs java" data-v-5681bde8><span data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>public</span> <span class="hljs-class" data-v-5681bde8><span class="hljs-keyword" data-v-5681bde8>class</span> <span class="hljs-title" data-v-5681bde8>Person</span> <span class="hljs-keyword" data-v-5681bde8>implements</span> <span class="hljs-title" data-v-5681bde8>Printable</span> </span>{
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-keyword" data-v-5681bde8>private</span> String name;
+</span><span data-v-5681bde8>
+</span><span data-v-5681bde8>    <span class="hljs-comment" data-v-5681bde8>// todo: add missing methods</span>
+</span><span data-v-5681bde8>}
+</span></code></pre><div class="algolia-no-index card-container" data-v-5681bde8><!----> <div class="card expandable-card border-0" data-v-5681bde8><div class="card-header header-toggle bg-white border-0" data-v-5681bde8><div class="caret-wrapper" data-v-5681bde8><span class="glyphicon glyphicon-chevron-right" data-v-5681bde8></span></div> <div class="header-wrapper card-title bg-white" data-v-5681bde8><p data-v-5681bde8>Partial solution</p></div> <div class="button-wrapper" data-v-5681bde8><button type="button" class="collapse-button btn btn-outline-secondary" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down"></span></button> <button type="button" class="close-button btn btn-outline-secondary seamless-button" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-remove" data-v-5681bde8></span></button> <button type="button" class="popup-button btn btn-outline-secondary seamless-button" style="display:none;" data-v-5681bde8><span aria-hidden="true" class="glyphicon glyphicon-new-window" data-v-5681bde8></span></button></div></div> <div class="card-collapse" data-v-5681bde8><!----> <hr style="display:;" data-v-5681bde8></div> <!----></div></div> <!----> <button type="button" class="collapse-button btn btn-outline-secondary" data-v-5681bde8><span aria-hidden="true" class="collapse-icon glyphicon glyphicon-menu-down opened"></span></button></div> <hr style="display:none;" data-v-5681bde8></div> <!----></div></div></div></div></div></div></div></div></div></div> <i id="scroll-top-button" onclick="handleScrollTop()" aria-hidden="true" class="fa fa-arrow-circle-up fa-lg d-print-none"></i></div> <nav id="page-nav" class="fixed-header-padding" data-v-e8c82f88><div class="nav-component slim-scroll" data-v-e8c82f88></div> <!----></nav></div> <footer><div class="text-center"><small>[<span><strong>Powered by</strong></span> <img src="https://markbind.org/favicon.ico" width="30"> <a href="https://markbind.org/">MarkBind 3.0.6</a>, generated on Sat, 24 Jul 2021, 2:25:58 GMT+8]</small></div></footer></div>
 </body><script src="../../../../markbind/js/bootstrap-utility.min.js"></script>
 <script>
   MarkBind.setupWithSearch()

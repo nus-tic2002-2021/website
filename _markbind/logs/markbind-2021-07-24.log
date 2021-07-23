@@ -1,0 +1,313 @@
+2021-07-23T17:38:33.096Z - info: Website generation (lazy) started at 1:38:27 am
+2021-07-23T17:38:38.782Z - info: Building assets...
+2021-07-23T17:38:43.735Z - info: Assets built
+2021-07-23T17:38:43.736Z - info: Generating landing page...
+2021-07-23T17:38:45.692Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-23T17:38:46.872Z - info: Site data built
+2021-07-23T17:38:46.872Z - info: Website generation (lazy) complete! Total build time: 18.969s
+2021-07-23T17:38:47.741Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-23T17:38:47.741Z - info: Press CTRL+C to stop ...
+2021-07-23T17:48:24.749Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2021-07-23T17:48:25.099Z - info: Site data built
+2021-07-23T17:48:25.099Z - info: Lazy website regeneration complete! Total build time: 0.351s
+2021-07-23T17:48:30.079Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\cppToJava as some of its dependencies were changed since the last visit
+2021-07-23T17:48:33.535Z - info: Site data built
+2021-07-23T17:48:33.535Z - info: Lazy website regeneration complete! Total build time: 3.456s
+2021-07-23T17:49:55.221Z - info: [1:49:55 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-07-23T17:49:55.221Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:49:55.222Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:49:55.222Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:49:56.233Z - info: Rebuilding 1 pages
+2021-07-23T17:49:58.849Z - info: Site data built
+2021-07-23T17:49:58.849Z - info: Pages rebuilt
+2021-07-23T17:49:58.849Z - info: Website regeneration complete! Total build time: 2.621s
+2021-07-23T17:50:14.180Z - info: [1:50:14 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-byeWorld.md
+2021-07-23T17:50:14.180Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:50:14.180Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:50:14.181Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:50:15.190Z - info: Rebuilding 1 pages
+2021-07-23T17:50:17.717Z - info: Site data built
+2021-07-23T17:50:17.717Z - info: Pages rebuilt
+2021-07-23T17:50:17.717Z - info: Website regeneration complete! Total build time: 2.531s
+2021-07-23T17:51:42.662Z - info: [1:51:42 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\dataTypes\arrays\q-compareNames.md
+2021-07-23T17:51:42.663Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:51:42.663Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:51:42.664Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:51:43.671Z - info: Rebuilding 1 pages
+2021-07-23T17:51:46.126Z - info: Site data built
+2021-07-23T17:51:46.126Z - info: Pages rebuilt
+2021-07-23T17:51:46.126Z - info: Website regeneration complete! Total build time: 2.457s
+2021-07-23T17:53:05.615Z - info: [1:53:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\branching\q-gradeHelper.md
+2021-07-23T17:53:05.616Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:53:05.616Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:53:05.616Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:53:06.632Z - info: Rebuilding 1 pages
+2021-07-23T17:53:09.222Z - info: Site data built
+2021-07-23T17:53:09.222Z - info: Pages rebuilt
+2021-07-23T17:53:09.223Z - info: Website regeneration complete! Total build time: 2.591s
+2021-07-23T17:54:18.041Z - info: [1:54:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\loops\q-getMultipleGradeCapsMethod.md
+2021-07-23T17:54:18.041Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:54:18.042Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:54:18.042Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:54:19.063Z - info: Rebuilding 1 pages
+2021-07-23T17:54:21.619Z - info: Site data built
+2021-07-23T17:54:21.619Z - info: Pages rebuilt
+2021-07-23T17:54:21.619Z - info: Website regeneration complete! Total build time: 2.559s
+2021-07-23T17:55:00.589Z - info: [1:55:00 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\methods\q-getGradeCapMethod.md
+2021-07-23T17:55:00.589Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:55:00.590Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:55:00.590Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:55:01.611Z - info: Rebuilding 1 pages
+2021-07-23T17:55:04.184Z - info: Site data built
+2021-07-23T17:55:04.184Z - info: Pages rebuilt
+2021-07-23T17:55:04.184Z - info: Website regeneration complete! Total build time: 2.574s
+2021-07-23T17:55:43.954Z - info: [1:55:43 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\objects\usingObjects\q-createRectangleObjects.md
+2021-07-23T17:55:43.954Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:55:43.955Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:55:43.955Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:55:44.958Z - info: Rebuilding 1 pages
+2021-07-23T17:55:47.493Z - info: Site data built
+2021-07-23T17:55:47.493Z - info: Pages rebuilt
+2021-07-23T17:55:47.493Z - info: Website regeneration complete! Total build time: 2.536s
+2021-07-23T17:56:39.619Z - info: [1:56:39 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\objects\passingObjects\q-passObjectsToMoveMethod.md
+2021-07-23T17:56:39.619Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:56:39.620Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:56:39.620Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:56:40.631Z - info: Rebuilding 1 pages
+2021-07-23T17:56:43.192Z - info: Site data built
+2021-07-23T17:56:43.192Z - info: Pages rebuilt
+2021-07-23T17:56:43.192Z - info: Website regeneration complete! Total build time: 2.564s
+2021-07-23T17:57:25.749Z - info: [1:57:25 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\objects\instanceMembers\q-useRectangleObjects.md
+2021-07-23T17:57:25.750Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:57:25.750Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:57:25.750Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:57:26.765Z - info: Rebuilding 1 pages
+2021-07-23T17:57:29.321Z - info: Site data built
+2021-07-23T17:57:29.321Z - info: Pages rebuilt
+2021-07-23T17:57:29.321Z - info: Website regeneration complete! Total build time: 2.559s
+2021-07-23T17:58:30.960Z - info: [1:58:30 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\classes\definingClasses\q-defineCircleClass.md
+2021-07-23T17:58:30.960Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:58:30.961Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:58:30.961Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:58:31.980Z - info: Rebuilding 1 pages
+2021-07-23T17:58:34.542Z - info: Site data built
+2021-07-23T17:58:34.542Z - info: Pages rebuilt
+2021-07-23T17:58:34.543Z - info: Website regeneration complete! Total build time: 2.564s
+2021-07-23T17:59:36.030Z - info: [1:59:36 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\classes\gettersAndSetters\q-addCircleGetters.md
+2021-07-23T17:59:36.031Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:59:36.031Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:59:36.032Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:59:36.047Z - info: [1:59:36 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\classes\classLevelMembers\q-getMaxRadius.md
+2021-07-23T17:59:36.047Z - info: Synchronizing opened pages list before reload
+2021-07-23T17:59:36.047Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T17:59:36.047Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T17:59:37.054Z - info: Rebuilding 1 pages
+2021-07-23T17:59:39.612Z - info: Site data built
+2021-07-23T17:59:39.613Z - info: Pages rebuilt
+2021-07-23T17:59:39.613Z - info: Website regeneration complete! Total build time: 2.562s
+2021-07-23T18:00:14.555Z - info: [2:00:14 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\usefulClasses\stringClass\q-printPriceMethod.md
+2021-07-23T18:00:14.555Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:00:14.556Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:00:14.556Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:00:15.564Z - info: Rebuilding 1 pages
+2021-07-23T18:00:18.146Z - info: Site data built
+2021-07-23T18:00:18.146Z - info: Pages rebuilt
+2021-07-23T18:00:18.147Z - info: Website regeneration complete! Total build time: 2.585s
+2021-07-23T18:01:17.692Z - info: [2:01:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\usefulClasses\arraysClass\q-filterEmailsMethod.md
+2021-07-23T18:01:17.693Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:01:17.693Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:01:17.693Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:01:17.704Z - info: [2:01:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\usefulClasses\wrapperClasses\q-printTotalScoreMethod.md
+2021-07-23T18:01:17.705Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:01:17.705Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:01:17.705Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:01:17.719Z - info: [2:01:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\usefulClasses\scannerClass\q-findTotalExpenditure.md
+2021-07-23T18:01:17.719Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:01:17.719Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:01:17.719Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:01:18.710Z - info: Rebuilding 1 pages
+2021-07-23T18:01:21.296Z - info: Site data built
+2021-07-23T18:01:21.296Z - info: Pages rebuilt
+2021-07-23T18:01:21.297Z - info: Website regeneration complete! Total build time: 2.589s
+2021-07-23T18:02:48.800Z - info: [2:02:48 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\inheritance\basic\q-inheritTaskClass.md
+2021-07-23T18:02:48.800Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:02:48.801Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:02:48.801Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:02:48.815Z - info: [2:02:48 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\inheritance\polymorphism\q-printShapeArea.md
+2021-07-23T18:02:48.816Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:02:48.816Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:02:48.818Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:02:48.828Z - info: [2:02:48 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\inheritance\abstractClassesAndMethods\q-printAreaWithAbstractShape.md
+2021-07-23T18:02:48.829Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:02:48.829Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:02:48.829Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:02:48.842Z - info: [2:02:48 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\inheritance\interfaces\q-printPrintableItems.md
+2021-07-23T18:02:48.842Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:02:48.842Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:02:48.842Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:02:49.820Z - info: Rebuilding 1 pages
+2021-07-23T18:02:52.450Z - info: Site data built
+2021-07-23T18:02:52.450Z - info: Pages rebuilt
+2021-07-23T18:02:52.450Z - info: Website regeneration complete! Total build time: 2.635s
+2021-07-23T18:03:21.422Z - info: [2:03:21 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\inheritance\objectClass\q-overrideToStringMethod.md
+2021-07-23T18:03:21.422Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:03:21.423Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:03:21.424Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:03:22.431Z - info: Rebuilding 1 pages
+2021-07-23T18:03:25.011Z - info: Site data built
+2021-07-23T18:03:25.011Z - info: Pages rebuilt
+2021-07-23T18:03:25.011Z - info: Website regeneration complete! Total build time: 2.582s
+2021-07-23T18:04:11.536Z - info: [2:04:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\exceptions\how\q-parseRectangleDescriptor.md
+2021-07-23T18:04:11.537Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:04:11.538Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:04:11.539Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:04:12.558Z - info: Rebuilding 1 pages
+2021-07-23T18:04:15.121Z - info: Site data built
+2021-07-23T18:04:15.121Z - info: Pages rebuilt
+2021-07-23T18:04:15.121Z - info: Website regeneration complete! Total build time: 2.564s
+2021-07-23T18:06:18.272Z - info: [2:06:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\collections\arrayListClass\q-numbersList.md
+2021-07-23T18:06:18.273Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:06:18.273Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:06:18.273Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:06:19.286Z - info: Rebuilding 1 pages
+2021-07-23T18:06:21.964Z - info: Site data built
+2021-07-23T18:06:21.965Z - info: Pages rebuilt
+2021-07-23T18:06:21.965Z - info: Website regeneration complete! Total build time: 2.682s
+2021-07-23T18:07:09.779Z - info: [2:07:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\enums\q-showPriorityColor.md
+2021-07-23T18:07:09.779Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:07:09.780Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:07:09.780Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:07:10.788Z - info: Rebuilding 1 pages
+2021-07-23T18:07:13.354Z - info: Site data built
+2021-07-23T18:07:13.354Z - info: Pages rebuilt
+2021-07-23T18:07:13.354Z - info: Website regeneration complete! Total build time: 2.568s
+2021-07-23T18:09:05.433Z - info: [2:09:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\enums\text.md
+2021-07-23T18:09:05.434Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:09:05.434Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:09:05.434Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:09:06.444Z - info: Rebuilding 1 pages
+2021-07-23T18:09:09.020Z - info: Site data built
+2021-07-23T18:09:09.021Z - info: Pages rebuilt
+2021-07-23T18:09:09.021Z - info: Website regeneration complete! Total build time: 2.58s
+2021-07-23T18:09:27.098Z - info: [2:09:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\enums\text.md
+2021-07-23T18:09:27.098Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:09:27.098Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:09:27.098Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:09:28.113Z - info: Rebuilding 1 pages
+2021-07-23T18:09:30.325Z - info: Site data built
+2021-07-23T18:09:30.325Z - info: Pages rebuilt
+2021-07-23T18:09:30.325Z - info: Website regeneration complete! Total build time: 2.213s
+2021-07-23T18:10:35.332Z - info: [2:10:35 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\methods\q-getGradeCapMethod.md
+2021-07-23T18:10:35.334Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:10:35.334Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:10:35.335Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:10:36.341Z - info: Rebuilding 1 pages
+2021-07-23T18:10:38.790Z - info: Site data built
+2021-07-23T18:10:38.791Z - info: Pages rebuilt
+2021-07-23T18:10:38.791Z - info: Website regeneration complete! Total build time: 2.451s
+2021-07-23T18:12:22.734Z - info: [2:12:22 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\classes\definingClasses\text.md
+2021-07-23T18:12:22.734Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:12:22.735Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:12:22.735Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:12:22.752Z - info: [2:12:22 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\classes\classLevelMembers\text.md
+2021-07-23T18:12:22.753Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:12:22.753Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:12:22.753Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:12:23.744Z - info: Rebuilding 1 pages
+2021-07-23T18:12:26.366Z - info: Site data built
+2021-07-23T18:12:26.366Z - info: Pages rebuilt
+2021-07-23T18:12:26.367Z - info: Website regeneration complete! Total build time: 2.624s
+2021-07-23T18:19:27.424Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\methods\text.md
+2021-07-23T18:19:27.424Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.425Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.425Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.441Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\text.md
+2021-07-23T18:19:27.441Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.442Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.442Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.452Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\objects\usingObjects\text.md
+2021-07-23T18:19:27.452Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.452Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.453Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.466Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\usefulClasses\stringClass\text.md
+2021-07-23T18:19:27.466Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.466Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.466Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.478Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\objects\instanceMembers\text.md
+2021-07-23T18:19:27.478Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.478Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.478Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.487Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\classes\gettersAndSetters\text.md
+2021-07-23T18:19:27.487Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.487Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.488Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.500Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\dataTypes\arrays\text.md
+2021-07-23T18:19:27.500Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.500Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.500Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.510Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\usefulClasses\scannerClass\text.md
+2021-07-23T18:19:27.510Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.510Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.510Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.519Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\branching\text.md
+2021-07-23T18:19:27.519Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.519Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.519Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.531Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\classes\definingClasses\text.md
+2021-07-23T18:19:27.531Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.531Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.531Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.544Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\collections\hashMapClass\q-weeklyRoster.md
+2021-07-23T18:19:27.544Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.544Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.545Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.557Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\collections\arrayListClass\text.md
+2021-07-23T18:19:27.557Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.557Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.557Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.567Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\inheritance\objectClass\text.md
+2021-07-23T18:19:27.567Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.567Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.567Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.579Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\collections\hashMapClass\text.md
+2021-07-23T18:19:27.580Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.580Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.580Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.591Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\objects\passingObjects\text.md
+2021-07-23T18:19:27.591Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.591Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.591Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.600Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\usefulClasses\arraysClass\text.md
+2021-07-23T18:19:27.600Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.600Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.601Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.610Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\usefulClasses\wrapperClasses\text.md
+2021-07-23T18:19:27.610Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.611Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.611Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.622Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\inheritance\basic\text.md
+2021-07-23T18:19:27.622Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.622Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.622Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.633Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\exceptions\how\text.md
+2021-07-23T18:19:27.633Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.634Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.634Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.646Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\misc\enums\text.md
+2021-07-23T18:19:27.646Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.646Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.646Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.656Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\controlFlow\loops\text.md
+2021-07-23T18:19:27.656Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.657Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.657Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:27.667Z - info: [2:19:27 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\inheritance\interfaces\text.md
+2021-07-23T18:19:27.667Z - info: Synchronizing opened pages list before reload
+2021-07-23T18:19:27.667Z - info: Current opened pages, from most-to-least recent:
+2021-07-23T18:19:27.667Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-07-23T18:19:28.438Z - info: Rebuilding 1 pages
+2021-07-23T18:19:30.958Z - info: Site data built
+2021-07-23T18:19:30.958Z - info: Pages rebuilt
+2021-07-23T18:19:30.958Z - info: Website regeneration complete! Total build time: 2.523s
+2021-07-23T18:25:48.512Z - info: Website generation started at 2:25:46 am
+2021-07-23T18:25:53.545Z - info: Building assets...

@@ -20,6 +20,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"when"}},[_c('span',{staticClas
 with(this){return _c('div',[_c('p',[_v("You know that it is important to refactor frequently so as to avoid the accumulation of ‘messy’ code which might get out of control. But how much refactoring is too much refactoring? "),_c('strong',[_v("It is too much refactoring when the benefits no longer justify the cost.")]),_v(" The costs and the benefits depend on the context. That is why some refactorings are ‘opposites’ of each other (e.g. "),_c('a',{attrs:{"href":"https://refactoring.com/catalog/extractMethod.html"}},[_c('em',[_v("extract method")])]),_v(" vs "),_c('a',{attrs:{"href":"https://refactoring.com/catalog/inlineMethod.html"}},[_c('em',[_v("inline method")])]),_v(").")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Fri, 23 Jul 2021, 13:49:50 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 24 Jul 2021, 2:25:58 GMT+8]")])])])}
 }];
   
