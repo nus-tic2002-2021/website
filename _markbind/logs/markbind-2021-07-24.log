@@ -311,3 +311,52 @@
 2021-07-23T18:19:30.958Z - info: Website regeneration complete! Total build time: 2.523s
 2021-07-23T18:25:48.512Z - info: Website generation started at 2:25:46 am
 2021-07-23T18:25:53.545Z - info: Building assets...
+2021-07-23T18:25:58.379Z - info: Assets built
+2021-07-23T18:25:58.380Z - info: Generating pages...
+2021-07-23T18:26:08.030Z - debug:  
+2021-07-23T18:26:08.031Z - debug:  
+2021-07-23T18:26:08.032Z - debug:  
+2021-07-23T18:26:08.032Z - debug:  
+2021-07-23T18:26:08.032Z - debug:  
+2021-07-23T18:26:38.360Z - debug:  
+2021-07-23T18:27:22.812Z - info: Pages built
+2021-07-23T18:27:23.636Z - info: Site data built
+2021-07-23T18:27:23.636Z - info: Website generation complete! Total build time: 96.866s
+2021-07-23T18:27:23.636Z - info: Build success!
+2021-07-23T18:27:35.327Z - info: Deployed at https://nus-tic2002-2021.github.io/website!
+2021-07-24T03:58:58.158Z - info: Website generation started at 11:58:54 am
+2021-07-24T03:59:02.398Z - info: Building assets...
+2021-07-24T03:59:06.807Z - info: Assets built
+2021-07-24T03:59:06.807Z - info: Generating pages...
+2021-07-24T03:59:12.810Z - debug:  
+2021-07-24T03:59:12.810Z - debug:  
+2021-07-24T03:59:12.810Z - debug:  
+2021-07-24T03:59:12.810Z - debug:  
+2021-07-24T03:59:12.811Z - debug:  
+2021-07-24T03:59:12.811Z - debug:  
+2021-07-24T04:00:36.385Z - debug:  
+2021-07-24T04:00:48.485Z - debug:  
+2021-07-24T04:00:48.485Z - debug:  
+2021-07-24T04:00:52.561Z - info: Pages built
+2021-07-24T04:00:53.210Z - info: Site data built
+2021-07-24T04:00:53.210Z - info: Website generation complete! Total build time: 118.348s
+2021-07-24T04:00:53.210Z - info: Build success!
+2021-07-24T04:01:03.274Z - info: Deployed at https://nus-cs2113-ay2122s1.github.io/website!
+2021-07-24T04:43:06.781Z - info: Website generation started at 12:43:03 pm
+2021-07-24T04:43:11.384Z - info: Building assets...
+2021-07-24T04:43:15.655Z - info: Assets built
+2021-07-24T04:43:15.655Z - info: Generating pages...
+2021-07-24T04:43:21.700Z - debug:  
+2021-07-24T04:43:21.700Z - debug:  
+2021-07-24T04:43:21.701Z - debug:  
+2021-07-24T04:43:21.701Z - debug:  
+2021-07-24T04:43:21.701Z - debug:  
+2021-07-24T04:43:21.701Z - debug:  
+2021-07-24T04:44:43.630Z - debug:  
+2021-07-24T04:44:55.382Z - debug:  
+2021-07-24T04:44:55.383Z - debug:  
+2021-07-24T04:44:59.771Z - info: Pages built
+2021-07-24T04:45:00.379Z - info: Site data built
+2021-07-24T04:45:00.379Z - info: Website generation complete! Total build time: 116.924s
+2021-07-24T04:45:00.379Z - info: Build success!
+2021-07-24T04:45:11.418Z - info: Deployed at https://nus-cs2113-ay2122s1.github.io/website!

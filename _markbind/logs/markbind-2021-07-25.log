@@ -1,0 +1,405 @@
+2021-07-25T09:32:51.489Z - info: Website generation (lazy) started at 5:32:47 pm
+2021-07-25T09:32:55.391Z - info: Building assets...
+2021-07-25T09:32:59.390Z - info: Assets built
+2021-07-25T09:32:59.391Z - info: Generating landing page...
+2021-07-25T09:33:01.004Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-25T09:33:01.692Z - info: Site data built
+2021-07-25T09:33:01.692Z - info: Website generation (lazy) complete! Total build time: 14.575s
+2021-07-25T09:33:02.399Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-25T09:33:02.399Z - info: Press CTRL+C to stop ...
+2021-07-25T09:35:17.837Z - info: [5:35:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T09:35:17.839Z - info: Synchronizing opened pages list before reload
+2021-07-25T09:35:17.839Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T09:35:17.839Z - info: 1. index
+2021-07-25T09:35:18.852Z - info: Rebuilding 1 pages
+2021-07-25T09:35:19.977Z - info: Site data built
+2021-07-25T09:35:19.978Z - info: Pages rebuilt
+2021-07-25T09:35:19.978Z - info: Website regeneration complete! Total build time: 1.129s
+2021-07-25T09:35:38.443Z - info: [5:35:38 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T09:35:38.444Z - info: Synchronizing opened pages list before reload
+2021-07-25T09:35:38.444Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T09:35:38.444Z - info: 1. index
+2021-07-25T09:35:39.457Z - info: Rebuilding 1 pages
+2021-07-25T09:35:40.497Z - info: Site data built
+2021-07-25T09:35:40.497Z - info: Pages rebuilt
+2021-07-25T09:35:40.498Z - info: Website regeneration complete! Total build time: 1.043s
+2021-07-25T09:36:40.160Z - info: [5:36:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T09:36:40.160Z - info: Synchronizing opened pages list before reload
+2021-07-25T09:36:40.161Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T09:36:40.161Z - info: 1. index
+2021-07-25T09:36:41.169Z - info: Rebuilding 1 pages
+2021-07-25T09:36:42.220Z - info: Site data built
+2021-07-25T09:36:42.220Z - info: Pages rebuilt
+2021-07-25T09:36:42.220Z - info: Website regeneration complete! Total build time: 1.054s
+2021-07-25T09:37:02.024Z - info: [5:37:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T09:37:02.024Z - info: Synchronizing opened pages list before reload
+2021-07-25T09:37:02.025Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T09:37:02.025Z - info: 1. index
+2021-07-25T09:37:03.039Z - info: Rebuilding 1 pages
+2021-07-25T09:37:04.081Z - info: Site data built
+2021-07-25T09:37:04.081Z - info: Pages rebuilt
+2021-07-25T09:37:04.081Z - info: Website regeneration complete! Total build time: 1.043s
+2021-07-25T09:37:20.961Z - info: [5:37:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T09:37:20.961Z - info: Synchronizing opened pages list before reload
+2021-07-25T09:37:20.962Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T09:37:20.962Z - info: 1. index
+2021-07-25T09:37:21.974Z - info: Rebuilding 1 pages
+2021-07-25T09:37:23.098Z - info: Site data built
+2021-07-25T09:37:23.098Z - info: Pages rebuilt
+2021-07-25T09:37:23.099Z - info: Website regeneration complete! Total build time: 1.128s
+2021-07-25T09:37:32.162Z - info: [5:37:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T09:37:32.162Z - info: Synchronizing opened pages list before reload
+2021-07-25T09:37:32.163Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T09:37:32.163Z - info: 1. index
+2021-07-25T09:37:33.170Z - info: Rebuilding 1 pages
+2021-07-25T09:37:33.998Z - info: Site data built
+2021-07-25T09:37:33.998Z - info: Pages rebuilt
+2021-07-25T09:37:33.998Z - info: Website regeneration complete! Total build time: 0.828s
+2021-07-25T09:43:07.732Z - info: [5:43:07 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T09:43:07.733Z - info: Synchronizing opened pages list before reload
+2021-07-25T09:43:07.733Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T09:43:07.733Z - info: 1. index
+2021-07-25T09:43:08.750Z - info: Rebuilding 1 pages
+2021-07-25T09:43:10.021Z - info: Site data built
+2021-07-25T09:43:10.021Z - info: Pages rebuilt
+2021-07-25T09:43:10.021Z - info: Website regeneration complete! Total build time: 1.274s
+2021-07-25T09:46:23.682Z - info: [5:46:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2021-07-25T09:46:23.682Z - info: Synchronizing opened pages list before reload
+2021-07-25T09:46:23.682Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T09:46:23.683Z - info: 1. index
+2021-07-25T09:46:24.823Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-07-25T09:46:24.827Z - info: Rebuilding 1 pages
+2021-07-25T09:46:26.082Z - info: Site data built
+2021-07-25T09:46:26.082Z - info: Pages rebuilt
+2021-07-25T09:46:26.082Z - info: Website regeneration complete! Total build time: 1.385s
+2021-07-25T09:54:23.994Z - info: [5:54:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T09:54:23.995Z - info: Synchronizing opened pages list before reload
+2021-07-25T09:54:23.995Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T09:54:23.995Z - info: 1. index
+2021-07-25T09:54:25.017Z - info: Rebuilding 1 pages
+2021-07-25T09:54:26.302Z - info: Site data built
+2021-07-25T09:54:26.302Z - info: Pages rebuilt
+2021-07-25T09:54:26.302Z - info: Website regeneration complete! Total build time: 1.288s
+2021-07-25T09:56:24.942Z - info: [5:56:24 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T09:56:24.943Z - info: Synchronizing opened pages list before reload
+2021-07-25T09:56:24.943Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T09:56:24.943Z - info: 1. index
+2021-07-25T09:56:25.951Z - info: Rebuilding 1 pages
+2021-07-25T09:56:27.262Z - info: Site data built
+2021-07-25T09:56:27.262Z - info: Pages rebuilt
+2021-07-25T09:56:27.263Z - info: Website regeneration complete! Total build time: 1.314s
+2021-07-25T10:03:11.470Z - info: [6:03:11 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T10:03:11.471Z - info: Synchronizing opened pages list before reload
+2021-07-25T10:03:11.471Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T10:03:11.471Z - info: 1. index
+2021-07-25T10:03:12.476Z - info: Rebuilding 1 pages
+2021-07-25T10:03:13.770Z - info: Site data built
+2021-07-25T10:03:13.770Z - info: Pages rebuilt
+2021-07-25T10:03:13.770Z - info: Website regeneration complete! Total build time: 1.295s
+2021-07-25T10:06:56.523Z - info: [6:06:56 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T10:06:56.523Z - info: Synchronizing opened pages list before reload
+2021-07-25T10:06:56.524Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T10:06:56.524Z - info: 1. index
+2021-07-25T10:06:57.540Z - info: Rebuilding 1 pages
+2021-07-25T10:06:58.834Z - info: Site data built
+2021-07-25T10:06:58.834Z - info: Pages rebuilt
+2021-07-25T10:06:58.834Z - info: Website regeneration complete! Total build time: 1.295s
+2021-07-25T10:07:25.051Z - info: [6:07:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T10:07:25.051Z - info: Synchronizing opened pages list before reload
+2021-07-25T10:07:25.051Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T10:07:25.051Z - info: 1. index
+2021-07-25T10:07:26.061Z - info: Rebuilding 1 pages
+2021-07-25T10:07:27.360Z - info: Site data built
+2021-07-25T10:07:27.361Z - info: Pages rebuilt
+2021-07-25T10:07:27.361Z - info: Website regeneration complete! Total build time: 1.303s
+2021-07-25T10:09:46.812Z - info: [6:09:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T10:09:46.812Z - info: Synchronizing opened pages list before reload
+2021-07-25T10:09:46.812Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T10:09:46.813Z - info: 1. index
+2021-07-25T10:09:47.827Z - info: Rebuilding 1 pages
+2021-07-25T10:09:49.115Z - info: Site data built
+2021-07-25T10:09:49.115Z - info: Pages rebuilt
+2021-07-25T10:09:49.115Z - info: Website regeneration complete! Total build time: 1.289s
+2021-07-25T10:10:14.940Z - info: [6:10:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T10:10:14.940Z - info: Synchronizing opened pages list before reload
+2021-07-25T10:10:14.940Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T10:10:14.940Z - info: 1. index
+2021-07-25T10:10:15.950Z - info: Rebuilding 1 pages
+2021-07-25T10:10:17.242Z - info: Site data built
+2021-07-25T10:10:17.242Z - info: Pages rebuilt
+2021-07-25T10:10:17.243Z - info: Website regeneration complete! Total build time: 1.293s
+2021-07-25T10:13:00.742Z - info: [6:13:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T10:13:00.743Z - info: Synchronizing opened pages list before reload
+2021-07-25T10:13:00.744Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T10:13:00.745Z - info: 1. index
+2021-07-25T10:13:01.753Z - info: Rebuilding 1 pages
+2021-07-25T10:13:03.192Z - info: Site data built
+2021-07-25T10:13:03.192Z - info: Pages rebuilt
+2021-07-25T10:13:03.192Z - info: Website regeneration complete! Total build time: 1.441s
+2021-07-25T10:17:00.531Z - info: [6:17:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T10:17:00.531Z - info: Synchronizing opened pages list before reload
+2021-07-25T10:17:00.532Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T10:17:00.532Z - info: 1. index
+2021-07-25T10:17:01.552Z - info: Rebuilding 1 pages
+2021-07-25T10:17:02.845Z - info: Site data built
+2021-07-25T10:17:02.845Z - info: Pages rebuilt
+2021-07-25T10:17:02.845Z - info: Website regeneration complete! Total build time: 1.296s
+2021-07-25T10:18:40.354Z - info: [6:18:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T10:18:40.355Z - info: Synchronizing opened pages list before reload
+2021-07-25T10:18:40.355Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T10:18:40.355Z - info: 1. index
+2021-07-25T10:18:41.377Z - info: Rebuilding 1 pages
+2021-07-25T10:18:42.729Z - info: Site data built
+2021-07-25T10:18:42.729Z - info: Pages rebuilt
+2021-07-25T10:18:42.729Z - info: Website regeneration complete! Total build time: 1.355s
+2021-07-25T12:46:35.789Z - info: Website generation (lazy) started at 8:46:33 pm
+2021-07-25T12:46:41.176Z - info: Building assets...
+2021-07-25T12:46:46.500Z - info: Assets built
+2021-07-25T12:46:46.500Z - info: Generating landing page...
+2021-07-25T12:46:48.294Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-25T12:46:49.097Z - info: Site data built
+2021-07-25T12:46:49.097Z - info: Website generation (lazy) complete! Total build time: 15.168s
+2021-07-25T12:46:49.864Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-25T12:46:49.864Z - info: Press CTRL+C to stop ...
+2021-07-25T12:56:14.513Z - info: [8:56:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T12:56:14.514Z - info: Synchronizing opened pages list before reload
+2021-07-25T12:56:14.515Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T12:56:14.515Z - info: 1. index
+2021-07-25T12:56:15.526Z - info: Rebuilding 1 pages
+2021-07-25T12:56:17.061Z - info: Site data built
+2021-07-25T12:56:17.062Z - info: Pages rebuilt
+2021-07-25T12:56:17.062Z - info: Website regeneration complete! Total build time: 1.539s
+2021-07-25T12:56:50.620Z - info: [8:56:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T12:56:50.620Z - info: Synchronizing opened pages list before reload
+2021-07-25T12:56:50.621Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T12:56:50.621Z - info: 1. index
+2021-07-25T12:56:51.638Z - info: Rebuilding 1 pages
+2021-07-25T12:56:52.989Z - info: Site data built
+2021-07-25T12:56:52.989Z - info: Pages rebuilt
+2021-07-25T12:56:52.990Z - info: Website regeneration complete! Total build time: 1.355s
+2021-07-25T12:57:07.116Z - info: [8:57:07 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T12:57:07.116Z - info: Synchronizing opened pages list before reload
+2021-07-25T12:57:07.116Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T12:57:07.116Z - info: 1. index
+2021-07-25T12:57:08.122Z - info: Rebuilding 1 pages
+2021-07-25T12:57:09.189Z - info: Site data built
+2021-07-25T12:57:09.189Z - info: Pages rebuilt
+2021-07-25T12:57:09.190Z - info: Website regeneration complete! Total build time: 1.069s
+2021-07-25T12:57:46.731Z - info: [8:57:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T12:57:46.731Z - info: Synchronizing opened pages list before reload
+2021-07-25T12:57:46.732Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T12:57:46.732Z - info: 1. index
+2021-07-25T12:57:47.746Z - info: Rebuilding 1 pages
+2021-07-25T12:57:49.037Z - info: Site data built
+2021-07-25T12:57:49.037Z - info: Pages rebuilt
+2021-07-25T12:57:49.037Z - info: Website regeneration complete! Total build time: 1.294s
+2021-07-25T13:00:00.795Z - info: [9:00:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T13:00:00.795Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:00:00.796Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:00:00.796Z - info: 1. index
+2021-07-25T13:00:01.800Z - info: Rebuilding 1 pages
+2021-07-25T13:00:03.062Z - info: Site data built
+2021-07-25T13:00:03.062Z - info: Pages rebuilt
+2021-07-25T13:00:03.062Z - info: Website regeneration complete! Total build time: 1.263s
+2021-07-25T13:00:35.249Z - info: [9:00:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T13:00:35.250Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:00:35.250Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:00:35.250Z - info: 1. index
+2021-07-25T13:00:36.263Z - info: Rebuilding 1 pages
+2021-07-25T13:00:37.545Z - info: Site data built
+2021-07-25T13:00:37.545Z - info: Pages rebuilt
+2021-07-25T13:00:37.545Z - info: Website regeneration complete! Total build time: 1.285s
+2021-07-25T13:01:52.660Z - info: [9:01:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T13:01:52.661Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:01:52.661Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:01:52.661Z - info: 1. index
+2021-07-25T13:01:53.679Z - info: Rebuilding 1 pages
+2021-07-25T13:01:54.981Z - info: Site data built
+2021-07-25T13:01:54.981Z - info: Pages rebuilt
+2021-07-25T13:01:54.981Z - info: Website regeneration complete! Total build time: 1.305s
+2021-07-25T13:03:12.586Z - info: [9:03:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2021-07-25T13:03:12.587Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:03:12.587Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:03:12.588Z - info: 1. index
+2021-07-25T13:03:13.729Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-07-25T13:03:13.733Z - info: Rebuilding 1 pages
+2021-07-25T13:03:14.878Z - info: Site data built
+2021-07-25T13:03:14.878Z - info: Pages rebuilt
+2021-07-25T13:03:14.879Z - info: Website regeneration complete! Total build time: 1.281s
+2021-07-25T13:03:24.265Z - info: [9:03:24 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2021-07-25T13:03:24.266Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:03:24.266Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:03:24.266Z - info: 1. index
+2021-07-25T13:03:25.332Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-07-25T13:03:25.335Z - info: Rebuilding 1 pages
+2021-07-25T13:03:26.222Z - info: Site data built
+2021-07-25T13:03:26.222Z - info: Pages rebuilt
+2021-07-25T13:03:26.223Z - info: Website regeneration complete! Total build time: 0.945s
+2021-07-25T13:04:16.348Z - info: [9:04:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T13:04:16.348Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:04:16.348Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:04:16.349Z - info: 1. index
+2021-07-25T13:04:17.375Z - info: Rebuilding 1 pages
+2021-07-25T13:04:18.632Z - info: Site data built
+2021-07-25T13:04:18.632Z - info: Pages rebuilt
+2021-07-25T13:04:18.632Z - info: Website regeneration complete! Total build time: 1.26s
+2021-07-25T13:04:31.590Z - info: [9:04:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T13:04:31.591Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:04:31.591Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:04:31.591Z - info: 1. index
+2021-07-25T13:04:32.598Z - info: Rebuilding 1 pages
+2021-07-25T13:04:33.611Z - info: Site data built
+2021-07-25T13:04:33.611Z - info: Pages rebuilt
+2021-07-25T13:04:33.611Z - info: Website regeneration complete! Total build time: 1.015s
+2021-07-25T13:08:39.087Z - info: [9:08:39 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T13:08:39.088Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:08:39.088Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:08:39.088Z - info: 1. index
+2021-07-25T13:08:40.106Z - info: Rebuilding 1 pages
+2021-07-25T13:08:41.353Z - info: Site data built
+2021-07-25T13:08:41.354Z - info: Pages rebuilt
+2021-07-25T13:08:41.354Z - info: Website regeneration complete! Total build time: 1.249s
+2021-07-25T13:09:03.076Z - info: [9:09:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T13:09:03.077Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:09:03.077Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:09:03.078Z - info: 1. index
+2021-07-25T13:09:04.094Z - info: Rebuilding 1 pages
+2021-07-25T13:09:05.369Z - info: Site data built
+2021-07-25T13:09:05.369Z - info: Pages rebuilt
+2021-07-25T13:09:05.370Z - info: Website regeneration complete! Total build time: 1.28s
+2021-07-25T13:09:26.928Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2021-07-25T13:09:27.293Z - info: Site data built
+2021-07-25T13:09:27.293Z - info: Lazy website regeneration complete! Total build time: 0.366s
+2021-07-25T13:10:38.339Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\projectDuke\index as some of its dependencies were changed since the last visit
+2021-07-25T13:10:38.882Z - info: Site data built
+2021-07-25T13:10:38.883Z - info: Lazy website regeneration complete! Total build time: 0.544s
+2021-07-25T13:24:31.644Z - info: [9:24:31 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T13:24:31.645Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:24:31.645Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:24:31.646Z - info: 1. se-book-adapted/projectDuke/index
+2021-07-25T13:24:31.646Z - info: 2. index
+2021-07-25T13:24:32.672Z - info: Rebuilding 1 pages
+2021-07-25T13:24:33.953Z - info: Site data built
+2021-07-25T13:24:33.954Z - info: Pages rebuilt
+2021-07-25T13:24:33.954Z - info: Website regeneration complete! Total build time: 1.285s
+2021-07-25T13:58:05.839Z - info: [9:58:05 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T13:58:05.839Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:58:05.840Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:58:05.840Z - info: 1. se-book-adapted/projectDuke/index
+2021-07-25T13:58:05.840Z - info: 2. index
+2021-07-25T13:58:06.857Z - info: Rebuilding 1 pages
+2021-07-25T13:58:08.095Z - info: Site data built
+2021-07-25T13:58:08.095Z - info: Pages rebuilt
+2021-07-25T13:58:08.095Z - info: Website regeneration complete! Total build time: 1.239s
+2021-07-25T13:58:37.947Z - info: [9:58:37 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T13:58:37.948Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:58:37.948Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:58:37.949Z - info: 1. se-book-adapted/projectDuke/index
+2021-07-25T13:58:37.949Z - info: 2. index
+2021-07-25T13:58:38.960Z - info: Rebuilding 1 pages
+2021-07-25T13:58:39.967Z - info: Site data built
+2021-07-25T13:58:39.968Z - info: Pages rebuilt
+2021-07-25T13:58:39.968Z - info: Website regeneration complete! Total build time: 1.011s
+2021-07-25T13:59:29.659Z - info: [9:59:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T13:59:29.659Z - info: Synchronizing opened pages list before reload
+2021-07-25T13:59:29.660Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T13:59:29.660Z - info: 1. se-book-adapted/projectDuke/index
+2021-07-25T13:59:29.661Z - info: 2. index
+2021-07-25T13:59:30.677Z - info: Rebuilding 1 pages
+2021-07-25T13:59:31.769Z - info: Site data built
+2021-07-25T13:59:31.769Z - info: Pages rebuilt
+2021-07-25T13:59:31.769Z - info: Website regeneration complete! Total build time: 1.095s
+2021-07-25T14:00:07.783Z - info: [10:00:07 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T14:00:07.783Z - info: Synchronizing opened pages list before reload
+2021-07-25T14:00:07.784Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T14:00:07.784Z - info: 1. se-book-adapted/projectDuke/index
+2021-07-25T14:00:07.785Z - info: 2. index
+2021-07-25T14:00:08.806Z - info: Rebuilding 1 pages
+2021-07-25T14:00:09.896Z - info: Site data built
+2021-07-25T14:00:09.896Z - info: Pages rebuilt
+2021-07-25T14:00:09.896Z - info: Website regeneration complete! Total build time: 1.091s
+2021-07-25T14:13:10.853Z - info: [10:13:10 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T14:13:10.854Z - info: Synchronizing opened pages list before reload
+2021-07-25T14:13:10.854Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T14:13:10.855Z - info: 1. index
+2021-07-25T14:13:11.866Z - info: Rebuilding 1 pages
+2021-07-25T14:13:12.894Z - info: Site data built
+2021-07-25T14:13:12.894Z - info: Pages rebuilt
+2021-07-25T14:13:12.894Z - info: Website regeneration complete! Total build time: 1.032s
+2021-07-25T14:13:54.962Z - info: [10:13:54 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T14:13:54.962Z - info: Synchronizing opened pages list before reload
+2021-07-25T14:13:54.963Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T14:13:54.963Z - info: 1. index
+2021-07-25T14:13:55.969Z - info: Rebuilding 1 pages
+2021-07-25T14:13:56.956Z - info: Site data built
+2021-07-25T14:13:56.956Z - info: Pages rebuilt
+2021-07-25T14:13:56.957Z - info: Website regeneration complete! Total build time: 0.988s
+2021-07-25T14:14:29.781Z - info: [10:14:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T14:14:29.781Z - info: Synchronizing opened pages list before reload
+2021-07-25T14:14:29.782Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T14:14:29.782Z - info: 1. index
+2021-07-25T14:14:30.802Z - info: Rebuilding 1 pages
+2021-07-25T14:14:31.840Z - info: Site data built
+2021-07-25T14:14:31.840Z - info: Pages rebuilt
+2021-07-25T14:14:31.841Z - info: Website regeneration complete! Total build time: 1.039s
+2021-07-25T14:14:52.817Z - info: [10:14:52 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T14:14:52.818Z - info: Synchronizing opened pages list before reload
+2021-07-25T14:14:52.818Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T14:14:52.818Z - info: 1. index
+2021-07-25T14:14:53.829Z - info: Rebuilding 1 pages
+2021-07-25T14:14:54.885Z - info: Site data built
+2021-07-25T14:14:54.886Z - info: Pages rebuilt
+2021-07-25T14:14:54.886Z - info: Website regeneration complete! Total build time: 1.06s
+2021-07-25T14:15:42.341Z - info: [10:15:42 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T14:15:42.342Z - info: Synchronizing opened pages list before reload
+2021-07-25T14:15:42.342Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T14:15:42.342Z - info: 1. index
+2021-07-25T14:15:43.355Z - info: Rebuilding 1 pages
+2021-07-25T14:15:44.424Z - info: Site data built
+2021-07-25T14:15:44.424Z - info: Pages rebuilt
+2021-07-25T14:15:44.424Z - info: Website regeneration complete! Total build time: 1.071s
+2021-07-25T14:16:16.294Z - info: [10:16:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T14:16:16.294Z - info: Synchronizing opened pages list before reload
+2021-07-25T14:16:16.294Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T14:16:16.294Z - info: 1. index
+2021-07-25T14:16:17.306Z - info: Rebuilding 1 pages
+2021-07-25T14:16:18.207Z - info: Site data built
+2021-07-25T14:16:18.207Z - info: Pages rebuilt
+2021-07-25T14:16:18.207Z - info: Website regeneration complete! Total build time: 0.904s
+2021-07-25T14:16:44.220Z - info: [10:16:44 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T14:16:44.220Z - info: Synchronizing opened pages list before reload
+2021-07-25T14:16:44.221Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T14:16:44.221Z - info: 1. index
+2021-07-25T14:16:45.224Z - info: Rebuilding 1 pages
+2021-07-25T14:16:46.012Z - info: Site data built
+2021-07-25T14:16:46.012Z - info: Pages rebuilt
+2021-07-25T14:16:46.012Z - info: Website regeneration complete! Total build time: 0.79s
+2021-07-25T14:17:53.234Z - info: [10:17:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T14:17:53.235Z - info: Synchronizing opened pages list before reload
+2021-07-25T14:17:53.235Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T14:17:53.235Z - info: 1. index
+2021-07-25T14:17:54.256Z - info: Rebuilding 1 pages
+2021-07-25T14:17:55.254Z - info: Site data built
+2021-07-25T14:17:55.254Z - info: Pages rebuilt
+2021-07-25T14:17:55.254Z - info: Website regeneration complete! Total build time: 1.002s
+2021-07-25T14:18:08.073Z - info: [10:18:08 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T14:18:08.074Z - info: Synchronizing opened pages list before reload
+2021-07-25T14:18:08.074Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T14:18:08.074Z - info: 1. index
+2021-07-25T14:18:09.098Z - info: Rebuilding 1 pages
+2021-07-25T14:18:09.866Z - info: Site data built
+2021-07-25T14:18:09.866Z - info: Pages rebuilt
+2021-07-25T14:18:09.866Z - info: Website regeneration complete! Total build time: 0.77s
+2021-07-25T14:19:40.678Z - info: [10:19:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T14:19:40.679Z - info: Synchronizing opened pages list before reload
+2021-07-25T14:19:40.679Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T14:19:40.679Z - info: 1. index
+2021-07-25T14:19:41.697Z - info: Rebuilding 1 pages
+2021-07-25T14:19:42.699Z - info: Site data built
+2021-07-25T14:19:42.699Z - info: Pages rebuilt
+2021-07-25T14:19:42.699Z - info: Website regeneration complete! Total build time: 1.003s
+2021-07-25T14:51:56.785Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\timeline as some of its dependencies were changed since the last visit
+2021-07-25T14:52:00.448Z - info: Site data built
+2021-07-25T14:52:00.448Z - info: Lazy website regeneration complete! Total build time: 3.664s
+2021-07-25T14:56:08.812Z - info: Website generation started at 10:56:07 pm
+2021-07-25T14:56:14.122Z - info: Building assets...
