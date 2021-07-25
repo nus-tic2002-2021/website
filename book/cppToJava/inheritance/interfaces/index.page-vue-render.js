@@ -38,6 +38,6 @@ with(this){return _c('p',[_v("Furthermore, "),_c('strong',[_v("Java allows multi
 with(this){return _c('p',[_c('span',[_c('span',{staticClass:"fas fa-info-circle",attrs:{"aria-hidden":"true"}})]),_v(" Interfaces can contain "),_c('a',{attrs:{"href":"https://docs.oracle.com/javase/tutorial/java/IandI/defaultmethods.html"}},[_c('em',[_v("default")]),_v(" method implementations")]),_v(" and "),_c('em',[_v("nested types")]),_v(". They are not covered here.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sun, 25 Jul 2021, 22:56:18 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 26 Jul 2021, 0:30:33 GMT+8]")])])])}
 }];
   

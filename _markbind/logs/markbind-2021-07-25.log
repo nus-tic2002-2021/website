@@ -403,3 +403,100 @@
 2021-07-25T14:52:00.448Z - info: Lazy website regeneration complete! Total build time: 3.664s
 2021-07-25T14:56:08.812Z - info: Website generation started at 10:56:07 pm
 2021-07-25T14:56:14.122Z - info: Building assets...
+2021-07-25T14:56:18.293Z - info: Assets built
+2021-07-25T14:56:18.294Z - info: Generating pages...
+2021-07-25T14:56:27.197Z - debug:  
+2021-07-25T14:56:27.198Z - debug:  
+2021-07-25T14:56:27.198Z - debug:  
+2021-07-25T14:56:27.198Z - debug:  
+2021-07-25T14:56:27.198Z - debug:  
+2021-07-25T14:56:59.213Z - debug:  
+2021-07-25T14:57:44.345Z - info: Pages built
+2021-07-25T14:57:45.165Z - info: Site data built
+2021-07-25T14:57:45.165Z - info: Website generation complete! Total build time: 98.01s
+2021-07-25T14:57:45.165Z - info: Build success!
+2021-07-25T14:57:55.761Z - info: Deployed at https://nus-tic2002-2021.github.io/website!
+2021-07-25T15:18:29.952Z - info: Website generation (lazy) started at 11:18:25 pm
+2021-07-25T15:18:35.113Z - info: Building assets...
+2021-07-25T15:18:39.378Z - info: Assets built
+2021-07-25T15:18:39.378Z - info: Generating landing page...
+2021-07-25T15:18:41.170Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-25T15:18:41.955Z - info: Site data built
+2021-07-25T15:18:41.955Z - info: Website generation (lazy) complete! Total build time: 16.509s
+2021-07-25T15:18:42.758Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-25T15:18:42.758Z - info: Press CTRL+C to stop ...
+2021-07-25T15:19:23.498Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\index as some of its dependencies were changed since the last visit
+2021-07-25T15:19:24.146Z - info: Site data built
+2021-07-25T15:19:24.147Z - info: Lazy website regeneration complete! Total build time: 0.65s
+2021-07-25T15:19:27.902Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin as some of its dependencies were changed since the last visit
+2021-07-25T15:19:28.493Z - info: Site data built
+2021-07-25T15:19:28.493Z - info: Lazy website regeneration complete! Total build time: 0.591s
+2021-07-25T15:31:41.742Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\timeline as some of its dependencies were changed since the last visit
+2021-07-25T15:31:44.670Z - info: Site data built
+2021-07-25T15:31:44.671Z - info: Lazy website regeneration complete! Total build time: 2.929s
+2021-07-25T15:32:31.594Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\topics as some of its dependencies were changed since the last visit
+2021-07-25T15:32:33.803Z - info: Site data built
+2021-07-25T15:32:33.803Z - info: Lazy website regeneration complete! Total build time: 2.21s
+2021-07-25T15:32:34.622Z - debug:  
+2021-07-25T15:41:01.656Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\index as some of its dependencies were changed since the last visit
+2021-07-25T15:41:02.260Z - info: Site data built
+2021-07-25T15:41:02.260Z - info: Lazy website regeneration complete! Total build time: 0.604s
+2021-07-25T15:41:28.792Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin as some of its dependencies were changed since the last visit
+2021-07-25T15:41:29.183Z - info: Site data built
+2021-07-25T15:41:29.184Z - info: Lazy website regeneration complete! Total build time: 0.392s
+2021-07-25T15:42:01.256Z - info: [11:42:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002.mbdf
+2021-07-25T15:42:01.257Z - info: Synchronizing opened pages list before reload
+2021-07-25T15:42:01.257Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T15:42:01.257Z - info: 1. schedule/week9/admin
+2021-07-25T15:42:02.274Z - info: Rebuilding 1 pages
+2021-07-25T15:42:02.656Z - info: Site data built
+2021-07-25T15:42:02.657Z - info: Pages rebuilt
+2021-07-25T15:42:02.657Z - info: Website regeneration complete! Total build time: 0.385s
+2021-07-25T15:43:57.702Z - info: [11:43:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002.mbdf
+2021-07-25T15:43:57.703Z - info: Synchronizing opened pages list before reload
+2021-07-25T15:43:57.703Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T15:43:57.703Z - info: 1. schedule/week9/admin
+2021-07-25T15:43:58.710Z - info: Rebuilding 1 pages
+2021-07-25T15:43:58.962Z - info: Site data built
+2021-07-25T15:43:58.962Z - info: Pages rebuilt
+2021-07-25T15:43:58.962Z - info: Website regeneration complete! Total build time: 0.252s
+2021-07-25T15:46:50.996Z - info: [11:46:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002.mbdf
+2021-07-25T15:46:50.996Z - info: Synchronizing opened pages list before reload
+2021-07-25T15:46:50.996Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T15:46:50.996Z - info: 1. schedule/week9/admin
+2021-07-25T15:46:52.009Z - info: Rebuilding 1 pages
+2021-07-25T15:46:52.324Z - info: Site data built
+2021-07-25T15:46:52.324Z - info: Pages rebuilt
+2021-07-25T15:46:52.324Z - info: Website regeneration complete! Total build time: 0.317s
+2021-07-25T15:50:24.465Z - info: [11:50:24 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002.mbdf
+2021-07-25T15:50:24.465Z - info: Synchronizing opened pages list before reload
+2021-07-25T15:50:24.465Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T15:50:24.465Z - info: 1. schedule/week9/admin
+2021-07-25T15:50:25.483Z - info: Rebuilding 1 pages
+2021-07-25T15:50:25.744Z - info: Site data built
+2021-07-25T15:50:25.745Z - info: Pages rebuilt
+2021-07-25T15:50:25.745Z - info: Website regeneration complete! Total build time: 0.264s
+2021-07-25T15:54:56.527Z - info: [11:54:56 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002.mbdf
+2021-07-25T15:54:56.527Z - info: Synchronizing opened pages list before reload
+2021-07-25T15:54:56.527Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T15:54:56.527Z - info: 1. schedule/week9/admin
+2021-07-25T15:54:57.538Z - info: Rebuilding 1 pages
+2021-07-25T15:54:57.855Z - info: Site data built
+2021-07-25T15:54:57.855Z - info: Pages rebuilt
+2021-07-25T15:54:57.855Z - info: Website regeneration complete! Total build time: 0.319s
+2021-07-25T15:55:09.745Z - info: [11:55:09 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002.mbdf
+2021-07-25T15:55:09.746Z - info: Synchronizing opened pages list before reload
+2021-07-25T15:55:09.746Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T15:55:09.746Z - info: 1. schedule/week9/admin
+2021-07-25T15:55:10.753Z - info: Rebuilding 1 pages
+2021-07-25T15:55:11.008Z - info: Site data built
+2021-07-25T15:55:11.009Z - info: Pages rebuilt
+2021-07-25T15:55:11.009Z - info: Website regeneration complete! Total build time: 0.257s
+2021-07-25T15:57:19.554Z - info: [11:57:19 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002.mbdf
+2021-07-25T15:57:19.554Z - info: Synchronizing opened pages list before reload
+2021-07-25T15:57:19.554Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T15:57:19.554Z - info: 1. schedule/week9/admin
+2021-07-25T15:57:20.558Z - info: Rebuilding 1 pages
+2021-07-25T15:57:20.853Z - info: Site data built
+2021-07-25T15:57:20.853Z - info: Pages rebuilt
+2021-07-25T15:57:20.853Z - info: Website regeneration complete! Total build time: 0.296s

@@ -1,0 +1,31 @@
+2021-07-25T16:00:34.830Z - info: [12:00:34 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002.mbdf
+2021-07-25T16:00:34.842Z - info: Synchronizing opened pages list before reload
+2021-07-25T16:00:34.842Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T16:00:34.842Z - info: 1. schedule/week9/admin
+2021-07-25T16:00:35.851Z - info: Rebuilding 1 pages
+2021-07-25T16:00:36.255Z - info: Site data built
+2021-07-25T16:00:36.255Z - info: Pages rebuilt
+2021-07-25T16:00:36.255Z - info: Website regeneration complete! Total build time: 0.406s
+2021-07-25T16:00:44.445Z - info: [12:00:44 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002.mbdf
+2021-07-25T16:00:44.445Z - info: Synchronizing opened pages list before reload
+2021-07-25T16:00:44.445Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T16:00:44.445Z - info: 1. schedule/week9/admin
+2021-07-25T16:00:45.457Z - info: Rebuilding 1 pages
+2021-07-25T16:00:45.740Z - info: Site data built
+2021-07-25T16:00:45.740Z - info: Pages rebuilt
+2021-07-25T16:00:45.740Z - info: Website regeneration complete! Total build time: 0.283s
+2021-07-25T16:01:04.158Z - info: [12:01:04 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week9\admin-tic2002.mbdf
+2021-07-25T16:01:04.158Z - info: Synchronizing opened pages list before reload
+2021-07-25T16:01:04.158Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T16:01:04.158Z - info: 1. schedule/week9/admin
+2021-07-25T16:01:05.170Z - info: Rebuilding 1 pages
+2021-07-25T16:01:05.458Z - info: Site data built
+2021-07-25T16:01:05.458Z - info: Pages rebuilt
+2021-07-25T16:01:05.458Z - info: Website regeneration complete! Total build time: 0.29s
+2021-07-25T16:26:38.294Z - info: [12:26:38 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-07-25T16:26:38.297Z - info: Synchronizing opened pages list before reload
+2021-07-25T16:26:38.297Z - info: Current opened pages, from most-to-least recent:
+2021-07-25T16:26:38.298Z - info: 1. schedule/week9/admin
+2021-07-25T16:26:39.324Z - info: No pages needed to be rebuilt
+2021-07-25T16:30:23.857Z - info: Website generation started at 12:30:22 am
+2021-07-25T16:30:28.891Z - info: Building assets...
