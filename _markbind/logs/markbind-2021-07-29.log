@@ -1,0 +1,38 @@
+2021-07-29T15:53:55.694Z - info: Website generation (lazy) started at 11:53:51 pm
+2021-07-29T15:53:59.959Z - info: Building assets...
+2021-07-29T15:54:03.902Z - info: Assets built
+2021-07-29T15:54:03.903Z - info: Generating landing page...
+2021-07-29T15:54:04.490Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-29T15:54:05.220Z - info: Site data built
+2021-07-29T15:54:05.220Z - info: Website generation (lazy) complete! Total build time: 13.581s
+2021-07-29T15:54:05.894Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-29T15:54:05.894Z - info: Press CTRL+C to stop ...
+2021-07-29T15:54:40.899Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\instructors as some of its dependencies were changed since the last visit
+2021-07-29T15:54:41.157Z - info: Site data built
+2021-07-29T15:54:41.157Z - info: Lazy website regeneration complete! Total build time: 0.26s
+2021-07-29T15:55:51.528Z - info: [11:55:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2021-07-29T15:55:51.529Z - info: Synchronizing opened pages list before reload
+2021-07-29T15:55:51.529Z - info: Current opened pages, from most-to-least recent:
+2021-07-29T15:55:51.529Z - info: 1. admin/instructors
+2021-07-29T15:55:52.629Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-07-29T15:55:52.633Z - info: Rebuilding 1 pages
+2021-07-29T15:55:52.803Z - info: Site data built
+2021-07-29T15:55:52.803Z - info: Pages rebuilt
+2021-07-29T15:55:52.803Z - info: Website regeneration complete! Total build time: 0.265s
+2021-07-29T15:57:32.205Z - info: Website generation started at 11:57:30 pm
+2021-07-29T15:57:36.853Z - info: Building assets...
+2021-07-29T15:57:40.880Z - info: Assets built
+2021-07-29T15:57:40.881Z - info: Generating pages...
+2021-07-29T15:57:48.794Z - debug:  
+2021-07-29T15:57:50.491Z - debug:  
+2021-07-29T15:57:50.492Z - debug:  
+2021-07-29T15:57:50.492Z - debug:  
+2021-07-29T15:57:50.492Z - debug:  
+2021-07-29T15:57:50.492Z - debug:  
+2021-07-29T15:59:40.917Z - debug:  
+2021-07-29T15:59:52.692Z - debug:  
+2021-07-29T15:59:52.692Z - debug:  
+2021-07-29T15:59:58.557Z - info: Pages built
+2021-07-29T15:59:59.295Z - info: Site data built
+2021-07-29T15:59:59.295Z - info: Website generation complete! Total build time: 148.856s
+2021-07-29T15:59:59.295Z - info: Build success!

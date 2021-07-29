@@ -1,0 +1,30 @@
+2021-07-29T16:00:13.848Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-07-29T16:16:37.600Z - info: Website generation (lazy) started at 12:16:32 am
+2021-07-29T16:16:43.174Z - info: Building assets...
+2021-07-29T16:16:48.393Z - info: Assets built
+2021-07-29T16:16:48.394Z - info: Generating landing page...
+2021-07-29T16:16:50.329Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-29T16:16:51.109Z - info: Site data built
+2021-07-29T16:16:51.109Z - info: Website generation (lazy) complete! Total build time: 18.334s
+2021-07-29T16:16:51.856Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-29T16:16:51.856Z - info: Press CTRL+C to stop ...
+2021-07-29T16:17:56.401Z - info: [12:17:56 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2021-07-29T16:17:56.402Z - info: Synchronizing opened pages list before reload
+2021-07-29T16:17:56.402Z - info: Current opened pages, from most-to-least recent:
+2021-07-29T16:17:56.402Z - info: 1. index
+2021-07-29T16:17:57.496Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-07-29T16:17:57.501Z - info: Rebuilding 1 pages
+2021-07-29T16:17:58.801Z - info: Site data built
+2021-07-29T16:17:58.801Z - info: Pages rebuilt
+2021-07-29T16:17:58.801Z - info: Website regeneration complete! Total build time: 1.389s
+2021-07-29T16:18:36.480Z - info: Website generation (lazy) started at 12:18:34 am
+2021-07-29T16:18:41.343Z - info: Building assets...
+2021-07-29T16:18:46.783Z - info: Assets built
+2021-07-29T16:18:46.784Z - info: Generating landing page...
+2021-07-29T16:18:48.687Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-07-29T16:18:49.216Z - info: Site data built
+2021-07-29T16:18:49.217Z - info: Website generation (lazy) complete! Total build time: 14.444s
+2021-07-29T16:18:49.929Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-07-29T16:18:49.929Z - info: Press CTRL+C to stop ...
+2021-07-29T16:19:52.747Z - info: Website generation started at 12:19:51 am
+2021-07-29T16:19:57.434Z - info: Building assets...
