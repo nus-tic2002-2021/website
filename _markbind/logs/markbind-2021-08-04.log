@@ -1,0 +1,25 @@
+2021-08-04T05:09:55.483Z - info: Website generation (lazy) started at 1:09:52 pm
+2021-08-04T05:10:01.290Z - info: Building assets...
+2021-08-04T05:10:06.697Z - info: Assets built
+2021-08-04T05:10:06.698Z - info: Generating landing page...
+2021-08-04T05:10:09.983Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-04T05:10:10.985Z - info: Site data built
+2021-08-04T05:10:10.985Z - info: Website generation (lazy) complete! Total build time: 18.875s
+2021-08-04T05:10:12.012Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-04T05:10:12.012Z - info: Press CTRL+C to stop ...
+2021-08-04T05:10:14.955Z - info: [1:10:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2021-08-04T05:10:14.956Z - info: Synchronizing opened pages list before reload
+2021-08-04T05:10:14.956Z - info: No pages are currently opened
+2021-08-04T05:10:16.709Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-08-04T05:10:16.715Z - info: No pages needed to be rebuilt
+2021-08-04T05:11:49.017Z - info: [1:11:49 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2021-08-04T05:11:49.017Z - info: Synchronizing opened pages list before reload
+2021-08-04T05:11:49.018Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T05:11:49.018Z - info: 1. index
+2021-08-04T05:11:50.145Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-08-04T05:11:50.148Z - info: Rebuilding 1 pages
+2021-08-04T05:11:51.542Z - info: Site data built
+2021-08-04T05:11:51.543Z - info: Pages rebuilt
+2021-08-04T05:11:51.543Z - info: Website regeneration complete! Total build time: 1.518s
+2021-08-04T05:12:54.813Z - info: Website generation started at 1:12:52 pm
+2021-08-04T05:13:00.369Z - info: Building assets...
