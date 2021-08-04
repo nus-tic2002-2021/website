@@ -23,3 +23,354 @@
 2021-08-04T05:11:51.543Z - info: Website regeneration complete! Total build time: 1.518s
 2021-08-04T05:12:54.813Z - info: Website generation started at 1:12:52 pm
 2021-08-04T05:13:00.369Z - info: Building assets...
+2021-08-04T05:13:09.067Z - info: Assets built
+2021-08-04T05:13:09.069Z - info: Generating pages...
+2021-08-04T05:13:42.253Z - debug:  
+2021-08-04T05:13:42.255Z - debug:  
+2021-08-04T05:13:42.255Z - debug:  
+2021-08-04T05:13:42.255Z - debug:  
+2021-08-04T05:13:42.256Z - debug:  
+2021-08-04T05:15:12.746Z - debug:  
+2021-08-04T05:17:25.369Z - info: Pages built
+2021-08-04T05:17:27.377Z - info: Site data built
+2021-08-04T05:17:27.378Z - info: Website generation complete! Total build time: 275.082s
+2021-08-04T05:17:27.378Z - info: Build success!
+2021-08-04T05:17:59.718Z - info: Deployed at https://nus-tic2002-2021.github.io/website!
+2021-08-04T06:03:15.833Z - info: Website generation (lazy) started at 2:03:10 pm
+2021-08-04T06:03:22.707Z - info: Building assets...
+2021-08-04T06:03:28.618Z - info: Assets built
+2021-08-04T06:03:28.619Z - info: Generating landing page...
+2021-08-04T06:03:29.456Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-04T06:03:30.456Z - info: Site data built
+2021-08-04T06:03:30.456Z - info: Website generation (lazy) complete! Total build time: 20.243s
+2021-08-04T06:03:31.402Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-04T06:03:31.402Z - info: Press CTRL+C to stop ...
+2021-08-04T06:59:43.828Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2021-08-04T06:59:44.322Z - info: Site data built
+2021-08-04T06:59:44.323Z - info: Lazy website regeneration complete! Total build time: 0.506s
+2021-08-04T06:59:48.908Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\refactoring as some of its dependencies were changed since the last visit
+2021-08-04T06:59:49.344Z - info: Site data built
+2021-08-04T06:59:49.345Z - info: Lazy website regeneration complete! Total build time: 0.437s
+2021-08-04T07:01:59.588Z - info: [3:01:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\how\text.md
+2021-08-04T07:01:59.588Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:01:59.589Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:01:59.589Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:02:00.594Z - info: Rebuilding 1 pages
+2021-08-04T07:02:00.828Z - info: Site data built
+2021-08-04T07:02:00.829Z - info: Pages rebuilt
+2021-08-04T07:02:00.829Z - info: Website regeneration complete! Total build time: 0.237s
+2021-08-04T07:05:35.239Z - info: [3:05:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-CS2103\textbookTopics.mbdf
+2021-08-04T07:05:35.239Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:05:35.240Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:05:35.240Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:05:36.527Z - info: Rebuilding 1 pages
+2021-08-04T07:05:36.756Z - info: Site data built
+2021-08-04T07:05:36.756Z - info: Pages rebuilt
+2021-08-04T07:05:36.757Z - info: Website regeneration complete! Total build time: 0.231s
+2021-08-04T07:05:47.519Z - info: [3:05:47 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\how\text.md
+2021-08-04T07:05:47.519Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:05:47.520Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:05:47.520Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:05:48.525Z - info: Rebuilding 1 pages
+2021-08-04T07:05:48.815Z - info: Site data built
+2021-08-04T07:05:48.815Z - info: Pages rebuilt
+2021-08-04T07:05:48.816Z - info: Website regeneration complete! Total build time: 0.292s
+2021-08-04T07:06:43.524Z - info: [3:06:43 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:06:43.524Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:06:43.524Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:06:43.524Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:06:44.541Z - info: Rebuilding 1 pages
+2021-08-04T07:06:44.844Z - info: Site data built
+2021-08-04T07:06:44.845Z - info: Pages rebuilt
+2021-08-04T07:06:44.845Z - info: Website regeneration complete! Total build time: 0.305s
+2021-08-04T07:07:01.726Z - info: [3:07:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:07:01.726Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:07:01.726Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:07:01.726Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:07:02.734Z - info: Rebuilding 1 pages
+2021-08-04T07:07:03.009Z - info: Site data built
+2021-08-04T07:07:03.009Z - info: Pages rebuilt
+2021-08-04T07:07:03.009Z - info: Website regeneration complete! Total build time: 0.277s
+2021-08-04T07:09:16.625Z - info: [3:09:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:09:16.625Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:09:16.625Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:09:16.625Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:09:17.640Z - info: Rebuilding 1 pages
+2021-08-04T07:09:17.898Z - info: Site data built
+2021-08-04T07:09:17.899Z - info: Pages rebuilt
+2021-08-04T07:09:17.899Z - info: Website regeneration complete! Total build time: 0.261s
+2021-08-04T07:09:55.381Z - info: [3:09:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:09:55.382Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:09:55.382Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:09:55.382Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:09:56.388Z - info: Rebuilding 1 pages
+2021-08-04T07:09:56.743Z - info: Site data built
+2021-08-04T07:09:56.743Z - info: Pages rebuilt
+2021-08-04T07:09:56.743Z - info: Website regeneration complete! Total build time: 0.357s
+2021-08-04T07:10:40.194Z - info: [3:10:40 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:10:40.194Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:10:40.194Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:10:40.194Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:10:41.203Z - info: Rebuilding 1 pages
+2021-08-04T07:10:41.457Z - info: Site data built
+2021-08-04T07:10:41.457Z - info: Pages rebuilt
+2021-08-04T07:10:41.457Z - info: Website regeneration complete! Total build time: 0.254s
+2021-08-04T07:11:55.537Z - info: [3:11:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:11:55.537Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:11:55.537Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:11:55.538Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:11:56.550Z - info: Rebuilding 1 pages
+2021-08-04T07:11:56.828Z - info: Site data built
+2021-08-04T07:11:56.828Z - info: Pages rebuilt
+2021-08-04T07:11:56.828Z - info: Website regeneration complete! Total build time: 0.28s
+2021-08-04T07:12:25.813Z - info: [3:12:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:12:25.813Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:12:25.813Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:12:25.813Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:12:26.820Z - info: Rebuilding 1 pages
+2021-08-04T07:12:27.070Z - info: Site data built
+2021-08-04T07:12:27.070Z - info: Pages rebuilt
+2021-08-04T07:12:27.070Z - info: Website regeneration complete! Total build time: 0.252s
+2021-08-04T07:13:15.791Z - info: [3:13:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:13:15.791Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:13:15.791Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:13:15.791Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:13:16.799Z - info: Rebuilding 1 pages
+2021-08-04T07:13:17.212Z - info: Site data built
+2021-08-04T07:13:17.213Z - info: Pages rebuilt
+2021-08-04T07:13:17.213Z - info: Website regeneration complete! Total build time: 0.417s
+2021-08-04T07:15:37.001Z - info: [3:15:37 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:15:37.001Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:15:37.001Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:15:37.001Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:15:38.013Z - info: Rebuilding 1 pages
+2021-08-04T07:15:38.280Z - info: Site data built
+2021-08-04T07:15:38.280Z - info: Pages rebuilt
+2021-08-04T07:15:38.280Z - info: Website regeneration complete! Total build time: 0.27s
+2021-08-04T07:16:46.225Z - info: [3:16:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:16:46.225Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:16:46.225Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:16:46.225Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:16:47.242Z - info: Rebuilding 1 pages
+2021-08-04T07:16:47.499Z - info: Site data built
+2021-08-04T07:16:47.500Z - info: Pages rebuilt
+2021-08-04T07:16:47.500Z - info: Website regeneration complete! Total build time: 0.26s
+2021-08-04T07:18:53.276Z - info: [3:18:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:18:53.276Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:18:53.276Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:18:53.277Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:18:54.280Z - info: Rebuilding 1 pages
+2021-08-04T07:18:54.620Z - info: Site data built
+2021-08-04T07:18:54.620Z - info: Pages rebuilt
+2021-08-04T07:18:54.620Z - info: Website regeneration complete! Total build time: 0.341s
+2021-08-04T07:20:29.221Z - info: [3:20:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:20:29.221Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:20:29.222Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:20:29.222Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:20:30.225Z - info: Rebuilding 1 pages
+2021-08-04T07:20:30.417Z - info: Site data built
+2021-08-04T07:20:30.417Z - info: Pages rebuilt
+2021-08-04T07:20:30.417Z - info: Website regeneration complete! Total build time: 0.193s
+2021-08-04T07:20:53.131Z - info: [3:20:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:20:53.131Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:20:53.131Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:20:53.131Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:20:54.150Z - info: Rebuilding 1 pages
+2021-08-04T07:20:54.333Z - info: Site data built
+2021-08-04T07:20:54.333Z - info: Pages rebuilt
+2021-08-04T07:20:54.333Z - info: Website regeneration complete! Total build time: 0.184s
+2021-08-04T07:21:45.957Z - info: [3:21:45 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:21:45.958Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:21:45.958Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:21:45.958Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:21:46.966Z - info: Rebuilding 1 pages
+2021-08-04T07:21:47.135Z - info: Site data built
+2021-08-04T07:21:47.135Z - info: Pages rebuilt
+2021-08-04T07:21:47.135Z - info: Website regeneration complete! Total build time: 0.169s
+2021-08-04T07:22:23.286Z - info: [3:22:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:22:23.286Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:22:23.287Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:22:23.287Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:22:24.305Z - info: Rebuilding 1 pages
+2021-08-04T07:22:24.585Z - info: Site data built
+2021-08-04T07:22:24.586Z - info: Pages rebuilt
+2021-08-04T07:22:24.586Z - info: Website regeneration complete! Total build time: 0.284s
+2021-08-04T07:22:51.119Z - info: [3:22:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:22:51.119Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:22:51.119Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:22:51.119Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:22:52.130Z - info: Rebuilding 1 pages
+2021-08-04T07:22:52.347Z - info: Site data built
+2021-08-04T07:22:52.347Z - info: Pages rebuilt
+2021-08-04T07:22:52.348Z - info: Website regeneration complete! Total build time: 0.219s
+2021-08-04T07:25:45.481Z - info: [3:25:45 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:25:45.481Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:25:45.482Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:25:45.482Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:25:46.490Z - info: Rebuilding 1 pages
+2021-08-04T07:25:46.675Z - info: Site data built
+2021-08-04T07:25:46.676Z - info: Pages rebuilt
+2021-08-04T07:25:46.676Z - info: Website regeneration complete! Total build time: 0.187s
+2021-08-04T07:26:51.186Z - info: [3:26:51 pm] Reload for file add: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\resources.md
+2021-08-04T07:26:51.186Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:26:51.186Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:26:51.187Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:26:54.096Z - info: Assets built
+2021-08-04T07:27:01.077Z - info: [3:27:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:27:01.077Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:27:01.077Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:27:01.077Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:27:02.094Z - info: Rebuilding 1 pages
+2021-08-04T07:27:02.375Z - info: Site data built
+2021-08-04T07:27:02.376Z - info: Pages rebuilt
+2021-08-04T07:27:02.376Z - info: Website regeneration complete! Total build time: 0.283s
+2021-08-04T07:27:23.553Z - info: [3:27:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\resources.md
+2021-08-04T07:27:23.553Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:27:23.553Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:27:23.554Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:27:24.573Z - info: Rebuilding 1 pages
+2021-08-04T07:27:24.775Z - info: Site data built
+2021-08-04T07:27:24.775Z - info: Pages rebuilt
+2021-08-04T07:27:24.775Z - info: Website regeneration complete! Total build time: 0.203s
+2021-08-04T07:28:03.283Z - info: [3:28:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\resources.md
+2021-08-04T07:28:03.283Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:28:03.283Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:28:03.283Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:28:04.290Z - info: Rebuilding 1 pages
+2021-08-04T07:28:04.477Z - info: Site data built
+2021-08-04T07:28:04.477Z - info: Pages rebuilt
+2021-08-04T07:28:04.477Z - info: Website regeneration complete! Total build time: 0.192s
+2021-08-04T07:31:03.363Z - info: [3:31:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\resources.md
+2021-08-04T07:31:03.364Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:31:03.364Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:31:03.364Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:31:04.376Z - info: Rebuilding 1 pages
+2021-08-04T07:31:04.650Z - info: Site data built
+2021-08-04T07:31:04.650Z - info: Pages rebuilt
+2021-08-04T07:31:04.651Z - info: Website regeneration complete! Total build time: 0.275s
+2021-08-04T07:31:53.034Z - info: [3:31:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:31:53.034Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:31:53.034Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:31:53.034Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:31:54.046Z - info: Rebuilding 1 pages
+2021-08-04T07:31:54.261Z - info: Site data built
+2021-08-04T07:31:54.261Z - info: Pages rebuilt
+2021-08-04T07:31:54.261Z - info: Website regeneration complete! Total build time: 0.216s
+2021-08-04T07:33:35.806Z - info: [3:33:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:33:35.806Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:33:35.806Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:33:35.806Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:33:36.820Z - info: Rebuilding 1 pages
+2021-08-04T07:33:37.029Z - info: Site data built
+2021-08-04T07:33:37.030Z - info: Pages rebuilt
+2021-08-04T07:33:37.030Z - info: Website regeneration complete! Total build time: 0.211s
+2021-08-04T07:33:46.816Z - info: [3:33:46 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:33:46.817Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:33:46.817Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:33:46.817Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:33:47.825Z - info: Rebuilding 1 pages
+2021-08-04T07:33:47.999Z - info: Site data built
+2021-08-04T07:33:47.999Z - info: Pages rebuilt
+2021-08-04T07:33:47.999Z - info: Website regeneration complete! Total build time: 0.174s
+2021-08-04T07:33:55.914Z - info: [3:33:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:33:55.914Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:33:55.915Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:33:55.915Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:33:56.921Z - info: Rebuilding 1 pages
+2021-08-04T07:33:57.093Z - info: Site data built
+2021-08-04T07:33:57.094Z - info: Pages rebuilt
+2021-08-04T07:33:57.094Z - info: Website regeneration complete! Total build time: 0.174s
+2021-08-04T07:34:17.619Z - info: [3:34:17 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:34:17.620Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:34:17.620Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:34:17.620Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:34:18.632Z - info: Rebuilding 1 pages
+2021-08-04T07:34:18.903Z - info: Site data built
+2021-08-04T07:34:18.903Z - info: Pages rebuilt
+2021-08-04T07:34:18.903Z - info: Website regeneration complete! Total build time: 0.272s
+2021-08-04T07:36:03.749Z - info: [3:36:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:36:03.750Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:36:03.750Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:36:03.750Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:36:04.763Z - info: Rebuilding 1 pages
+2021-08-04T07:36:04.980Z - info: Site data built
+2021-08-04T07:36:04.980Z - info: Pages rebuilt
+2021-08-04T07:36:04.980Z - info: Website regeneration complete! Total build time: 0.219s
+2021-08-04T07:36:53.739Z - info: [3:36:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:36:53.739Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:36:53.739Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:36:53.740Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:36:54.755Z - info: Rebuilding 1 pages
+2021-08-04T07:36:54.930Z - info: Site data built
+2021-08-04T07:36:54.930Z - info: Pages rebuilt
+2021-08-04T07:36:54.930Z - info: Website regeneration complete! Total build time: 0.176s
+2021-08-04T07:37:05.216Z - info: [3:37:05 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:37:05.216Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:37:05.216Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:37:05.216Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:37:06.223Z - info: Rebuilding 1 pages
+2021-08-04T07:37:06.420Z - info: Site data built
+2021-08-04T07:37:06.420Z - info: Pages rebuilt
+2021-08-04T07:37:06.420Z - info: Website regeneration complete! Total build time: 0.199s
+2021-08-04T07:37:54.909Z - info: [3:37:54 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\text.md
+2021-08-04T07:37:54.910Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:37:54.910Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:37:54.910Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:37:55.926Z - info: Rebuilding 1 pages
+2021-08-04T07:37:56.125Z - info: Site data built
+2021-08-04T07:37:56.125Z - info: Pages rebuilt
+2021-08-04T07:37:56.125Z - info: Website regeneration complete! Total build time: 0.2s
+2021-08-04T07:38:37.324Z - info: [3:38:37 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\resources.md
+2021-08-04T07:38:37.324Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:38:37.324Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:38:37.324Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:38:38.334Z - info: Rebuilding 1 pages
+2021-08-04T07:38:38.507Z - info: Site data built
+2021-08-04T07:38:38.507Z - info: Pages rebuilt
+2021-08-04T07:38:38.507Z - info: Website regeneration complete! Total build time: 0.175s
+2021-08-04T07:39:01.874Z - info: [3:39:01 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\refactoring\when\resources.md
+2021-08-04T07:39:01.874Z - info: Synchronizing opened pages list before reload
+2021-08-04T07:39:01.875Z - info: Current opened pages, from most-to-least recent:
+2021-08-04T07:39:01.875Z - info: 1. se-book-adapted/chapters/refactoring
+2021-08-04T07:39:02.881Z - info: Rebuilding 1 pages
+2021-08-04T07:39:03.187Z - info: Site data built
+2021-08-04T07:39:03.188Z - info: Pages rebuilt
+2021-08-04T07:39:03.188Z - info: Website regeneration complete! Total build time: 0.308s
+2021-08-04T07:46:40.968Z - info: Website generation started at 3:46:38 pm
+2021-08-04T07:46:45.846Z - info: Building assets...
+2021-08-04T07:46:50.329Z - info: Assets built
+2021-08-04T07:46:50.329Z - info: Generating pages...
+2021-08-04T07:46:58.577Z - debug:  
+2021-08-04T07:46:58.583Z - debug:  
+2021-08-04T07:47:00.171Z - debug:  
+2021-08-04T07:47:00.172Z - debug:  
+2021-08-04T07:47:00.207Z - debug:  
+2021-08-04T07:47:00.207Z - debug:  
+2021-08-04T07:48:44.047Z - debug:  
+2021-08-04T07:48:55.300Z - debug:  
+2021-08-04T07:48:55.304Z - debug:  
+2021-08-04T07:49:01.245Z - info: Pages built
+2021-08-04T07:49:02.097Z - info: Site data built
+2021-08-04T07:49:02.098Z - info: Website generation complete! Total build time: 143.106s
+2021-08-04T07:49:02.098Z - info: Build success!
+2021-08-04T07:49:14.605Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-08-04T07:53:42.116Z - info: Website generation started at 3:53:34 pm
+2021-08-04T07:53:49.336Z - info: Building assets...
+2021-08-04T07:53:55.363Z - info: Assets built
+2021-08-04T07:53:55.363Z - info: Generating pages...
+2021-08-04T07:54:04.996Z - debug:  
+2021-08-04T07:54:05.000Z - debug:  
+2021-08-04T07:54:05.005Z - debug:  
+2021-08-04T07:54:06.945Z - debug:  
+2021-08-04T07:54:06.947Z - debug:  
+2021-08-04T07:54:06.947Z - debug:  
+2021-08-04T07:56:11.340Z - debug:  
+2021-08-04T07:56:26.897Z - debug:  
+2021-08-04T07:56:26.897Z - debug:  
+2021-08-04T07:56:33.106Z - info: Pages built
+2021-08-04T07:56:34.052Z - info: Site data built
+2021-08-04T07:56:34.052Z - info: Website generation complete! Total build time: 179.336s
+2021-08-04T07:56:34.053Z - info: Build success!
+2021-08-04T07:56:47.179Z - info: Deployed at https://nus-cs2113-ay2122s1.github.io/website!
+2021-08-04T08:37:46.427Z - info: Website generation started at 4:37:41 pm
+2021-08-04T08:37:51.036Z - info: Building assets...

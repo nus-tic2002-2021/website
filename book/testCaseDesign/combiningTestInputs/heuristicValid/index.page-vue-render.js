@@ -23,6 +23,6 @@ with(this){return _c('ul',[_c('li',[_v("Answer: No.")]),_v(" "),_c('li',[_v("Rea
 with(this){return _c('p',[_v("In this case, a useful heuristic to apply is "),_c('strong',[_v("each valid input must appear at least once in a positive test case")]),_v(". "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("Cherry")]),_v(" is a valid test input and you must ensure that it appears at least once in a positive test case. Here are the updated test cases after applying that heuristic.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 4 Aug 2021, 13:13:09 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 4 Aug 2021, 16:37:55 GMT+8]")])])])}
 }];
   
