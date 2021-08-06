@@ -14,9 +14,9 @@ with(this){return _c('p',[_c('span',{staticClass:"dimmed"},[_c('strong',[_c('spa
 with(this){return _c('div',[_c('h4',{attrs:{"id":"use-case-diagrams"}},[_c('span',{staticClass:"anchor",attrs:{"id":"use-case-diagrams"}}),_c('span',[_v("Use case diagrams")]),_c('a',{staticClass:"fa fa-anchor",attrs:{"href":"#use-case-diagrams","onclick":"event.stopPropagation()"}})])])}
 },function anonymous(
 ) {
-with(this){return _c('p',[_c('strong',[_v("Use case diagrams model the mapping between features of a system and its user roles.")])])}
+with(this){return _c('p',[_c('strong',[_v("Use case diagrams model the mapping between "),_c('em',[_v("features")]),_v(" of a system and its user "),_c('em',[_v("roles")])]),_v(" i.e., which user roles can perform which tasks using the software.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Wed, 4 Aug 2021, 16:37:55 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Sat, 7 Aug 2021, 1:29:46 GMT+8]")])])])}
 }];
   

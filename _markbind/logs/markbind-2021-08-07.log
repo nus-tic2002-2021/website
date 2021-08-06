@@ -1,0 +1,200 @@
+2021-08-06T16:02:11.389Z - info: [12:02:11 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2021-08-06T16:02:11.400Z - info: Synchronizing opened pages list before reload
+2021-08-06T16:02:11.400Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T16:02:11.401Z - info: 1. schedule/week2/topics
+2021-08-06T16:02:11.401Z - info: 2. schedule/week2/admin
+2021-08-06T16:02:12.415Z - info: Rebuilding 2 pages
+2021-08-06T16:02:15.219Z - info: Site data built
+2021-08-06T16:02:15.219Z - info: Pages rebuilt
+2021-08-06T16:02:15.219Z - info: Website regeneration complete! Total build time: 2.807s
+2021-08-06T16:02:22.818Z - info: [12:02:22 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\common\topics.njk
+2021-08-06T16:02:22.818Z - info: Synchronizing opened pages list before reload
+2021-08-06T16:02:22.818Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T16:02:22.819Z - info: 1. schedule/week2/topics
+2021-08-06T16:02:22.819Z - info: 2. schedule/week2/admin
+2021-08-06T16:02:23.823Z - info: Rebuilding 2 pages
+2021-08-06T16:02:26.169Z - info: Site data built
+2021-08-06T16:02:26.169Z - info: Pages rebuilt
+2021-08-06T16:02:26.169Z - info: Website regeneration complete! Total build time: 2.347s
+2021-08-06T16:05:19.261Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\project as some of its dependencies were changed since the last visit
+2021-08-06T16:05:20.703Z - info: Site data built
+2021-08-06T16:05:20.703Z - info: Lazy website regeneration complete! Total build time: 1.442s
+2021-08-06T16:06:46.298Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week2\tutorial as some of its dependencies were changed since the last visit
+2021-08-06T16:06:46.570Z - info: Site data built
+2021-08-06T16:06:46.571Z - info: Lazy website regeneration complete! Total build time: 0.274s
+2021-08-06T16:22:37.994Z - info: [12:22:37 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\variables.md
+2021-08-06T16:22:37.994Z - info: Synchronizing opened pages list before reload
+2021-08-06T16:22:37.995Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T16:22:37.995Z - info: 1. schedule/week2/project
+2021-08-06T16:22:37.995Z - info: 2. schedule/week2/admin
+2021-08-06T16:22:39.151Z - warn: Rebuilding all pages as variables file was changed, or the --force-reload flag was set
+2021-08-06T16:22:39.154Z - info: Rebuilding 2 pages
+2021-08-06T16:22:40.852Z - info: Site data built
+2021-08-06T16:22:40.853Z - info: Pages rebuilt
+2021-08-06T16:22:40.853Z - info: Website regeneration complete! Total build time: 1.845s
+2021-08-06T16:23:04.843Z - info: Website generation started at 12:23:03 am
+2021-08-06T16:23:10.595Z - info: Building assets...
+2021-08-06T16:23:14.618Z - info: Assets built
+2021-08-06T16:23:14.619Z - info: Generating pages...
+2021-08-06T16:23:22.528Z - debug:  
+2021-08-06T16:23:22.529Z - debug:  
+2021-08-06T16:23:22.529Z - debug:  
+2021-08-06T16:23:22.529Z - debug:  
+2021-08-06T16:23:22.529Z - debug:  
+2021-08-06T16:23:22.529Z - debug:  
+2021-08-06T16:25:06.119Z - debug:  
+2021-08-06T16:25:16.793Z - debug:  
+2021-08-06T16:25:16.793Z - debug:  
+2021-08-06T16:25:23.031Z - info: Pages built
+2021-08-06T16:25:23.828Z - info: Site data built
+2021-08-06T16:25:23.828Z - info: Website generation complete! Total build time: 140.751s
+2021-08-06T16:25:23.828Z - info: Build success!
+2021-08-06T16:25:33.620Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-08-06T17:09:37.332Z - info: Website generation (lazy) started at 1:09:33 am
+2021-08-06T17:09:42.748Z - info: Building assets...
+2021-08-06T17:09:47.026Z - info: Assets built
+2021-08-06T17:09:47.027Z - info: Generating landing page...
+2021-08-06T17:09:47.714Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-06T17:09:48.524Z - info: Site data built
+2021-08-06T17:09:48.524Z - info: Website generation (lazy) complete! Total build time: 15.372s
+2021-08-06T17:09:49.343Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-06T17:09:49.343Z - info: Press CTRL+C to stop ...
+2021-08-06T17:10:09.654Z - info: [1:10:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tools.md
+2021-08-06T17:10:09.655Z - info: Synchronizing opened pages list before reload
+2021-08-06T17:10:09.655Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T17:10:09.655Z - info: 1. index
+2021-08-06T17:10:10.666Z - info: Assets built
+2021-08-06T17:10:21.302Z - info: [1:10:21 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tools.md
+2021-08-06T17:10:21.303Z - info: Synchronizing opened pages list before reload
+2021-08-06T17:10:21.303Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T17:10:21.303Z - info: 1. index
+2021-08-06T17:10:22.307Z - info: Assets built
+2021-08-06T17:10:23.307Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tools as some of its dependencies were changed since the last visit
+2021-08-06T17:10:23.335Z - error:  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\tools.md) [Line 148, Column 4]
+  unknown block tag: endif
+    at Object._prettifyError (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:469:37)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:22
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1185:34
+    at Array.forEach (<anonymous>)
+2021-08-06T17:10:23.336Z - warn:  Error: Error while generating undefined
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1175:18
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-08-06T17:10:37.942Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tools as some of its dependencies were changed since the last visit
+2021-08-06T17:10:37.961Z - error:  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\tools.md) [Line 148, Column 4]
+  unknown block tag: endif
+    at Object._prettifyError (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at Page.generate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Page\index.js:469:37)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1167:22
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1185:34
+    at Array.forEach (<anonymous>)
+2021-08-06T17:10:37.961Z - warn:  Error: Error while generating undefined
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\Site\index.js:1175:18
+    at runMicrotasks (<anonymous>)
+    at processTicksAndRejections (internal/process/task_queues.js:95:5)
+2021-08-06T17:11:12.786Z - info: [1:11:12 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tools.md
+2021-08-06T17:11:12.786Z - info: Synchronizing opened pages list before reload
+2021-08-06T17:11:12.786Z - info: No pages are currently opened
+2021-08-06T17:11:13.796Z - info: No pages needed to be rebuilt
+2021-08-06T17:11:23.931Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tools as some of its dependencies were changed since the last visit
+2021-08-06T17:11:24.449Z - info: Site data built
+2021-08-06T17:11:24.450Z - info: Lazy website regeneration complete! Total build time: 0.519s
+2021-08-06T17:11:32.070Z - info: Website generation (lazy) started at 1:11:32 am
+2021-08-06T17:11:37.283Z - info: Building assets...
+2021-08-06T17:11:41.361Z - info: Assets built
+2021-08-06T17:11:41.362Z - info: Generating landing page...
+2021-08-06T17:11:42.022Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-06T17:11:42.593Z - info: Site data built
+2021-08-06T17:11:42.593Z - info: Website generation (lazy) complete! Total build time: 10.553s
+2021-08-06T17:11:43.406Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-06T17:11:43.406Z - info: Press CTRL+C to stop ...
+2021-08-06T17:12:26.335Z - info: [1:12:26 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tools.md
+2021-08-06T17:12:26.337Z - info: Synchronizing opened pages list before reload
+2021-08-06T17:12:26.337Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T17:12:26.338Z - info: 1. index
+2021-08-06T17:12:27.352Z - info: Assets built
+2021-08-06T17:12:30.403Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tools as some of its dependencies were changed since the last visit
+2021-08-06T17:12:30.949Z - info: Site data built
+2021-08-06T17:12:30.949Z - info: Lazy website regeneration complete! Total build time: 0.547s
+2021-08-06T17:13:18.409Z - info: [1:13:18 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tools.md
+2021-08-06T17:13:18.409Z - info: Synchronizing opened pages list before reload
+2021-08-06T17:13:18.409Z - info: No pages are currently opened
+2021-08-06T17:13:19.418Z - info: No pages needed to be rebuilt
+2021-08-06T17:13:28.314Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\tools as some of its dependencies were changed since the last visit
+2021-08-06T17:13:28.670Z - info: Site data built
+2021-08-06T17:13:28.671Z - info: Lazy website regeneration complete! Total build time: 0.356s
+2021-08-06T17:14:17.519Z - info: [1:14:17 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\tools.md
+2021-08-06T17:14:17.520Z - info: Synchronizing opened pages list before reload
+2021-08-06T17:14:17.520Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T17:14:17.520Z - info: 1. admin/tools
+2021-08-06T17:14:18.536Z - info: Rebuilding 1 pages
+2021-08-06T17:14:18.945Z - info: Site data built
+2021-08-06T17:14:18.945Z - info: Pages rebuilt
+2021-08-06T17:14:18.945Z - info: Website regeneration complete! Total build time: 0.411s
+2021-08-06T17:15:04.566Z - info: Website generation started at 1:15:02 am
+2021-08-06T17:15:09.559Z - info: Building assets...
+2021-08-06T17:15:14.745Z - info: Assets built
+2021-08-06T17:15:14.746Z - info: Generating pages...
+2021-08-06T17:15:22.599Z - debug:  
+2021-08-06T17:15:22.599Z - debug:  
+2021-08-06T17:15:22.600Z - debug:  
+2021-08-06T17:15:22.600Z - debug:  
+2021-08-06T17:15:22.600Z - debug:  
+2021-08-06T17:15:22.600Z - debug:  
+2021-08-06T17:17:08.289Z - debug:  
+2021-08-06T17:17:19.364Z - debug:  
+2021-08-06T17:17:19.365Z - debug:  
+2021-08-06T17:17:25.472Z - info: Pages built
+2021-08-06T17:17:26.279Z - info: Site data built
+2021-08-06T17:17:26.279Z - info: Website generation complete! Total build time: 143.401s
+2021-08-06T17:17:26.280Z - info: Build success!
+2021-08-06T17:17:36.907Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-08-06T17:23:55.031Z - info: Website generation (lazy) started at 1:23:50 am
+2021-08-06T17:23:59.597Z - info: Building assets...
+2021-08-06T17:24:03.439Z - info: Assets built
+2021-08-06T17:24:03.440Z - info: Generating landing page...
+2021-08-06T17:24:05.071Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-06T17:24:05.790Z - info: Site data built
+2021-08-06T17:24:05.790Z - info: Website generation (lazy) complete! Total build time: 15.711s
+2021-08-06T17:24:06.481Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-06T17:24:06.481Z - info: Press CTRL+C to stop ...
+2021-08-06T17:25:05.890Z - info: [1:25:05 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-08-06T17:25:05.891Z - info: Synchronizing opened pages list before reload
+2021-08-06T17:25:05.892Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T17:25:05.892Z - info: 1. index
+2021-08-06T17:25:06.909Z - info: Rebuilding 1 pages
+2021-08-06T17:25:08.492Z - info: Site data built
+2021-08-06T17:25:08.493Z - info: Pages rebuilt
+2021-08-06T17:25:08.493Z - info: Website regeneration complete! Total build time: 1.585s
+2021-08-06T17:25:23.384Z - info: [1:25:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-08-06T17:25:23.384Z - info: Synchronizing opened pages list before reload
+2021-08-06T17:25:23.385Z - info: Current opened pages, from most-to-least recent:
+2021-08-06T17:25:23.385Z - info: 1. index
+2021-08-06T17:25:24.401Z - info: Rebuilding 1 pages
+2021-08-06T17:25:25.575Z - info: Site data built
+2021-08-06T17:25:25.575Z - info: Pages rebuilt
+2021-08-06T17:25:25.575Z - info: Website regeneration complete! Total build time: 1.175s
+2021-08-06T17:29:37.713Z - info: Website generation started at 1:29:35 am
+2021-08-06T17:29:42.395Z - info: Building assets...
