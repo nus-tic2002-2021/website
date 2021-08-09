@@ -1,0 +1,111 @@
+2021-08-09T06:15:54.523Z - info: Website generation (lazy) started at 2:15:50 pm
+2021-08-09T06:15:58.800Z - info: Building assets...
+2021-08-09T06:16:02.922Z - info: Assets built
+2021-08-09T06:16:02.922Z - info: Generating landing page...
+2021-08-09T06:16:04.784Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-09T06:16:05.474Z - info: Site data built
+2021-08-09T06:16:05.474Z - info: Website generation (lazy) complete! Total build time: 15.081s
+2021-08-09T06:16:06.155Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-09T06:16:06.155Z - info: Press CTRL+C to stop ...
+2021-08-09T06:16:17.295Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\index as some of its dependencies were changed since the last visit
+2021-08-09T06:16:17.791Z - info: Site data built
+2021-08-09T06:16:17.791Z - info: Lazy website regeneration complete! Total build time: 0.496s
+2021-08-09T06:16:27.523Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin as some of its dependencies were changed since the last visit
+2021-08-09T06:16:28.013Z - info: Site data built
+2021-08-09T06:16:28.013Z - info: Lazy website regeneration complete! Total build time: 0.49s
+2021-08-09T06:16:49.576Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\topics as some of its dependencies were changed since the last visit
+2021-08-09T06:16:51.771Z - info: Site data built
+2021-08-09T06:16:51.771Z - info: Lazy website regeneration complete! Total build time: 2.195s
+2021-08-09T06:19:14.870Z - info: [2:19:14 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary.mbdf
+2021-08-09T06:19:14.871Z - info: Synchronizing opened pages list before reload
+2021-08-09T06:19:14.872Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T06:19:14.872Z - info: 1. schedule/week1/topics
+2021-08-09T06:19:15.884Z - info: Rebuilding 1 pages
+2021-08-09T06:19:17.668Z - info: Site data built
+2021-08-09T06:19:17.668Z - info: Pages rebuilt
+2021-08-09T06:19:17.668Z - info: Website regeneration complete! Total build time: 1.787s
+2021-08-09T06:23:50.806Z - info: [2:23:50 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary.mbdf
+2021-08-09T06:23:50.806Z - info: Synchronizing opened pages list before reload
+2021-08-09T06:23:50.806Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T06:23:50.806Z - info: 1. schedule/week1/topics
+2021-08-09T06:23:51.823Z - info: Rebuilding 1 pages
+2021-08-09T06:23:53.163Z - info: Site data built
+2021-08-09T06:23:53.163Z - info: Pages rebuilt
+2021-08-09T06:23:53.163Z - info: Website regeneration complete! Total build time: 1.342s
+2021-08-09T06:24:03.623Z - info: [2:24:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary.mbdf
+2021-08-09T06:24:03.623Z - info: Synchronizing opened pages list before reload
+2021-08-09T06:24:03.623Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T06:24:03.623Z - info: 1. schedule/week1/topics
+2021-08-09T06:24:04.638Z - info: Rebuilding 1 pages
+2021-08-09T06:24:04.980Z - error:  Error: No such segment '#cpptojava-gettingstarted-running' in file: C:\repos\nus-cs2103\cs2103-website-base\admin\common-commentary.mbdf
+Missing reference in C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\commentary-box.md
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:225:23)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:147:16)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:289:20)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+2021-08-09T06:24:05.632Z - info: Site data built
+2021-08-09T06:24:05.632Z - info: Pages rebuilt
+2021-08-09T06:24:05.632Z - info: Website regeneration complete! Total build time: 0.995s
+2021-08-09T06:24:19.205Z - info: [2:24:19 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\commentary-tic2002.mbdf
+2021-08-09T06:24:19.205Z - info: Synchronizing opened pages list before reload
+2021-08-09T06:24:19.206Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T06:24:19.206Z - info: 1. schedule/week1/topics
+2021-08-09T06:24:20.216Z - info: Rebuilding 1 pages
+2021-08-09T06:24:21.475Z - info: Site data built
+2021-08-09T06:24:21.475Z - info: Pages rebuilt
+2021-08-09T06:24:21.475Z - info: Website regeneration complete! Total build time: 1.261s
+2021-08-09T06:30:18.720Z - info: [2:30:18 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-byeWorld.md
+2021-08-09T06:30:18.721Z - info: Synchronizing opened pages list before reload
+2021-08-09T06:30:18.721Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T06:30:18.721Z - info: 1. schedule/week1/topics
+2021-08-09T06:30:19.732Z - info: Rebuilding 1 pages
+2021-08-09T06:30:20.956Z - info: Site data built
+2021-08-09T06:30:20.957Z - info: Pages rebuilt
+2021-08-09T06:30:20.957Z - info: Website regeneration complete! Total build time: 1.227s
+2021-08-09T06:40:33.886Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2021-08-09T06:40:35.268Z - info: Site data built
+2021-08-09T06:40:35.269Z - info: Lazy website regeneration complete! Total build time: 1.383s
+2021-08-09T06:59:08.675Z - info: [2:59:08 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-08-09T06:59:08.676Z - info: Synchronizing opened pages list before reload
+2021-08-09T06:59:08.676Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T06:59:08.676Z - info: 1. schedule/week1/index
+2021-08-09T06:59:09.690Z - info: Rebuilding 1 pages
+2021-08-09T06:59:10.086Z - info: Site data built
+2021-08-09T06:59:10.087Z - info: Pages rebuilt
+2021-08-09T06:59:10.087Z - info: Website regeneration complete! Total build time: 0.401s
+2021-08-09T06:59:33.498Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\admin as some of its dependencies were changed since the last visit
+2021-08-09T06:59:34.021Z - info: Site data built
+2021-08-09T06:59:34.022Z - info: Lazy website regeneration complete! Total build time: 0.526s
+2021-08-09T07:02:20.790Z - info: [3:02:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-08-09T07:02:20.790Z - info: Synchronizing opened pages list before reload
+2021-08-09T07:02:20.791Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T07:02:20.791Z - info: 1. schedule/week1/admin
+2021-08-09T07:02:21.806Z - info: Rebuilding 1 pages
+2021-08-09T07:02:22.176Z - info: Site data built
+2021-08-09T07:02:22.176Z - info: Pages rebuilt
+2021-08-09T07:02:22.176Z - info: Website regeneration complete! Total build time: 0.372s
+2021-08-09T07:03:57.514Z - info: [3:03:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-08-09T07:03:57.514Z - info: Synchronizing opened pages list before reload
+2021-08-09T07:03:57.515Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T07:03:57.515Z - info: 1. schedule/week1/admin
+2021-08-09T07:03:58.520Z - info: Rebuilding 1 pages
+2021-08-09T07:03:59.040Z - info: Site data built
+2021-08-09T07:03:59.040Z - info: Pages rebuilt
+2021-08-09T07:03:59.040Z - info: Website regeneration complete! Total build time: 0.521s
+2021-08-09T07:04:50.418Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\topics as some of its dependencies were changed since the last visit
+2021-08-09T07:04:51.564Z - info: Site data built
+2021-08-09T07:04:51.564Z - info: Lazy website regeneration complete! Total build time: 1.146s
+2021-08-09T07:10:11.807Z - info: Website generation started at 3:10:10 pm
+2021-08-09T07:10:15.491Z - info: Building assets...
