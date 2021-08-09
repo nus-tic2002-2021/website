@@ -109,3 +109,127 @@ Missing reference in C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\comm
 2021-08-09T07:04:51.564Z - info: Lazy website regeneration complete! Total build time: 1.146s
 2021-08-09T07:10:11.807Z - info: Website generation started at 3:10:10 pm
 2021-08-09T07:10:15.491Z - info: Building assets...
+2021-08-09T07:10:18.712Z - info: Assets built
+2021-08-09T07:10:18.713Z - info: Generating pages...
+2021-08-09T07:10:26.736Z - debug:  
+2021-08-09T07:10:26.736Z - debug:  
+2021-08-09T07:10:26.737Z - debug:  
+2021-08-09T07:10:26.737Z - debug:  
+2021-08-09T07:10:26.737Z - debug:  
+2021-08-09T07:10:52.300Z - debug:  
+2021-08-09T07:11:27.636Z - info: Pages built
+2021-08-09T07:11:28.343Z - info: Site data built
+2021-08-09T07:11:28.343Z - info: Website generation complete! Total build time: 77.939s
+2021-08-09T07:11:28.344Z - info: Build success!
+2021-08-09T07:11:39.144Z - info: Deployed at https://nus-tic2002-2021.github.io/website!
+2021-08-09T15:39:08.617Z - info: Website generation (lazy) started at 11:39:04 pm
+2021-08-09T15:39:13.437Z - info: Building assets...
+2021-08-09T15:39:17.735Z - info: Assets built
+2021-08-09T15:39:17.736Z - info: Generating landing page...
+2021-08-09T15:39:20.407Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-09T15:39:21.489Z - info: Site data built
+2021-08-09T15:39:21.489Z - info: Website generation (lazy) complete! Total build time: 16.967s
+2021-08-09T15:39:22.267Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-09T15:39:22.267Z - info: Press CTRL+C to stop ...
+2021-08-09T15:40:06.165Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\index as some of its dependencies were changed since the last visit
+2021-08-09T15:40:06.527Z - info: Site data built
+2021-08-09T15:40:06.527Z - info: Lazy website regeneration complete! Total build time: 0.362s
+2021-08-09T15:40:11.379Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\chapters\cppToJava as some of its dependencies were changed since the last visit
+2021-08-09T15:40:15.232Z - info: Site data built
+2021-08-09T15:40:15.233Z - info: Lazy website regeneration complete! Total build time: 3.854s
+2021-08-09T15:43:22.214Z - info: [11:43:22 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:43:22.215Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:43:22.215Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:43:22.215Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:43:23.228Z - info: Rebuilding 1 pages
+2021-08-09T15:43:25.879Z - info: Site data built
+2021-08-09T15:43:25.880Z - info: Pages rebuilt
+2021-08-09T15:43:25.880Z - info: Website regeneration complete! Total build time: 2.652s
+2021-08-09T15:44:13.909Z - info: [11:44:13 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:44:13.909Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:44:13.910Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:44:13.910Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:44:14.927Z - info: Rebuilding 1 pages
+2021-08-09T15:44:17.517Z - info: Site data built
+2021-08-09T15:44:17.517Z - info: Pages rebuilt
+2021-08-09T15:44:17.517Z - info: Website regeneration complete! Total build time: 2.591s
+2021-08-09T15:45:21.912Z - info: [11:45:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:45:21.913Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:45:21.913Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:45:21.913Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:45:22.932Z - info: Rebuilding 1 pages
+2021-08-09T15:45:25.608Z - info: Site data built
+2021-08-09T15:45:25.608Z - info: Pages rebuilt
+2021-08-09T15:45:25.608Z - info: Website regeneration complete! Total build time: 2.677s
+2021-08-09T15:45:35.549Z - info: [11:45:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:45:35.549Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:45:35.550Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:45:35.550Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:45:36.561Z - info: Rebuilding 1 pages
+2021-08-09T15:45:38.747Z - info: Site data built
+2021-08-09T15:45:38.747Z - info: Pages rebuilt
+2021-08-09T15:45:38.747Z - info: Website regeneration complete! Total build time: 2.187s
+2021-08-09T15:45:59.895Z - info: [11:45:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:45:59.895Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:45:59.895Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:45:59.895Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:46:00.903Z - info: Rebuilding 1 pages
+2021-08-09T15:46:03.418Z - info: Site data built
+2021-08-09T15:46:03.419Z - info: Pages rebuilt
+2021-08-09T15:46:03.419Z - info: Website regeneration complete! Total build time: 2.516s
+2021-08-09T15:46:20.605Z - info: [11:46:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:46:20.606Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:46:20.606Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:46:20.607Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:46:21.624Z - info: Rebuilding 1 pages
+2021-08-09T15:46:24.157Z - info: Site data built
+2021-08-09T15:46:24.158Z - info: Pages rebuilt
+2021-08-09T15:46:24.158Z - info: Website regeneration complete! Total build time: 2.535s
+2021-08-09T15:47:02.341Z - info: [11:47:02 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:47:02.341Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:47:02.342Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:47:02.342Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:47:03.355Z - info: Rebuilding 1 pages
+2021-08-09T15:47:05.882Z - info: Site data built
+2021-08-09T15:47:05.883Z - info: Pages rebuilt
+2021-08-09T15:47:05.883Z - info: Website regeneration complete! Total build time: 2.528s
+2021-08-09T15:48:21.282Z - info: [11:48:21 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:48:21.282Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:48:21.282Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:48:21.283Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:48:22.285Z - info: Rebuilding 1 pages
+2021-08-09T15:48:24.926Z - info: Site data built
+2021-08-09T15:48:24.926Z - info: Pages rebuilt
+2021-08-09T15:48:24.926Z - info: Website regeneration complete! Total build time: 2.642s
+2021-08-09T15:49:16.412Z - info: [11:49:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:49:16.413Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:49:16.413Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:49:16.413Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:49:17.418Z - info: Rebuilding 1 pages
+2021-08-09T15:49:20.431Z - info: Site data built
+2021-08-09T15:49:20.432Z - info: Pages rebuilt
+2021-08-09T15:49:20.432Z - info: Website regeneration complete! Total build time: 3.015s
+2021-08-09T15:51:55.936Z - info: [11:51:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:51:55.936Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:51:55.937Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:51:55.937Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:51:56.953Z - info: Rebuilding 1 pages
+2021-08-09T15:52:01.980Z - info: Site data built
+2021-08-09T15:52:01.981Z - info: Pages rebuilt
+2021-08-09T15:52:01.982Z - info: Website regeneration complete! Total build time: 5.031s
+2021-08-09T15:54:23.007Z - info: [11:54:23 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:54:23.007Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:54:23.007Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:54:23.007Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:54:24.014Z - info: Rebuilding 1 pages
+2021-08-09T15:54:27.306Z - info: Site data built
+2021-08-09T15:54:27.307Z - info: Pages rebuilt
+2021-08-09T15:54:27.307Z - info: Website regeneration complete! Total build time: 3.294s
+2021-08-09T15:56:18.207Z - info: [11:56:18 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-09T15:56:18.208Z - info: Synchronizing opened pages list before reload
+2021-08-09T15:56:18.208Z - info: Current opened pages, from most-to-least recent:
+2021-08-09T15:56:18.209Z - info: 1. se-book-adapted/chapters/cppToJava
+2021-08-09T15:56:19.220Z - info: Rebuilding 1 pages
+2021-08-09T15:56:21.818Z - info: Site data built
+2021-08-09T15:56:21.818Z - info: Pages rebuilt
+2021-08-09T15:56:21.818Z - info: Website regeneration complete! Total build time: 2.601s
