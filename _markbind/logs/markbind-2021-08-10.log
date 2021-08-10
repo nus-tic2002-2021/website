@@ -241,3 +241,25 @@
 2021-08-10T12:45:51.316Z - info: Website regeneration complete! Total build time: 0.168s
 2021-08-10T12:46:13.101Z - info: Website generation started at 8:46:11 pm
 2021-08-10T12:46:18.121Z - info: Building assets...
+2021-08-10T12:46:23.192Z - info: Assets built
+2021-08-10T12:46:23.192Z - info: Generating pages...
+2021-08-10T12:46:32.575Z - debug:  
+2021-08-10T12:46:32.575Z - debug:  
+2021-08-10T12:46:32.575Z - debug:  
+2021-08-10T12:46:32.576Z - debug:  
+2021-08-10T12:46:32.576Z - debug:  
+2021-08-10T12:47:02.718Z - debug:  
+2021-08-10T12:47:46.290Z - info: Pages built
+2021-08-10T12:47:47.123Z - info: Site data built
+2021-08-10T12:47:47.123Z - info: Website generation complete! Total build time: 95.882s
+2021-08-10T12:47:47.123Z - info: Build success!
+2021-08-10T12:47:57.752Z - info: Deployed at https://nus-tic2002-2021.github.io/website!
+2021-08-10T15:30:33.231Z - info: Website generation (lazy) started at 11:30:28 pm
+2021-08-10T15:30:38.305Z - info: Building assets...
+2021-08-10T15:30:42.297Z - info: Assets built
+2021-08-10T15:30:42.298Z - info: Generating landing page...
+2021-08-10T15:30:44.133Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-10T15:30:45.114Z - info: Site data built
+2021-08-10T15:30:45.115Z - info: Website generation (lazy) complete! Total build time: 16.619s
+2021-08-10T15:30:46.059Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-10T15:30:46.059Z - info: Press CTRL+C to stop ...

@@ -1,0 +1,24 @@
+2021-08-10T16:44:47.446Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\index as some of its dependencies were changed since the last visit
+2021-08-10T16:44:48.278Z - info: Site data built
+2021-08-10T16:44:48.278Z - info: Lazy website regeneration complete! Total build time: 0.833s
+2021-08-10T16:44:51.226Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week1\topics as some of its dependencies were changed since the last visit
+2021-08-10T16:44:52.944Z - info: Site data built
+2021-08-10T16:44:52.944Z - info: Lazy website regeneration complete! Total build time: 1.719s
+2021-08-10T16:46:23.699Z - info: [12:46:23 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-10T16:46:23.699Z - info: Synchronizing opened pages list before reload
+2021-08-10T16:46:23.699Z - info: Current opened pages, from most-to-least recent:
+2021-08-10T16:46:23.699Z - info: 1. schedule/week1/topics
+2021-08-10T16:46:24.707Z - info: Rebuilding 1 pages
+2021-08-10T16:46:26.357Z - info: Site data built
+2021-08-10T16:46:26.358Z - info: Pages rebuilt
+2021-08-10T16:46:26.358Z - info: Website regeneration complete! Total build time: 1.654s
+2021-08-10T16:46:32.603Z - info: [12:46:32 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\cppToJava\gettingStarted\running\q-runHelloWorld.md
+2021-08-10T16:46:32.603Z - info: Synchronizing opened pages list before reload
+2021-08-10T16:46:32.603Z - info: Current opened pages, from most-to-least recent:
+2021-08-10T16:46:32.603Z - info: 1. schedule/week1/topics
+2021-08-10T16:46:33.607Z - info: Rebuilding 1 pages
+2021-08-10T16:46:34.820Z - info: Site data built
+2021-08-10T16:46:34.821Z - info: Pages rebuilt
+2021-08-10T16:46:34.821Z - info: Website regeneration complete! Total build time: 1.216s
+2021-08-10T17:09:57.585Z - info: Website generation started at 1:09:55 am
+2021-08-10T17:10:02.729Z - info: Building assets...
