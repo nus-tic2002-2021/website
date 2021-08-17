@@ -17,3 +17,16 @@
 2021-08-14T10:31:58.394Z - info: Website regeneration complete! Total build time: 1.294s
 2021-08-14T10:32:41.011Z - info: Website generation started at 6:32:39 pm
 2021-08-14T10:32:45.902Z - info: Building assets...
+2021-08-14T10:32:49.692Z - info: Assets built
+2021-08-14T10:32:49.692Z - info: Generating pages...
+2021-08-14T10:33:01.838Z - debug:  
+2021-08-14T10:33:01.838Z - debug:  
+2021-08-14T10:33:01.839Z - debug:  
+2021-08-14T10:33:01.840Z - debug:  
+2021-08-14T10:33:01.840Z - debug:  
+2021-08-14T10:33:32.995Z - debug:  
+2021-08-14T10:34:20.820Z - info: Pages built
+2021-08-14T10:34:21.658Z - info: Site data built
+2021-08-14T10:34:21.658Z - info: Website generation complete! Total build time: 102.515s
+2021-08-14T10:34:21.658Z - info: Build success!
+2021-08-14T10:34:34.610Z - info: Deployed at https://nus-tic2002-2021.github.io/website!
