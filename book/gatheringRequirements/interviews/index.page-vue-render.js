@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"interviews"}},[_c('span',{stat
 with(this){return _c('span',{staticClass:"algolia-no-index",attrs:{"data-mb-slot-name":"content"}},[_c('div',[_c('div',[_c('p',[_c('strong',[_v("Domain expert")]),_v(": An expert of a discipline to which the product is connected "),_c('span',{staticClass:"dimmed"},[_v("e.g., for a software used for Accounting, a domain expert is someone who is an expert of Accounting")]),_v(".")])])])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 17 Aug 2021, 19:44:19 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Thu, 19 Aug 2021, 0:26:52 GMT+8]")])])])}
 }];
   
