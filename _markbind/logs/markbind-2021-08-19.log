@@ -98,3 +98,50 @@
 2021-08-18T16:25:18.931Z - info: Website regeneration complete! Total build time: 1.32s
 2021-08-18T16:26:41.508Z - info: Website generation started at 12:26:39 am
 2021-08-18T16:26:47.149Z - info: Building assets...
+2021-08-18T16:26:52.507Z - info: Assets built
+2021-08-18T16:26:52.508Z - info: Generating pages...
+2021-08-18T16:27:01.414Z - debug:  
+2021-08-18T16:27:01.415Z - debug:  
+2021-08-18T16:27:01.415Z - debug:  
+2021-08-18T16:27:01.415Z - debug:  
+2021-08-18T16:27:01.415Z - debug:  
+2021-08-18T16:27:32.841Z - debug:  
+2021-08-18T16:28:14.725Z - info: Pages built
+2021-08-18T16:28:15.533Z - info: Site data built
+2021-08-18T16:28:15.533Z - info: Website generation complete! Total build time: 95.912s
+2021-08-18T16:28:15.533Z - info: Build success!
+2021-08-18T16:28:26.228Z - info: Deployed at https://nus-tic2002-2021.github.io/website!
+2021-08-19T14:41:38.470Z - info: Website generation (lazy) started at 10:41:34 pm
+2021-08-19T14:41:43.636Z - info: Building assets...
+2021-08-19T14:41:49.087Z - info: Assets built
+2021-08-19T14:41:49.088Z - info: Generating landing page...
+2021-08-19T14:41:50.136Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-19T14:41:50.706Z - info: Site data built
+2021-08-19T14:41:50.706Z - info: Website generation (lazy) complete! Total build time: 16.62s
+2021-08-19T14:41:51.529Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-19T14:41:51.529Z - info: Press CTRL+C to stop ...
+2021-08-19T14:43:03.395Z - info: [10:43:03 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2021-08-19T14:43:03.397Z - info: Synchronizing opened pages list before reload
+2021-08-19T14:43:03.398Z - info: Current opened pages, from most-to-least recent:
+2021-08-19T14:43:03.398Z - info: 1. index
+2021-08-19T14:43:04.619Z - info: Rebuilding 1 pages
+2021-08-19T14:43:05.259Z - info: Site data built
+2021-08-19T14:43:05.259Z - info: Pages rebuilt
+2021-08-19T14:43:05.260Z - info: Website regeneration complete! Total build time: 0.642s
+2021-08-19T14:43:15.717Z - info: Website generation (lazy) started at 10:43:13 pm
+2021-08-19T14:43:20.818Z - info: Building assets...
+2021-08-19T14:43:24.907Z - info: Assets built
+2021-08-19T14:43:24.908Z - info: Generating landing page...
+2021-08-19T14:43:25.857Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-08-19T14:43:26.417Z - info: Site data built
+2021-08-19T14:43:26.418Z - info: Website generation (lazy) complete! Total build time: 12.554s
+2021-08-19T14:43:27.242Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-08-19T14:43:27.243Z - info: Press CTRL+C to stop ...
+2021-08-19T14:43:35.554Z - info: [10:43:35 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_markbind\layouts\header.md
+2021-08-19T14:43:35.554Z - info: Synchronizing opened pages list before reload
+2021-08-19T14:43:35.554Z - info: Current opened pages, from most-to-least recent:
+2021-08-19T14:43:35.555Z - info: 1. index
+2021-08-19T14:43:36.656Z - info: Rebuilding 1 pages
+2021-08-19T14:43:37.152Z - info: Site data built
+2021-08-19T14:43:37.152Z - info: Pages rebuilt
+2021-08-19T14:43:37.152Z - info: Website regeneration complete! Total build time: 0.497s

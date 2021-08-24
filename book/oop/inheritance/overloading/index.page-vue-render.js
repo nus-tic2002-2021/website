@@ -17,6 +17,6 @@ with(this){return _c('div',[_c('h4',{attrs:{"id":"overloading"}},[_c('span',{sta
 with(this){return _c('p',[_c('strong',[_v("Method overloading is when there are multiple methods with the same name but different type signatures.")]),_v(" Overloading is used to indicate that multiple operations do similar things but take different parameters.")])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Thu, 19 Aug 2021, 0:26:52 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 24 Aug 2021, 19:49:46 GMT+8]")])])])}
 }];
   
