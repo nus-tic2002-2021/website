@@ -23,6 +23,6 @@ with(this){return _c('p',[_c('strong',[_v("You can use polymorphism to write cod
 with(this){return _c('span',{staticClass:"algolia-no-index",attrs:{"data-mb-slot-name":"_content"}},[_v("In a method "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("getName(Person p)")]),_v(", "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("p")]),_v(" is a "),_c('em',[_v("formal parameter")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 27 Sept 2021, 15:54:12 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 27 Sept 2021, 16:30:58 GMT+8]")])])])}
 }];
   
