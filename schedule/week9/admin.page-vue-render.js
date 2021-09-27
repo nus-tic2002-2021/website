@@ -23,6 +23,6 @@ with(this){return _c('ol',[_c('li',[_v("Imagine you are using the GitHub repo ")
 with(this){return _c('ol',{attrs:{"start":"2"}},[_c('li',[_v("Now, imagine one of the team members have pushed her new code as a branch named "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("tweak-readme")]),_v(" to the remote repo. Pull that branch and merge it to your "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("master")]),_v(" branch.")]),_v(" "),_c('li',[_v("Suppose another member has pushed another branch "),_c('code',{pre:true,attrs:{"class":"hljs inline no-lang"}},[_v("add-details-to-readme")]),_v(" to the same remote repo. Pull that one too and merge it. If there is a merge conflict, resolve it too.")]),_v(" "),_c('li',[_v("Push your master branch to your fork.")])])}
 },function anonymous(
 ) {
-with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Tue, 14 Sept 2021, 20:19:54 GMT+8]")])])])}
+with(this){return _c('footer',[_c('div',{staticClass:"text-center"},[_c('small',[_v("["),_c('span',[_c('strong',[_v("Powered by")])]),_v(" "),_c('img',{attrs:{"src":"https://markbind.org/favicon.ico","width":"30"}}),_v(" "),_c('a',{attrs:{"href":"https://markbind.org/"}},[_v("MarkBind 3.0.6")]),_v(", generated on Mon, 27 Sept 2021, 15:54:12 GMT+8]")])])])}
 }];
   
