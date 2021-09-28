@@ -21,6 +21,8 @@
     {"src": "index.md",
       "searchable": "no"},
     {"glob": "admin/index.md"},
+    {"glob": "admin/mid-semester-survey-results.md",
+      "searchable":  "no"},
     {"glob": "schedule/index.md",
       "searchable": "no"},
     {"glob": "schedule/timeline.md",
