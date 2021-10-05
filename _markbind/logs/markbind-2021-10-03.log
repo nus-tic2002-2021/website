@@ -1,0 +1,188 @@
+2021-10-03T06:53:10.076Z - info: Website generation (lazy) started at 2:53:04 pm
+2021-10-03T06:53:15.629Z - info: Building assets...
+2021-10-03T06:53:20.636Z - info: Assets built
+2021-10-03T06:53:20.637Z - info: Generating landing page...
+2021-10-03T06:53:24.045Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-10-03T06:53:25.530Z - info: Site data built
+2021-10-03T06:53:25.530Z - info: Website generation (lazy) complete! Total build time: 21.014s
+2021-10-03T06:53:26.518Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-10-03T06:53:26.518Z - info: Press CTRL+C to stop ...
+2021-10-03T06:53:55.785Z - info: [2:53:55 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf
+2021-10-03T06:53:55.785Z - info: Synchronizing opened pages list before reload
+2021-10-03T06:53:55.786Z - info: Current opened pages, from most-to-least recent:
+2021-10-03T06:53:55.786Z - info: 1. index
+2021-10-03T06:53:56.809Z - info: Assets built
+2021-10-03T06:54:07.719Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\tutorial as some of its dependencies were changed since the last visit
+2021-10-03T06:54:08.975Z - info: Site data built
+2021-10-03T06:54:08.976Z - info: Lazy website regeneration complete! Total build time: 1.257s
+2021-10-03T06:55:51.367Z - info: [2:55:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf
+2021-10-03T06:55:51.367Z - info: Synchronizing opened pages list before reload
+2021-10-03T06:55:51.368Z - info: Current opened pages, from most-to-least recent:
+2021-10-03T06:55:51.368Z - info: 1. schedule/week8/tutorial
+2021-10-03T06:55:52.372Z - info: Rebuilding 1 pages
+2021-10-03T06:55:53.232Z - info: Site data built
+2021-10-03T06:55:53.232Z - info: Pages rebuilt
+2021-10-03T06:55:53.232Z - info: Website regeneration complete! Total build time: 0.861s
+2021-10-03T06:57:20.563Z - info: [2:57:20 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf
+2021-10-03T06:57:20.563Z - info: Synchronizing opened pages list before reload
+2021-10-03T06:57:20.563Z - info: Current opened pages, from most-to-least recent:
+2021-10-03T06:57:20.563Z - info: 1. schedule/week8/tutorial
+2021-10-03T06:57:21.570Z - info: Rebuilding 1 pages
+2021-10-03T06:57:21.818Z - error:  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf) [Line 237, Column 37]
+  unexpected token: }}
+    at Object._prettifyError (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at createTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:121:7)
+    at handle (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:133:9)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:145:7
+    at next (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:326:7)
+    at Object.asyncIter (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:332:3)
+    at Environment.getTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:127:7)
+    at Environment.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:256:34)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:206:25)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:147:16)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:289:20)
+2021-10-03T06:57:21.822Z - error:  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf) [Line 237, Column 37]
+  unexpected token: }}
+    at Object._prettifyError (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at Environment.getTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:85:7)
+    at Environment.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:256:34)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:206:25)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:147:16)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:289:20)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+2021-10-03T06:57:21.825Z - error:  Template render error: (C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf) [Line 237, Column 37]
+  unexpected token: }}
+    at Object._prettifyError (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\nunjucks\src\lib.js:36:11)
+    at Template.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:358:19)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:54:25
+    at Environment.getTemplate (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\load-event.js:85:7)
+    at Environment.render (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\patches\nunjucks\context-overrides-frame.js:48:8)
+    at VariableRenderer.renderFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableRenderer.js:59:20)
+    at VariableProcessor.renderWithSiteVariables (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:157:53)
+    at VariableProcessor.renderIncludeFile (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\variables\VariableProcessor.js:256:34)
+    at processInclude (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\includePanelProcessor.js:206:25)
+    at NodeProcessor.processNode (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:147:16)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:289:20)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+    at NodeProcessor._process (C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:293:21)
+    at C:\Users\dcsdcr\AppData\Roaming\npm\node_modules\markbind-cli\node_modules\@markbind\core\src\html\NodeProcessor.js:294:14
+    at Array.forEach (<anonymous>)
+2021-10-03T06:57:21.903Z - info: Site data built
+2021-10-03T06:57:21.904Z - info: Pages rebuilt
+2021-10-03T06:57:21.904Z - info: Website regeneration complete! Total build time: 0.337s
+2021-10-03T06:58:32.115Z - info: [2:58:32 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf
+2021-10-03T06:58:32.116Z - info: Synchronizing opened pages list before reload
+2021-10-03T06:58:32.116Z - info: Current opened pages, from most-to-least recent:
+2021-10-03T06:58:32.116Z - info: 1. schedule/week8/tutorial
+2021-10-03T06:58:33.121Z - info: Rebuilding 1 pages
+2021-10-03T06:58:33.882Z - info: Site data built
+2021-10-03T06:58:33.883Z - info: Pages rebuilt
+2021-10-03T06:58:33.883Z - info: Website regeneration complete! Total build time: 0.764s
+2021-10-03T06:58:59.167Z - info: [2:58:59 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf
+2021-10-03T06:58:59.168Z - info: Synchronizing opened pages list before reload
+2021-10-03T06:58:59.168Z - info: Current opened pages, from most-to-least recent:
+2021-10-03T06:58:59.168Z - info: 1. schedule/week8/tutorial
+2021-10-03T06:59:00.190Z - info: Rebuilding 1 pages
+2021-10-03T06:59:01.043Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\topics as some of its dependencies were changed since the last visit
+2021-10-03T06:59:06.243Z - debug:  
+2021-10-03T06:59:06.243Z - debug:  
+2021-10-03T06:59:06.243Z - debug:  
+2021-10-03T06:59:06.264Z - info: Site data built
+2021-10-03T06:59:06.264Z - info: Pages rebuilt
+2021-10-03T06:59:06.265Z - info: Website regeneration complete! Total build time: 6.075s
+2021-10-03T06:59:06.457Z - debug:  
+2021-10-03T06:59:06.508Z - info: Site data built
+2021-10-03T06:59:06.508Z - info: Lazy website regeneration complete! Total build time: 5.465s
+2021-10-03T06:59:29.253Z - info: [2:59:29 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf
+2021-10-03T06:59:29.253Z - info: Synchronizing opened pages list before reload
+2021-10-03T06:59:29.253Z - info: Current opened pages, from most-to-least recent:
+2021-10-03T06:59:29.254Z - info: 1. schedule/week8/topics
+2021-10-03T06:59:30.260Z - info: No pages needed to be rebuilt
+2021-10-03T06:59:38.525Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\tutorial as some of its dependencies were changed since the last visit
+2021-10-03T06:59:39.502Z - info: Site data built
+2021-10-03T06:59:39.503Z - info: Lazy website regeneration complete! Total build time: 0.978s
+2021-10-03T06:59:53.269Z - info: [2:59:53 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf
+2021-10-03T06:59:53.269Z - info: Synchronizing opened pages list before reload
+2021-10-03T06:59:53.269Z - info: Current opened pages, from most-to-least recent:
+2021-10-03T06:59:53.269Z - info: 1. schedule/week8/tutorial
+2021-10-03T06:59:54.282Z - info: Rebuilding 1 pages
+2021-10-03T06:59:54.880Z - info: Site data built
+2021-10-03T06:59:54.880Z - info: Pages rebuilt
+2021-10-03T06:59:54.880Z - info: Website regeneration complete! Total build time: 0.599s
+2021-10-03T07:00:16.789Z - info: [3:00:16 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf
+2021-10-03T07:00:16.790Z - info: Synchronizing opened pages list before reload
+2021-10-03T07:00:16.790Z - info: Current opened pages, from most-to-least recent:
+2021-10-03T07:00:16.790Z - info: 1. schedule/week8/tutorial
+2021-10-03T07:00:17.795Z - info: Rebuilding 1 pages
+2021-10-03T07:00:18.668Z - info: Site data built
+2021-10-03T07:00:18.668Z - info: Pages rebuilt
+2021-10-03T07:00:18.668Z - info: Website regeneration complete! Total build time: 0.874s
+2021-10-03T07:00:45.198Z - info: [3:00:45 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf
+2021-10-03T07:00:45.198Z - info: Synchronizing opened pages list before reload
+2021-10-03T07:00:45.198Z - info: Current opened pages, from most-to-least recent:
+2021-10-03T07:00:45.198Z - info: 1. schedule/week8/tutorial
+2021-10-03T07:00:46.208Z - info: Rebuilding 1 pages
+2021-10-03T07:00:47.049Z - info: Site data built
+2021-10-03T07:00:47.049Z - info: Pages rebuilt
+2021-10-03T07:00:47.049Z - info: Website regeneration complete! Total build time: 0.842s
+2021-10-03T07:00:51.686Z - info: [3:00:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf
+2021-10-03T07:00:51.686Z - info: Synchronizing opened pages list before reload
+2021-10-03T07:00:51.686Z - info: Current opened pages, from most-to-least recent:
+2021-10-03T07:00:51.687Z - info: 1. schedule/week8/tutorial
+2021-10-03T07:00:52.701Z - info: Rebuilding 1 pages
+2021-10-03T07:00:53.273Z - info: Site data built
+2021-10-03T07:00:53.273Z - info: Pages rebuilt
+2021-10-03T07:00:53.273Z - info: Website regeneration complete! Total build time: 0.574s
+2021-10-03T07:01:30.185Z - info: [3:01:30 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\common-tutorials.mbdf
+2021-10-03T07:01:30.186Z - info: Synchronizing opened pages list before reload
+2021-10-03T07:01:30.186Z - info: Current opened pages, from most-to-least recent:
+2021-10-03T07:01:30.186Z - info: 1. schedule/week8/tutorial
+2021-10-03T07:01:31.190Z - info: Rebuilding 1 pages
+2021-10-03T07:01:32.025Z - info: Site data built
+2021-10-03T07:01:32.026Z - info: Pages rebuilt
+2021-10-03T07:01:32.026Z - info: Website regeneration complete! Total build time: 0.837s
+2021-10-03T07:03:30.005Z - info: Website generation started at 3:03:27 pm
+2021-10-03T07:03:35.741Z - info: Building assets...
+2021-10-03T07:03:40.164Z - info: Assets built
+2021-10-03T07:03:40.164Z - info: Generating pages...
+2021-10-03T07:03:49.646Z - debug:  
+2021-10-03T07:03:49.647Z - debug:  
+2021-10-03T07:03:49.648Z - debug:  
+2021-10-03T07:03:49.648Z - debug:  
+2021-10-03T07:03:49.648Z - debug:  
+2021-10-03T07:03:49.648Z - debug:  
+2021-10-03T07:05:41.541Z - debug:  
+2021-10-03T07:05:53.688Z - debug:  
+2021-10-03T07:05:53.688Z - debug:  
+2021-10-03T07:06:00.353Z - info: Pages built
+2021-10-03T07:06:01.169Z - info: Site data built
+2021-10-03T07:06:01.169Z - info: Website generation complete! Total build time: 153.429s
+2021-10-03T07:06:01.170Z - info: Build success!
+2021-10-03T07:06:14.220Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-10-03T07:57:34.892Z - info: Website generation (lazy) started at 3:57:26 pm
+2021-10-03T07:57:42.580Z - info: Building assets...
+2021-10-03T07:57:48.483Z - info: Assets built
+2021-10-03T07:57:48.484Z - info: Generating landing page...
+2021-10-03T07:57:49.967Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-10-03T07:57:51.003Z - info: Site data built
+2021-10-03T07:57:51.003Z - info: Website generation (lazy) complete! Total build time: 24.939s
+2021-10-03T07:57:52.017Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-10-03T07:57:52.018Z - info: Press CTRL+C to stop ...
+2021-10-03T07:58:02.696Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\tutorial as some of its dependencies were changed since the last visit
+2021-10-03T07:58:06.074Z - info: Site data built
+2021-10-03T07:58:06.075Z - info: Lazy website regeneration complete! Total build time: 3.379s
