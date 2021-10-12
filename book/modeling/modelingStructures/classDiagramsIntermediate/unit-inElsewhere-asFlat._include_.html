@@ -40,7 +40,7 @@
 <ul class="contains-task-list">
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> a. A <code class="hljs inline no-lang" v-pre>Snake</code> must belong to at least one <code class="hljs inline no-lang" v-pre>Board</code>.</li>
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> b. A <code class="hljs inline no-lang" v-pre>SnakeHeadSquare</code> can contain only one <code class="hljs inline no-lang" v-pre>Snake</code> head.</li>
-<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> c. A <code class="hljs inline no-lang" v-pre>Square</code> can contain a <code class="hljs inline no-lang" v-pre>Snake</code> head.</li>
+<li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> c. A <code class="hljs inline no-lang" v-pre>Snake</code> head can be in a <code class="hljs inline no-lang" v-pre>Square</code></li>
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> d. A <code class="hljs inline no-lang" v-pre>Snake</code> head can be in more than one <code class="hljs inline no-lang" v-pre>SnakeHeadSquare</code>.</li>
 <li class="task-list-item enabled"><input class="task-list-item-checkbox" type="checkbox"> e. The <code class="hljs inline no-lang" v-pre>Board</code> has exactly 5 <code class="hljs inline no-lang" v-pre>Snake</code>s.</li></ul>
 <template #answer><div class="algolia-no-index">
@@ -120,4 +120,4 @@
 </span></code></pre></div></div>
 <p>(a) Draw a class diagram to represent the code. Show all attributes, methods, associations, navigabilities, visibilities, known multiplicities, and association roles. Show associations as lines.<br>
 (b) Draw an object diagram to represent the situation where the inventory has one item named <code class="hljs inline no-lang" v-pre>spanner</code> and a review of <code class="hljs inline no-lang" v-pre>POOR</code> rating<br>
-i.e., <code class="hljs inline java" v-pre><span class="hljs-keyword">new</span> Inventory().add(<span class="hljs-keyword">new</span> StockItem(<span class="hljs-string">&quot;spanner&quot;</span>, <span class="hljs-keyword">new</span> Review(Rating.POOR)))</code>.</p></question></panel></div></div></panel></div></div></div></div>
+i.e., <code class="hljs inline java" v-pre><span class="hljs-keyword">new</span> Inventory().add(<span class="hljs-keyword">new</span> StockItem(<span class="hljs-string">&quot;spanner&quot;</span>, Rating.POOR))</code>.</p></question></panel></div></div></panel></div></div></div></div>

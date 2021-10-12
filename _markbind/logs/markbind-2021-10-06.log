@@ -1,0 +1,30 @@
+2021-10-06T13:36:09.351Z - info: Website generation (lazy) started at 9:36:03 pm
+2021-10-06T13:36:15.900Z - info: Building assets...
+2021-10-06T13:36:21.482Z - info: Assets built
+2021-10-06T13:36:21.483Z - info: Generating landing page...
+2021-10-06T13:36:22.798Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-10-06T13:36:23.757Z - info: Site data built
+2021-10-06T13:36:23.758Z - info: Website generation (lazy) complete! Total build time: 20.01s
+2021-10-06T13:36:24.523Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-10-06T13:36:24.523Z - info: Press CTRL+C to stop ...
+2021-10-06T13:36:46.737Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week8\tutorial as some of its dependencies were changed since the last visit
+2021-10-06T13:36:47.797Z - info: Site data built
+2021-10-06T13:36:47.797Z - info: Lazy website regeneration complete! Total build time: 1.06s
+2021-10-06T13:37:21.036Z - info: Website generation started at 9:37:19 pm
+2021-10-06T13:37:26.172Z - info: Building assets...
+2021-10-06T13:37:31.151Z - info: Assets built
+2021-10-06T13:37:31.152Z - info: Generating pages...
+2021-10-06T13:37:43.226Z - debug:  
+2021-10-06T13:37:43.226Z - debug:  
+2021-10-06T13:37:43.226Z - debug:  
+2021-10-06T13:37:43.227Z - debug:  
+2021-10-06T13:37:43.227Z - debug:  
+2021-10-06T13:37:43.227Z - debug:  
+2021-10-06T13:39:43.568Z - debug:  
+2021-10-06T13:39:56.614Z - debug:  
+2021-10-06T13:39:56.614Z - debug:  
+2021-10-06T13:40:03.834Z - info: Pages built
+2021-10-06T13:40:04.813Z - info: Site data built
+2021-10-06T13:40:04.814Z - info: Website generation complete! Total build time: 165.624s
+2021-10-06T13:40:04.814Z - info: Build success!
+2021-10-06T13:40:17.240Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
