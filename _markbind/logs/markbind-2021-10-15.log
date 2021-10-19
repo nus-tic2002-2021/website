@@ -1,0 +1,36 @@
+2021-10-15T09:20:03.916Z - info: Website generation started at 5:19:59 pm
+2021-10-15T09:20:09.213Z - info: Building assets...
+2021-10-15T09:20:14.244Z - info: Assets built
+2021-10-15T09:20:14.244Z - info: Generating pages...
+2021-10-15T09:20:25.705Z - debug:  
+2021-10-15T09:20:25.706Z - debug:  
+2021-10-15T09:20:25.706Z - debug:  
+2021-10-15T09:20:25.706Z - debug:  
+2021-10-15T09:20:25.708Z - debug:  
+2021-10-15T09:20:25.708Z - debug:  
+2021-10-15T09:22:22.759Z - debug:  
+2021-10-15T09:22:36.870Z - debug:  
+2021-10-15T09:22:37.635Z - debug:  
+2021-10-15T09:22:45.245Z - info: Pages built
+2021-10-15T09:22:46.246Z - info: Site data built
+2021-10-15T09:22:46.247Z - info: Website generation complete! Total build time: 166.94s
+2021-10-15T09:22:46.247Z - info: Build success!
+2021-10-15T09:22:58.060Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-10-15T10:55:52.153Z - info: Website generation started at 6:55:48 pm
+2021-10-15T10:55:57.194Z - info: Building assets...
+2021-10-15T10:56:00.832Z - info: Assets built
+2021-10-15T10:56:00.833Z - info: Generating pages...
+2021-10-15T10:56:07.800Z - debug:  
+2021-10-15T10:56:07.801Z - debug:  
+2021-10-15T10:56:07.801Z - debug:  
+2021-10-15T10:56:07.801Z - debug:  
+2021-10-15T10:56:07.801Z - debug:  
+2021-10-15T10:56:08.353Z - debug:  
+2021-10-15T10:57:26.640Z - debug:  
+2021-10-15T10:57:32.407Z - debug:  
+2021-10-15T10:57:32.608Z - debug:  
+2021-10-15T10:57:35.741Z - info: Pages built
+2021-10-15T10:57:36.525Z - info: Site data built
+2021-10-15T10:57:36.525Z - info: Website generation complete! Total build time: 108.247s
+2021-10-15T10:57:36.525Z - info: Build success!
+2021-10-15T10:57:49.196Z - info: Deployed at https://nus-tic4001-ay2122s1.github.io/website!
