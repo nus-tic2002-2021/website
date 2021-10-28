@@ -82,7 +82,22 @@ Report as many bugs as you can find during the given time. Take longer if you ne
   {{ icon_info }} If you are on Windows, use the DOS prompt or the PowerShell (not the WSL terminal) to run the JAR file.<br>
   {{ icon_info }} If the JAR file name has spaces in it, remember to surround it with double quotes.<br>
   e.g., `java -jar "Name With Spaces.jar"`
-* **If the product doesn't work at all:** If the product fails catastrophically %%e.g., cannot even launch, or even the basic commands crash the app%%, contact the invigilator (via MS Teams, and failing that, via Zoom chat) to receive a _fallback_ team to test.
+
+<box type="info">
+
+**++If the product doesn't work at all:++** If the product fails catastrophically %%e.g., cannot even launch, or even the basic commands crash the app%%, {% if not cs2103 %}contact the invigilator (via MS Teams, and failing that, via Zoom chat) to receive a _fallback_ team to test.{% else %}do the following:
+
+1. **Check the UG** of the team, to see if there are extra things you need to do before launching the JAR.<br>
+   **Confirm that you are using Java 11** and using the `java -jar` command to run the JAR, as explained in points above.
+1. **Contact our head TA** via MS Teams (name: `Kim Hyeongcheol`, NUSNET: `dcskh`) and give him<br>
+(a) **a screenshot** of the error message, and<br>
+(b) **your GitHub** username.
+1. **Wait for him to give you a fallback** team to test.<br>
+   Contact the prof (via MS Teams) if you didn't get a response from Kim within 5 minutes.
+1. **Delete bug reports you submitted for the previous team** (if any), using CATcher.
+1. **You should not go back to testing the previous team** _after_ you've been given a fallback team to test.
+{% endif %}
+</box>
 
 
 ###### <div class="text-white bg-secondary p-1">b) What to test</div>

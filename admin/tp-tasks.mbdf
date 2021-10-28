@@ -1077,7 +1077,7 @@ As before, you may split this milestone into smaller iterations if you wish e.g.
 * <span class="text-danger">**Minimal:**</span> all PE-D bugs have been triaged, bugs to be fixed in the current iteration have been chosen, and assigned to relevant team members.
 * <span class="text-success">**Recommended:**</span> all (or almost all) the PE-D that you have chosen to fix have been fixed already.
 
-{% if cs2103 %}**On the tutorial day, ==one member should post a message in your team's MS-Teams channel==** %%(i.e., the one inside the MS-Teams used for tutorials)%% stating if PE-D bug triaging is done, how many bugs were selected as 'must fix' and 'good to fix' in {{ version_final }} and how many of them have been done already. This post will be counted as a team progress deliverable e.g.,
+{% if cs2103 %}**On the tutorial day, ==one member should post a message in your team's MS-Teams channel==** %%(i.e., the one inside the MS-Teams used for tutorials)%% stating if PE-D bug triaging is done, how many bugs were selected as 'must fix' and 'good to fix' in {{ version_final }} and how many of them have been done already. Remember to ==tag the tutor== in that post. Note that this post will be counted as a team progress deliverable e.g.,
 
 >Our team's mid-{{ version_final }} progress:
 >* PE-D bug triaging progress: 100%

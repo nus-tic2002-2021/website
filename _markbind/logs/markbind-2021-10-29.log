@@ -1,0 +1,16 @@
+2021-10-28T16:13:21.203Z - info: [12:13:21 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC2002\textbookTopics.mbdf
+2021-10-28T16:13:21.217Z - info: Synchronizing opened pages list before reload
+2021-10-28T16:13:21.218Z - info: Current opened pages, from most-to-least recent:
+2021-10-28T16:13:21.218Z - info: 1. se-book-adapted/print
+2021-10-28T16:13:21.218Z - info: 2. se-book-adapted/index
+2021-10-28T16:13:22.491Z - info: Rebuilding 2 pages
+2021-10-28T16:13:27.648Z - debug:  
+2021-10-28T16:13:27.648Z - debug:  
+2021-10-28T16:13:27.648Z - debug:  
+2021-10-28T16:13:27.649Z - debug:  
+2021-10-28T16:13:27.649Z - debug:  
+2021-10-28T16:13:28.072Z - info: Site data built
+2021-10-28T16:13:28.072Z - info: Pages rebuilt
+2021-10-28T16:13:28.072Z - info: Website regeneration complete! Total build time: 5.594s
+2021-10-28T16:38:01.996Z - info: Website generation started at 12:37:59 am
+2021-10-28T16:38:07.231Z - info: Building assets...

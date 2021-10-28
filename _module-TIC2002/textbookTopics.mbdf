@@ -790,6 +790,7 @@
     level_one_topics: [
       {
         name: "introduction",
+        priority: "-1",
         level_two_topics: [
           {
             name: "",
@@ -801,6 +802,7 @@
       },
       {
         name: "guidelines",
+        priority: "4",
         level_two_topics: [
           {
             name: "goTopDown",
@@ -940,6 +942,7 @@
       },
       {
         name: "approaches",
+        priority: "4",
         level_two_topics: [
           {
             name: "",
