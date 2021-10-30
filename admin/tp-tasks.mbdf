@@ -46,7 +46,7 @@
 </div>
 
 {#====================================================================================================================#}
-<div id="cs2103-week11-intro">
+<div id="cs2103-week10-intro">
 
 <box dismissible>
 
@@ -1053,7 +1053,7 @@ Also see:
 {{ icon_tick_green }} improving tests<br>
 {{ icon_tick_green }} removing features
 
-{{ icon_x_red }} <span class="text-danger">**Not allowed in {{ version_final }}:**</span> adding features or doing major changes to existing features.
+{{ icon_x_red }} <span class="text-danger">**Not allowed in {{ version_final }}:**</span> adding/changing features (except bug fixes).
 
 **The goal of freezing features in the pre-release iteration** is to subject the features to at least one round of intensive non-dev testing before they are released to the users. In a real project, minor or critical changes might be allowed even near a deadline -- but here, we do not allow _any_ feature changes because it can start us on a slippery slope and many "is this change allowed?" queries. Therefore, {{ version_final }} should not have _any_ features that was not already tested in the PE-D).
 
@@ -1098,7 +1098,8 @@ As before, you may split this milestone into smaller iterations if you wish e.g.
 
 {{ embed_topic("tp-expectations.md#testing-expectations", "Admin " + icon_embedding + " tP → Grading → **Expectation on testing**", "3", indent="2") }}
 
-* **After you have sufficient code coverage, fix remaining code quality problems** and bring up the quality to your target level.
+* **After you have sufficient code coverage, fix remaining code quality problems** and bring up the quality to your target level.<br>
+  Refactoring code does not violate a feature freeze (as refactoring doesn't change the behavior). Still, it is not advisable to (but you are allowed to) do _major_ refactorings at this close to a major release.
 
 {{ embed_topic("tp-grading.md#projectGrading-codeQuality-criteria", "Admin " + icon_embedding + " tP → Grading → **Code Quality Tips**", "3", indent="2") }}
 

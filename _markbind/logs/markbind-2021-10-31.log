@@ -1,0 +1,36 @@
+2021-10-30T16:48:24.391Z - info: Website generation (lazy) started at 12:48:17 am
+2021-10-30T16:48:31.817Z - info: Building assets...
+2021-10-30T16:48:37.165Z - info: Assets built
+2021-10-30T16:48:37.166Z - info: Generating landing page...
+2021-10-30T16:48:38.342Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-10-30T16:48:39.581Z - info: Site data built
+2021-10-30T16:48:39.581Z - info: Website generation (lazy) complete! Total build time: 22.116s
+2021-10-30T16:48:40.551Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-10-30T16:48:40.552Z - info: Press CTRL+C to stop ...
+2021-10-30T17:00:56.117Z - info: [1:00:56 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC2002\weeklyTextbookTopics.mbdf
+2021-10-30T17:00:56.123Z - info: Synchronizing opened pages list before reload
+2021-10-30T17:00:56.125Z - info: Current opened pages, from most-to-least recent:
+2021-10-30T17:00:56.126Z - info: 1. index
+2021-10-30T17:00:57.148Z - info: Rebuilding 1 pages
+2021-10-30T17:00:57.745Z - info: Site data built
+2021-10-30T17:00:57.746Z - info: Pages rebuilt
+2021-10-30T17:00:57.746Z - info: Website regeneration complete! Total build time: 0.599s
+2021-10-30T17:01:00.045Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week12\index as some of its dependencies were changed since the last visit
+2021-10-30T17:01:00.758Z - info: Site data built
+2021-10-30T17:01:00.758Z - info: Lazy website regeneration complete! Total build time: 0.713s
+2021-10-30T17:01:23.507Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week12\topics as some of its dependencies were changed since the last visit
+2021-10-30T17:01:26.302Z - info: Site data built
+2021-10-30T17:01:26.303Z - info: Lazy website regeneration complete! Total build time: 2.796s
+2021-10-30T17:06:33.783Z - info: [1:06:33 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\_module-TIC2002\weeklyTextbookTopics.mbdf
+2021-10-30T17:06:33.784Z - info: Synchronizing opened pages list before reload
+2021-10-30T17:06:33.784Z - info: Current opened pages, from most-to-least recent:
+2021-10-30T17:06:33.784Z - info: 1. schedule/week12/index
+2021-10-30T17:06:34.788Z - info: Rebuilding 1 pages
+2021-10-30T17:06:35.547Z - info: Site data built
+2021-10-30T17:06:35.548Z - info: Pages rebuilt
+2021-10-30T17:06:35.548Z - info: Website regeneration complete! Total build time: 0.761s
+2021-10-30T17:32:18.463Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week12\admin as some of its dependencies were changed since the last visit
+2021-10-30T17:32:18.720Z - info: Site data built
+2021-10-30T17:32:18.720Z - info: Lazy website regeneration complete! Total build time: 0.258s
+2021-10-30T17:35:55.292Z - info: Website generation started at 1:35:53 am
+2021-10-30T17:36:01.760Z - info: Building assets...
