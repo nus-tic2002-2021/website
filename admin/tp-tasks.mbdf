@@ -7,6 +7,37 @@
 
 
 {#====================================================================================================================
+ # Common fragments
+ #====================================================================================================================#}
+<div class="indented" tags="m--cs2103 m--tic4002" id="feature-freeze-details">
+<box type="warning" seamless>
+
+**Allowed in the {{ version_final }} milestone:**{.text-success}
+
+{{ icon_tick_green }} fixing bugs<br>
+{{ icon_tick_green }} improving documentation<br>
+{{ icon_tick_green }} purely cosmetic enhancements e.g., alignments, style changes<br>
+{{ icon_tick_green }} improving code quality<br>
+{{ icon_tick_green }} improving tests<br>
+{{ icon_tick_green }} removing features
+
+{{ icon_x_red }} <span class="text-danger">**Not allowed in {{ version_final }}:**</span> adding features or doing major changes to existing features.
+
+**The goal of freezing features in the pre-release iteration** is to subject the features to at least one round of intensive non-dev testing before they are released to the users. In a real project, minor or critical changes might be allowed even near a deadline -- but here, we do not allow _any_ feature changes because it can start us on a slippery slope and many "is this change allowed?" queries. Therefore, {{ version_final }} should not have _any_ features that was not already tested in the PE-D).
+
+**FAQs:**
+* **Q:** Can we add a missing validity check for a user input?<br>
+**A:** Yes, but only if its absence causes the software to mis-behave (i.e., it's omission can be considered a bug).
+
+* **Q:** Can we tweak the command format?<br>
+**A:** No, as this would be considered changing the design of a feature.
+
+* **Q:** Testers have reported missing feature (or suggested feature tweaks). Can we add/tweak those features?<br>
+**A:** No, as that goes against the spirit of having a feature freeze. Most teams receive such suggestions from testers as we allow feature suggestions in PE-D (but they are not allowed in the PE). You can use those suggestions when you envision future versions of the product (i.e., beyond {{ version_final }} -- to improve your product design skills. But for now, focus on fixing bugs, and perfecting other aspects such as testing, documentation, code quality.<br>
+Also note that given there's a feature freeze in {{ version_final }}, some lower-priority features can be argued as out-of-scope if there were other higher priority features that took up the available time in previous versions. Every team has to draw the line _somewhere_ as there wasn't a lot of time to implement features.
+</box>
+</div>
+{#====================================================================================================================
  # CS2103 Weekly Intros
  #====================================================================================================================#}
 <div id="cs2103-week4-intro">
@@ -692,11 +723,11 @@ Update the following pages in your project repo:
 
 <box type="important" tags="m--cs2113 m--cs2103 m--tic4002" seamless>
 
-{% if cs2113 or tic4002 %}==**This iteration is your last chance to add/change features.** You are strongly discouraged from adding new features in the following iteration (i.e., {{ version_final }}).== That iteration (which is shorter than usual) is best reserved for bug fixing and documentation work only.{% else %}==**This iteration is your last chance to add features.** You will <span class="text-danger">not be allowed to add features in the following iteration</span> (i.e., {{ version_final }}).== That iteration (which is shorter than usual) is reserved for bug fixing and documentation work only. Any non-compliance with that restriction will be penalized.{% endif %}
+{% if cs2113 or tic4002 %}==**This iteration is your last chance to add/change features.** You are strongly discouraged from adding new features in the following iteration (i.e., {{ version_final }}).== That iteration (which is shorter than usual) is best reserved for bug fixing and documentation work only.{% else %}==**This iteration is your last chance to add features** as a <span class="text-danger">feature-freeze will be enforced in the next iteration</span> (i.e., {{ version_final }}).== That iteration (which is shorter than usual) is reserved for bug fixing and documentation work only. Any non-compliance with that restriction will be penalized.{% endif %}
 
 The version you deliver in this iteration (i.e., {{ version_penultimate }}) will be subjected a peer testing (aka [PE Dry Run](tp-pe.html#tp-practical-exam-dry-run-pe-d)) and you will be informed of the bugs they find (no penalty for those bugs).{% if cs2103 %} The same peer testers will be asked to check if you have changed features during the {{ version_final }} later.{% endif %}
 
-Given that you'll have to make important feature decisions in this iteration, it may be useful to know what kind of _feature flaws_ that can cost you marks. The panel below contains some excerpts from the guidelines your peers will use to determine feature flaws of your product after the final submission.
+Given that you'll have to make important feature decisions in this iteration, it may be useful to know what kind of _feature flaws_ that can cost you marks (you will not be allowed to fix feature flaws while a feature-freeze is enforced). The panel below contains some excerpts from the guidelines your peers will use to determine feature flaws of your product after the final submission.
 
 <panel header="Admin {{ icon_embedding }} tP → **Grading → Product Design** (excerpt) → Feature Flaws" minimized>
 <include src="tp-grading-bugs.mbdf#featureFlaws" />
@@ -710,6 +741,14 @@ Given that you'll have to make important feature decisions in this iteration, it
 
 ...
 <include src="tp-pe-bug-triaging-guidelines.mbdf#triaging-feature-flaws" />
+</panel>
+<p/>
+
+The panel below gives some details on the feature-freeze that will be imposed in {{ version_final }}, to prepare you in advance:
+
+<panel header="Admin {{ icon_embedding }} tP → **{{ version_final }} (extract) → More details on the feature freeze**" minimized>
+
+<include src="tp-tasks.mbdf#feature-freeze-details" />
 </panel>
 
 </box>
@@ -1041,30 +1080,7 @@ Also see:
 
 2. **Note what is allowed in this milestone**:
 
-<div class="indented" tags="m--cs2103 m--tic4002">
-<box type="warning" seamless>
-
-**Allowed in the {{ version_final }} milestone:**{.text-success}
-
-{{ icon_tick_green }} fixing bugs<br>
-{{ icon_tick_green }} improving documentation<br>
-{{ icon_tick_green }} purely cosmetic enhancements e.g., alignments, style changes<br>
-{{ icon_tick_green }} improving code quality<br>
-{{ icon_tick_green }} improving tests<br>
-{{ icon_tick_green }} removing features
-
-{{ icon_x_red }} <span class="text-danger">**Not allowed in {{ version_final }}:**</span> adding/changing features (except bug fixes).
-
-**The goal of freezing features in the pre-release iteration** is to subject the features to at least one round of intensive non-dev testing before they are released to the users. In a real project, minor or critical changes might be allowed even near a deadline -- but here, we do not allow _any_ feature changes because it can start us on a slippery slope and many "is this change allowed?" queries. Therefore, {{ version_final }} should not have _any_ features that was not already tested in the PE-D).
-
-**FAQs:**
-* **Q:** Can we add a missing validity check for a user input?<br>
-**A:** Yes, but only if its absence causes the software to mis-behave (i.e., it's omission can be considered a bug).
-* **Q:** Testers have reported missing feature (or suggested feature tweaks). Can we add/tweak those features?<br>
-**A:** No, as that goes against the spirit of having a feature freeze. Most teams receive such suggestions from testers as we allow feature suggestions in PE-D (but they are not allowed in the PE). You can use those suggestions when you envision future versions of the product (i.e., beyond {{ version_final }} -- to improve your product design skills. But for now, focus on fixing bugs, and perfecting other aspects such as testing, documentation, code quality.<br>
-Also note that given there's a feature freeze in {{ version_final }}, some lower-priority features can be argued as out-of-scope if there were other higher priority features that took up the available time in previous versions. Every team has to draw the line _somewhere_ as there wasn't a lot of time to implement features.
-</box>
-</div>
+<include src="tp-tasks.mbdf#feature-freeze-details" />
 
 {% if cs2113 %}3. **Freeze features**. As mentioned earlier, you are strongly discouraged from adding new features in this iteration. The remaining time is to be spent fixing problems discovered late and wrapping up the final release.{% endif %}
 3. **Start fixing bugs** that you selected to fix in this iteration. Don't rely on PE-D alone to find bugs. Also keep in mind that bug fixing can cause regressions which you'll have to catch and fix.
@@ -1099,7 +1115,7 @@ As before, you may split this milestone into smaller iterations if you wish e.g.
 {{ embed_topic("tp-expectations.md#testing-expectations", "Admin " + icon_embedding + " tP → Grading → **Expectation on testing**", "3", indent="2") }}
 
 * **After you have sufficient code coverage, fix remaining code quality problems** and bring up the quality to your target level.<br>
-  Refactoring code does not violate a feature freeze (as refactoring doesn't change the behavior). Still, it is not advisable to (but you are allowed to) do _major_ refactorings at this close to a major release.
+  Refactoring code does not violate a feature freeze (as refactoring doesn't change the behavior). Still, it is not advisable to (but you are allowed to) do _major_ refactorings this close to a major release.
 
 {{ embed_topic("tp-grading.md#projectGrading-codeQuality-criteria", "Admin " + icon_embedding + " tP → Grading → **Code Quality Tips**", "3", indent="2") }}
 
@@ -1186,11 +1202,11 @@ Not applicable this semester
   {% if has_t %}{{ module | lower }}T students: documents should be submitted to both modules. It's not enough to submit to CS2101 side only.{% endif %}
 * {{ icon_important_big_red }} **Follow submission instructions closely**. ==Any non-compliance will be penalized==. e.g. wrong file name/format.
   * For pdf submissions, ensure the file is usable and hyperlinks in the file are correct. Problems in documents are considered bugs too %%e.g. broken links, outdated diagrams/instructions etc.%%.
-* **Do not update the code during the 14 days after the deadline.** Get our permission first if you need to update the code in the repo during that _freeze_ period.
-  * You can update issues/milestones/PRs even during the _freeze_ period.{% if cs2113 or cs2103 %}
-  * [{{ module }}T only] You can update the source code of the docs (but not functional/test code) if your CS2101 submission deadline is later than our submission deadline. However, a freeze period of 1-2 days is still recommended, so that there is a clear gap between the tP submission and subsequent docs updates.{% endif %}
-  * You can update the code during the freeze period if the change is related to a late submission approved by us.
-  * You can continue to evolve your repo after the freeze period.
+* **Do not update the code during the 14 days after the deadline.** Get our permission first if you need to update the code in the repo during that _code-freeze_ period.
+  * You can update issues/milestones/PRs even during the _code-freeze_ period.{% if cs2113 or cs2103 %}
+  * [{{ module }}T only] You can update the source code of the docs (but not functional/test code) if your CS2101 submission deadline is later than our submission deadline. However, a code-freeze period of 1-2 days is still recommended, so that there is a clear gap between the tP submission and subsequent docs updates.{% endif %}
+  * You can update the code during the code-freeze period if the change is related to a late submission approved by us.
+  * You can continue to evolve your repo after the code-freeze period.
 
 <div class="indented">
 
@@ -1235,7 +1251,7 @@ Not applicable this semester
 {{ embed_topic("tp-deliverables.md#tp-deliverables-executable", "Admin " + icon_embedding + " tP → Deliverables → Executable", "3", indent="2") }}
 
 
-* {{ icon_team }} **Source Code**: Push the code to GitHub and tag with the version number. Source code (==please ensure the code reported by RepoSense as yours is correct;== any updates to RepoSense config files or `@@author` annotations after the deadline will be considered a later submission). Note that the quality of the code attributed to you accounts for a significant component of your final score, graded individually.
+* {{ icon_team }} **Source Code**: Push the code to GitHub and tag with the version number. Source code (==please ensure the code reported by RepoSense as yours is correct;== any updates to RepoSense config files or `@@author` annotations after the deadline will be considered a late submission). Note that the quality of the code attributed to you accounts for a significant component of your final score, graded individually.
 
 {{ embed_topic("tp-deliverables.md#tp-deliverables-sourcecode", "Admin " + icon_embedding + " tP → Deliverables → Source Code", "3", indent="2") }}
 
