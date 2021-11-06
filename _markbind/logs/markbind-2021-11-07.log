@@ -1,0 +1,31 @@
+2021-11-06T17:51:44.345Z - info: Website generation (lazy) started at 1:51:39 am
+2021-11-06T17:51:50.802Z - info: Building assets...
+2021-11-06T17:51:56.261Z - info: Assets built
+2021-11-06T17:51:56.261Z - info: Generating landing page...
+2021-11-06T17:51:57.557Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-11-06T17:51:58.505Z - info: Site data built
+2021-11-06T17:51:58.506Z - info: Website generation (lazy) complete! Total build time: 19.156s
+2021-11-06T17:51:59.439Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-11-06T17:51:59.439Z - info: Press CTRL+C to stop ...
+2021-11-06T17:52:01.626Z - info: [1:52:01 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-11-06T17:52:01.626Z - info: Synchronizing opened pages list before reload
+2021-11-06T17:52:01.627Z - info: No pages are currently opened
+2021-11-06T17:52:06.065Z - info: Assets built
+2021-11-06T17:53:09.533Z - info: [1:53:09 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-11-06T17:53:09.534Z - info: Synchronizing opened pages list before reload
+2021-11-06T17:53:09.535Z - info: Current opened pages, from most-to-least recent:
+2021-11-06T17:53:09.536Z - info: 1. index
+2021-11-06T17:53:10.571Z - info: Assets built
+2021-11-06T17:53:10.644Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\schedule\week12\admin as some of its dependencies were changed since the last visit
+2021-11-06T17:53:11.070Z - info: Site data built
+2021-11-06T17:53:11.070Z - info: Lazy website regeneration complete! Total build time: 0.426s
+2021-11-06T17:53:26.110Z - info: [1:53:26 am] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-11-06T17:53:26.110Z - info: Synchronizing opened pages list before reload
+2021-11-06T17:53:26.111Z - info: Current opened pages, from most-to-least recent:
+2021-11-06T17:53:26.111Z - info: 1. schedule/week12/admin
+2021-11-06T17:53:27.125Z - info: Rebuilding 1 pages
+2021-11-06T17:53:27.371Z - info: Site data built
+2021-11-06T17:53:27.371Z - info: Pages rebuilt
+2021-11-06T17:53:27.371Z - info: Website regeneration complete! Total build time: 0.247s
+2021-11-06T17:53:51.764Z - info: Website generation started at 1:53:49 am
+2021-11-06T17:53:57.054Z - info: Building assets...
