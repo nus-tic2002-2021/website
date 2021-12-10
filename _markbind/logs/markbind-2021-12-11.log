@@ -1,0 +1,56 @@
+2021-12-10T16:50:57.708Z - info: Website generation started at 12:50:55 am
+2021-12-10T16:51:03.105Z - info: Building assets...
+2021-12-10T16:51:07.229Z - info: Assets built
+2021-12-10T16:51:07.230Z - info: Generating pages...
+2021-12-10T16:51:15.285Z - debug:  
+2021-12-10T16:51:15.285Z - debug:  
+2021-12-10T16:51:15.286Z - debug:  
+2021-12-10T16:51:15.286Z - debug:  
+2021-12-10T16:51:15.286Z - debug:  
+2021-12-10T16:51:15.286Z - debug:  
+2021-12-10T16:53:08.168Z - debug:  
+2021-12-10T16:53:19.982Z - debug:  
+2021-12-10T16:53:20.121Z - debug:  
+2021-12-10T16:53:27.984Z - info: Pages built
+2021-12-10T16:53:28.860Z - info: Site data built
+2021-12-10T16:53:28.861Z - info: Website generation complete! Total build time: 153.028s
+2021-12-10T16:53:29.711Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-12-10T16:53:29.711Z - info: Press CTRL+C to stop ...
+2021-12-10T16:55:13.204Z - info: Website generation started at 12:55:08 am
+2021-12-10T16:55:18.703Z - info: Building assets...
+2021-12-10T16:55:23.990Z - info: Assets built
+2021-12-10T16:55:23.994Z - info: Generating pages...
+2021-12-10T16:55:31.011Z - debug:  
+2021-12-10T16:55:31.012Z - debug:  
+2021-12-10T16:55:31.095Z - debug:  
+2021-12-10T16:55:32.634Z - debug:  
+2021-12-10T16:55:32.635Z - debug:  
+2021-12-10T16:55:32.635Z - debug:  
+2021-12-10T16:57:23.979Z - debug:  
+2021-12-10T16:57:35.203Z - debug:  
+2021-12-10T16:57:35.204Z - debug:  
+2021-12-10T16:57:43.285Z - info: Pages built
+2021-12-10T16:57:44.399Z - info: Site data built
+2021-12-10T16:57:44.399Z - info: Website generation complete! Total build time: 155.933s
+2021-12-10T16:57:44.399Z - info: Build success!
+2021-12-10T16:57:59.207Z - info: Deployed at https://nus-cs2103-ay2122s1.github.io/website!
+2021-12-10T17:03:47.674Z - info: Website generation started at 1:03:42 am
+2021-12-10T17:03:53.251Z - info: Building assets...
+2021-12-10T17:03:58.472Z - info: Assets built
+2021-12-10T17:03:58.472Z - info: Generating pages...
+2021-12-10T17:04:05.842Z - debug:  
+2021-12-10T17:04:05.843Z - debug:  
+2021-12-10T17:04:05.843Z - debug:  
+2021-12-10T17:04:05.843Z - debug:  
+2021-12-10T17:04:05.843Z - debug:  
+2021-12-10T17:04:05.896Z - debug:  
+2021-12-10T17:05:36.437Z - debug:  
+2021-12-10T17:05:44.606Z - debug:  
+2021-12-10T17:05:44.608Z - debug:  
+2021-12-10T17:05:49.243Z - info: Pages built
+2021-12-10T17:05:50.186Z - info: Site data built
+2021-12-10T17:05:50.186Z - info: Website generation complete! Total build time: 127.419s
+2021-12-10T17:05:50.186Z - info: Build success!
+2021-12-10T17:06:04.644Z - info: Deployed at https://nus-tic4001-ay2122s1.github.io/website!
+2021-12-10T17:12:55.430Z - info: Website generation started at 1:12:51 am
+2021-12-10T17:12:59.666Z - info: Building assets...

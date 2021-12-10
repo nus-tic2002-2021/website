@@ -1,0 +1,104 @@
+2021-12-07T07:05:33.886Z - info: Website generation (lazy) started at 3:05:31 pm
+2021-12-07T07:05:39.335Z - info: Building assets...
+2021-12-07T07:05:44.745Z - info: Assets built
+2021-12-07T07:05:44.746Z - info: Generating landing page...
+2021-12-07T07:05:45.950Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-12-07T07:05:47.341Z - info: Site data built
+2021-12-07T07:05:47.341Z - info: Website generation (lazy) complete! Total build time: 15.481s
+2021-12-07T07:05:48.231Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-12-07T07:05:48.231Z - info: Press CTRL+C to stop ...
+2021-12-07T07:06:55.000Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\admin\index as some of its dependencies were changed since the last visit
+2021-12-07T07:06:57.456Z - info: Site data built
+2021-12-07T07:06:57.456Z - info: Lazy website regeneration complete! Total build time: 2.458s
+2021-12-07T07:09:58.472Z - info: [3:09:58 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-12-07T07:09:58.473Z - info: Synchronizing opened pages list before reload
+2021-12-07T07:09:58.474Z - info: Current opened pages, from most-to-least recent:
+2021-12-07T07:09:58.474Z - info: 1. admin/index
+2021-12-07T07:09:59.488Z - info: Rebuilding 1 pages
+2021-12-07T07:10:01.042Z - info: Site data built
+2021-12-07T07:10:01.042Z - info: Pages rebuilt
+2021-12-07T07:10:01.042Z - info: Website regeneration complete! Total build time: 1.556s
+2021-12-07T07:10:12.276Z - info: [3:10:12 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-12-07T07:10:12.277Z - info: Synchronizing opened pages list before reload
+2021-12-07T07:10:12.277Z - info: Current opened pages, from most-to-least recent:
+2021-12-07T07:10:12.277Z - info: 1. admin/index
+2021-12-07T07:10:13.296Z - info: Rebuilding 1 pages
+2021-12-07T07:10:14.463Z - info: Site data built
+2021-12-07T07:10:14.463Z - info: Pages rebuilt
+2021-12-07T07:10:14.463Z - info: Website regeneration complete! Total build time: 1.169s
+2021-12-07T07:10:25.702Z - info: [3:10:25 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\admin\index-tic2002.mbdf
+2021-12-07T07:10:25.703Z - info: Synchronizing opened pages list before reload
+2021-12-07T07:10:25.703Z - info: Current opened pages, from most-to-least recent:
+2021-12-07T07:10:25.703Z - info: 1. admin/index
+2021-12-07T07:10:26.716Z - info: Rebuilding 1 pages
+2021-12-07T07:10:28.132Z - info: Site data built
+2021-12-07T07:10:28.132Z - info: Pages rebuilt
+2021-12-07T07:10:28.133Z - info: Website regeneration complete! Total build time: 1.419s
+2021-12-07T07:11:07.830Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\se-book-adapted\projectDuke\index as some of its dependencies were changed since the last visit
+2021-12-07T07:11:08.757Z - info: Site data built
+2021-12-07T07:11:08.757Z - info: Lazy website regeneration complete! Total build time: 0.928s
+2021-12-07T07:15:22.421Z - info: [3:15:22 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectDuke\text.md
+2021-12-07T07:15:22.421Z - info: Synchronizing opened pages list before reload
+2021-12-07T07:15:22.421Z - info: Current opened pages, from most-to-least recent:
+2021-12-07T07:15:22.421Z - info: 1. se-book-adapted/projectDuke/index
+2021-12-07T07:15:23.425Z - info: Rebuilding 1 pages
+2021-12-07T07:15:24.007Z - info: Site data built
+2021-12-07T07:15:24.007Z - info: Pages rebuilt
+2021-12-07T07:15:24.007Z - info: Website regeneration complete! Total build time: 0.583s
+2021-12-07T07:17:39.578Z - info: Website generation (lazy) started at 3:17:37 pm
+2021-12-07T07:17:44.565Z - info: Building assets...
+2021-12-07T07:17:48.936Z - info: Assets built
+2021-12-07T07:17:48.936Z - info: Generating landing page...
+2021-12-07T07:17:50.941Z - info: Landing page built, other pages will be built as you navigate to them!
+2021-12-07T07:17:51.812Z - info: Site data built
+2021-12-07T07:17:51.812Z - info: Website generation (lazy) complete! Total build time: 14.145s
+2021-12-07T07:17:52.681Z - info: Serving "C:\repos\nus-cs2103\cs2103-website-base\_site" at http://127.0.0.1:8080
+2021-12-07T07:17:52.681Z - info: Press CTRL+C to stop ...
+2021-12-07T07:18:20.008Z - info: Building C:\repos\nus-cs2103\cs2103-website-base\programming\chapters\monty as some of its dependencies were changed since the last visit
+2021-12-07T07:18:20.684Z - info: Site data built
+2021-12-07T07:18:20.685Z - info: Lazy website regeneration complete! Total build time: 0.677s
+2021-12-07T07:20:51.461Z - info: [3:20:51 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\monty\monty.mbdf
+2021-12-07T07:20:51.461Z - info: Synchronizing opened pages list before reload
+2021-12-07T07:20:51.462Z - info: Current opened pages, from most-to-least recent:
+2021-12-07T07:20:51.462Z - info: 1. programming/chapters/monty
+2021-12-07T07:20:52.467Z - info: Rebuilding 1 pages
+2021-12-07T07:20:53.088Z - info: Site data built
+2021-12-07T07:20:53.088Z - info: Pages rebuilt
+2021-12-07T07:20:53.088Z - info: Website regeneration complete! Total build time: 0.623s
+2021-12-07T07:21:57.382Z - info: [3:21:57 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\monty\monty.mbdf
+2021-12-07T07:21:57.382Z - info: Synchronizing opened pages list before reload
+2021-12-07T07:21:57.382Z - info: Current opened pages, from most-to-least recent:
+2021-12-07T07:21:57.382Z - info: 1. programming/chapters/monty
+2021-12-07T07:21:58.390Z - info: Rebuilding 1 pages
+2021-12-07T07:21:58.912Z - info: Site data built
+2021-12-07T07:21:58.912Z - info: Pages rebuilt
+2021-12-07T07:21:58.913Z - info: Website regeneration complete! Total build time: 0.523s
+2021-12-07T07:22:10.960Z - info: [3:22:10 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\monty\monty.mbdf
+2021-12-07T07:22:10.960Z - info: Synchronizing opened pages list before reload
+2021-12-07T07:22:10.961Z - info: Current opened pages, from most-to-least recent:
+2021-12-07T07:22:10.961Z - info: 1. programming/chapters/monty
+2021-12-07T07:22:11.965Z - info: Rebuilding 1 pages
+2021-12-07T07:22:12.534Z - info: Site data built
+2021-12-07T07:22:12.535Z - info: Pages rebuilt
+2021-12-07T07:22:12.535Z - info: Website regeneration complete! Total build time: 0.57s
+2021-12-07T07:22:38.692Z - info: [3:22:38 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\monty\monty.mbdf
+2021-12-07T07:22:38.693Z - info: Synchronizing opened pages list before reload
+2021-12-07T07:22:38.693Z - info: Current opened pages, from most-to-least recent:
+2021-12-07T07:22:38.693Z - info: 1. programming/chapters/monty
+2021-12-07T07:22:39.700Z - info: Rebuilding 1 pages
+2021-12-07T07:22:40.088Z - info: Site data built
+2021-12-07T07:22:40.088Z - info: Pages rebuilt
+2021-12-07T07:22:40.088Z - info: Website regeneration complete! Total build time: 0.389s
+2021-12-07T07:23:15.011Z - info: [3:23:15 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\programming\monty\monty.mbdf
+2021-12-07T07:23:15.012Z - info: Synchronizing opened pages list before reload
+2021-12-07T07:23:15.012Z - info: Current opened pages, from most-to-least recent:
+2021-12-07T07:23:15.012Z - info: 1. programming/chapters/monty
+2021-12-07T07:23:16.022Z - info: Rebuilding 1 pages
+2021-12-07T07:23:16.584Z - info: Site data built
+2021-12-07T07:23:16.584Z - info: Pages rebuilt
+2021-12-07T07:23:16.585Z - info: Website regeneration complete! Total build time: 0.564s
+2021-12-07T07:24:00.468Z - info: [3:24:00 pm] Reload for file change: C:\repos\nus-cs2103\cs2103-website-base\book\projectDuke\text.md
+2021-12-07T07:24:00.468Z - info: Synchronizing opened pages list before reload
+2021-12-07T07:24:00.468Z - info: Current opened pages, from most-to-least recent:
+2021-12-07T07:24:00.469Z - info: 1. programming/chapters/monty
+2021-12-07T07:24:01.475Z - info: Assets built
